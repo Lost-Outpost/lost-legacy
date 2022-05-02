@@ -34,7 +34,7 @@ When enabling any optional tweaks, make sure they are always loaded BEFORE reali
 
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
-![Widescreen](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/widescreen.png)
+![Widescreen](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/widescreen.png)
 
 Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
 
@@ -72,11 +72,11 @@ To change ENB & Reshade presets, do the following:
 - Run ENB Organizer from the exe list in the top right of MO2
 - If the program warns about not being able to check for updates, simply click ok and ignore it
 
-![Exe List](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/exe_menu.png)
+![Exe List](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/exe_menu.png)
 
 - Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset. Mixing presets (including mixing ENB and Reshade presets) will not work.
 
-![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/enb_enable.png)
+![Enb Organizer](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/enb_enable.png)
 
 - Very low spec users may want to switch to Cathedral Reshade instead of ENB for extra performance
 
@@ -102,7 +102,7 @@ Thanks to Lost Legacy community helper Curly for making [this video](https://www
 - Activate the performance grass and dyndolod mods under Lost Legacy - Performance Mode
 - Copy the files from one of the presets in Lost Legacy/Performance Options to the profile you're using and overwrite (Lost Legacy/profiles/Lost Legacy [- Anniversary Edition])
 
-![Perf Options](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/perf_options.png)
-![Perf Options 2](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/perf_options2.png)
-![Perf Options 3](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/perf_options3.png)
+![Perf Options](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options.png)
+![Perf Options 2](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options2.png)
+![Perf Options 3](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options3.png)
 - Double click on `SSE Display Tweaks - Lost Legacy Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line

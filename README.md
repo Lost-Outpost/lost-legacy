@@ -168,7 +168,6 @@ Updating is like installing. You only have to make sure that you select the same
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
 - If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#widescreen)
-- Make sure you have done the [post-install steps for creation club content](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#creation-club-setup)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Gameplay Guide
