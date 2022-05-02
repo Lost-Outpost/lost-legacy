@@ -42,11 +42,7 @@
 
 # Introduction
 
-"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Lost Legacy Signus
-
-Lost Legacy is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
-
-Lost Legacy works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
+Lost Legacy is a modlist.
 
 ### Minimum Specs
 LOL this needs updating :D
