@@ -167,8 +167,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
-- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#widescreen)
-- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#enb-presets) page
+- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
+- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Gameplay Guide
 My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
