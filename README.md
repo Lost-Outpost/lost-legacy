@@ -79,7 +79,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 Please ensure you have .NET v5.0 installed. The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
-![Dot Net](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/microsoft-net-5-0-installation.png)
+![Dot Net](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/microsoft-net-5-0-installation.png)
 
 ### Steam Library
 
@@ -120,13 +120,12 @@ The download and installation process can take a little while (an hour or more) 
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
-7. Set up creation club content for anniversary edition profile with instructions [here](https://github.com/Guitarninja2/Lost Legacy/blob/main/CONFIGURATION.md#creation-club-setup)
 
 ### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-![Install Failed](https://raw.githubusercontent.com/Guitarninja2/Lost Legacy/main/images/installfailed.png)
+![Install Failed](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/installfailed.png)
 
 Seriously, simply retrying the Wabbajack download fixes most problems.
 
