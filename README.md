@@ -53,7 +53,7 @@ Lost Legacy seeks to modify Skyrim in the least intrusive way to keep what makes
 
 ### Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in the Lost Outpost Discord server's support channel.
 
 ### List Contents
 
