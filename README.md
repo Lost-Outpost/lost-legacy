@@ -61,7 +61,7 @@ Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr) server a
 
 ### List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/Lost Legacy) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/lostlegacy-prealpha) if you want to know exactly what you're getting.
 
 # Installation
 
