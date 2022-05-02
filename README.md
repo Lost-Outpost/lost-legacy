@@ -49,7 +49,7 @@ Lost Legacy is an extensive modlist full of carefully chosen new gear, spells, q
 Lost Legacy works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
 ### Minimum Specs
-Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
+LOL this needs updating :D
 
 ### Gameplay
 
