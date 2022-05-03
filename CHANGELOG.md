@@ -15,6 +15,23 @@
 
 # Changelog
 
-## Nope
+## 0.1.1
 
-Nope
+Added:
+- Business Ledger HD Retexture
+- Contextual Crosshair
+- ESO Style Cursor
+- Moonpath To Elsweyr Retexture SE
+- Sexier Vanilla - Guards
+- Wintersun - VR Patch (removes the Pick Your Deity popup on game start)
+
+Updated:
+- FYX - 3D Shack Kit Walls
+- Sprint Swimming
+
+Removed:
+- Guard Armor Reforged
+
+## 0.1.0
+
+Initial release
