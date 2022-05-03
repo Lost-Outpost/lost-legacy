@@ -18,10 +18,13 @@
 ## 0.1.1
 
 Added:
+- Bears of Power
 - Business Ledger HD Retexture
 - Combat Music Fix SKSE
 - Contextual Crosshair
-- ESO Style Cursor
+- CritterSpawn Congestion Fix
+- ESO Style Cursor (gray, small)
+- FYX - 3D Shack Kit Roofs
 - Moonpath To Elsweyr Retexture SE
 - Sexier Vanilla - Guards
 - Wintersun - VR Patch (removes the Pick Your Deity popup on game start)
