@@ -19,6 +19,7 @@
 
 Added:
 - Business Ledger HD Retexture
+- Combat Music Fix SKSE
 - Contextual Crosshair
 - ESO Style Cursor
 - Moonpath To Elsweyr Retexture SE
@@ -27,6 +28,8 @@ Added:
 
 Updated:
 - FYX - 3D Shack Kit Walls
+- Legacy of the Dragonborn Patches (Official)
+- Lux
 - Sprint Swimming
 
 Removed:
