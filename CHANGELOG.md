@@ -27,6 +27,7 @@ Added:
 - Wintersun - VR Patch (removes the Pick Your Deity popup on game start)
 
 Updated:
+- EVG Conditional Idles
 - FYX - 3D Shack Kit Walls
 - Legacy of the Dragonborn Patches (Official)
 - Lux
