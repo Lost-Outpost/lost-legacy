@@ -36,6 +36,9 @@ Updated:
 Removed:
 - Guard Armor Reforged
 
+Fixed:
+- Water missing in cell 938e near Dragon Bridge
+
 ## 0.1.0
 
 Initial release
