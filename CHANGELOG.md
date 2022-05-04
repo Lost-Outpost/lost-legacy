@@ -31,7 +31,7 @@ Added:
 
 Updated:
 - EVG Conditional Idles
-- FYX - 3D Shack Kit Walls
+- FYX - 3D Shack Kit Walls (Fixed crashes near some bandit camps)
 - Legacy of the Dragonborn Patches (Official)
 - Lux
 - Sprint Swimming
