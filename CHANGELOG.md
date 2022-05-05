@@ -41,6 +41,8 @@ Removed:
 
 Fixed:
 - Water missing in cell 938e near Dragon Bridge
+- Removed floating ice chunk near Anga's Mill
+- Fixed floating lantern in Solitude
 
 ## 0.1.0
 
