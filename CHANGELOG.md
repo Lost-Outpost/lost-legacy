@@ -27,6 +27,7 @@ Added:
 - ESO Style Cursor (gray, small)
 - Face Discoloration Fix
 - FYX - 3D Shack Kit Roofs
+- Golden Egg Treasure Hunt SSE
 - Lively Children Animations (DAR)
 - Moonpath To Elsweyr Retexture SE
 - Sexier Vanilla - Guards
@@ -35,6 +36,7 @@ Added:
 Updated:
 - EVG Conditional Idles
 - FYX - 3D Shack Kit Walls (Fixed crashes near shacks)
+- Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - Lux
 - Sprint Swimming
