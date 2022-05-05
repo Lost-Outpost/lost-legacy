@@ -23,8 +23,11 @@ Added:
 - Combat Music Fix SKSE
 - Contextual Crosshair
 - CritterSpawn Congestion Fix
+- Daedric Shrines - Hermaeus Mora
 - ESO Style Cursor (gray, small)
+- Face Discoloration Fix
 - FYX - 3D Shack Kit Roofs
+- Lively Children Animations (DAR)
 - Moonpath To Elsweyr Retexture SE
 - Sexier Vanilla - Guards
 - Wintersun - VR Patch (removes the Pick Your Deity popup on game start)
