@@ -39,6 +39,7 @@ Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - Lux
+- Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Sprint Swimming
 
 Removed:
