@@ -18,7 +18,7 @@
 ## 0.2.0
 
 Added:
-- Bears of Power
+- Beards of Power
 - Business Ledger HD Retexture
 - Combat Music Fix SKSE
 - Contextual Crosshair
