@@ -15,6 +15,11 @@
 
 # Changelog
 
+## 0.3.0
+
+Removed:
+- Project ja-Kha'jay- Khajiit Diversity Overhaul
+
 ## 0.2.0
 
 Added:
