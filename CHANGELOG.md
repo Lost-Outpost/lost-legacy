@@ -15,12 +15,23 @@
 
 # Changelog
 
-## 0.3.0
+## 0.3.0 Alpha - InProgress
+
+Added:
+- Allow Dialogue Progress Bugfix
+- Eastern Dwemer Towers of Solstheim
+- FYX - Fortified Whiterun Consistency
+- Golden Egg Treasure Hunt
+- JS Dwemer Artifacts
+- Missing in Action Delayed
+- Missives - Bigger Trigger Box
 
 Removed:
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
+- Slightly Darker Noise for ENB
 
-## 0.2.0
+
+## 0.2.0 Alpha - Released 2022/05/07
 
 Added:
 - Beards of Power
@@ -32,7 +43,6 @@ Added:
 - ESO Style Cursor (gray, small)
 - Face Discoloration Fix
 - FYX - 3D Shack Kit Roofs
-- Golden Egg Treasure Hunt SSE
 - Lively Children Animations (DAR)
 - Moonpath To Elsweyr Retexture SE
 - Sexier Vanilla - Guards
@@ -55,6 +65,6 @@ Fixed:
 - Removed floating ice chunk near Anga's Mill
 - Fixed floating lantern in Solitude
 
-## 0.1.0
+## 0.1.0 Alpha - Released 2022/04/30
 
 Initial release
