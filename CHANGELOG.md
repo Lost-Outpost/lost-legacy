@@ -19,7 +19,7 @@
 
 Added:
 - Allow Dialogue Progress Bugfix
-- Eastern Dwemer Towers of Solstheim
+- Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt
 - JS Dwemer Artifacts
