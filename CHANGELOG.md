@@ -26,6 +26,10 @@ Added:
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
 
+Updated:
+- Legacy of the Dragonborn - Hall of Forgotten
+- LOTD Hall of Forgotten TCC Patches
+
 Removed:
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Slightly Darker Noise for ENB
