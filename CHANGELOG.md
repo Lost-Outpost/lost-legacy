@@ -32,6 +32,8 @@ Updated:
 - LOTD Hall of Forgotten TCC Patches
 
 Removed:
+- Cathedral - 3D Mountain Flowers
+- Cathedral 3D Mountain Flowers - Base Object Swapper
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Slightly Darker Noise for ENB
 
