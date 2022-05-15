@@ -25,6 +25,7 @@ Added:
 - JS Dwemer Artifacts
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
+- Wyrmstooth Suleyk Retexture SE
 
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
