@@ -19,23 +19,35 @@
 
 Added:
 - Allow Dialogue Progress Bugfix
+- Cathedral - 3D Tundra Cotton
 - Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt
 - JS Dwemer Artifacts
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
+- Weapon Armor Attribute Tweaks
 - Wyrmstooth Suleyk Retexture SE
 
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - LOTD Hall of Forgotten TCC Patches
+- Praedy's Staves AIO Patch Hub
 
 Removed:
+- Animated Armoury - Enchantments (WACCF Version)
+- Animated Armoury - WACCF Patch
 - Cathedral - 3D Mountain Flowers
 - Cathedral 3D Mountain Flowers - Base Object Swapper
+- Immersive Armors __ WACCF
+- ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch
+- MLU - WACCF
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Slightly Darker Noise for ENB
+- Summermyst - WACCF Patch
+- Summermyst Bugfixes for WACCF
+- WACCF 4K Textures
+- Weapons Armor Clothing and Clutter Fixes
 
 Fixes/Tweaks:
 - Fixed/removed some clipping trees
