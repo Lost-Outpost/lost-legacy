@@ -42,22 +42,26 @@
 
 # Introduction
 
-Lost Legacy is a modlist.
+Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full enai + vokriinator), pretty graphics, and optional survival mechanics!
 
 ### Minimum Specs
-LOL this needs updating :D
+This needs testing on more systems, but on my system I typically get 45-60fps in most areas of the game, and some dense areas like Riften I may drop down to 35-45. Performance options for the modlist are being worked on.
+My specs:
+GTX 1080
+Intel i7-8700k
+32 GB DDR4 3200 RAM
 
 ### Gameplay
 
-Lost Legacy seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+Lost Legacy changes the gameplay pretty heavily! It includes the full EnaiRim suite (Vokriinator is the perk mod, which combines Vokrii and Ordinator for HUGE perk trees). There are enhanced combat mechanics including adding the ability to dodge, and even some extra fun things like a paraglider for you to soar across the landscape! You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ### Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in the Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in the Lost Outpost Discord server's support channel.
 
 ### List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/lostlegacy-prealpha) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/lostlegacy) if you want to know exactly what you're getting.
 
 # Installation
 
@@ -171,7 +175,7 @@ My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get y
 
 # Configuration
 
-If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
+If you wish to further customize by changing the ENB preset, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
 # Issues
 
@@ -179,4 +183,4 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Lost Legacy Github](https://github.com/Lost-Outpost/lost-legacy/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Lost Legacy Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr).
+Finally, free feel to hop on the Lost Legacy Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
