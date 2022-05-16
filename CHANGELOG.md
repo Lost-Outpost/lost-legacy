@@ -31,6 +31,7 @@ Added:
 
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
+- Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
 - Praedy's Staves AIO Patch Hub
 
@@ -41,6 +42,8 @@ Removed:
 - Cathedral 3D Mountain Flowers - Base Object Swapper
 - Immersive Armors __ WACCF
 - ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch
+- LOTD Hall of Forgotten - Regal Paladin TCC Patch
+- LOTD Hall of Forgotten - Relics of Hyrule TCC Patch
 - MLU - WACCF
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Slightly Darker Noise for ENB
