@@ -51,6 +51,8 @@ Removed:
 
 Fixes/Tweaks:
 - Fixed/removed some clipping trees
+- Reran Synthesis
+- Made lots of custom patches
 
 
 ## 0.2.0 Alpha - Released 2022/05/07
