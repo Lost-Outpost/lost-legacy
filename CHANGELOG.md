@@ -48,6 +48,7 @@ Removed:
 - LOTD Hall of Forgotten - Relics of Hyrule TCC Patch
 - MLU - WACCF
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
+- Rigmor of Bruma - Please be quiet (Seemed to break Rose so the quest would not start)
 - Slightly Darker Noise for ENB
 - Summermyst - WACCF Patch
 - Summermyst Bugfixes for WACCF
@@ -55,9 +56,10 @@ Removed:
 - Weapons Armor Clothing and Clutter Fixes
 
 Fixes/Tweaks:
+- Moved dyndolod outputs to CDN, greatly reducing the size of the .wabbajack file
 - Fixed/removed some clipping trees
-- Reran Synthesis
 - Made lots of custom patches
+- Reran Synthesis
 
 
 ## 0.2.0 Alpha - Released 2022/05/07
