@@ -12,7 +12,7 @@
 
 ---
 
-**Modlist Download: [Lost Legacy.wabbajack](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/)**
+**Modlist Download: (ALPHA) [Lost Legacy.wabbajack](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
@@ -46,6 +46,8 @@
 
 # Introduction
 
+**Note: Lost Legacy is currently in Alpha Testing phase. It is fully installable and playable, but there may be bugs.**
+
 Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full EnaiRim + vokriinator), pretty graphics, and optional survival mechanics!
 
 ### Minimum Specs
@@ -57,7 +59,7 @@ Intel i7-8700k
 
 ### Gameplay
 
-Lost Legacy changes the gameplay pretty heavily! It includes the full EnaiRim suite (Vokriinator is the perk mod, which combines Vokrii and Ordinator for HUGE perk trees). There are enhanced combat mechanics including adding the ability to dodge, and even some extra fun things like a paraglider for you to soar across the landscape! You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+Lost Legacy changes Skyrim's gameplay quite heavily. It includes the full EnaiRim suite (Vokriinator is the perk mod, which combines Vokrii and Ordinator for HUGE perk trees). There are enhanced combat mechanics including adding the ability to dodge, and even some extra fun things like a paraglider for you to soar across the landscape! You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page (in progress).
 
 ### Community
 
@@ -120,7 +122,7 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Lost Legacy` from [here](ttps://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/) and run the file
+3. Download the latest release of `Lost Legacy` from [here](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/) and run the file
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -172,7 +174,7 @@ Updating is like installing. You only have to make sure that you select the same
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
 - (Not set up yet) If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
-- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page
+- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page. The default ENB is a modified Pi-Cho.
 
 # Gameplay Guide
 This section is under construction: [gameplay guide](GAMEPLAY.md)
