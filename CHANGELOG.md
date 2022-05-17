@@ -31,6 +31,7 @@ Added:
 - Wyrmstooth Suleyk Retexture SE
 
 Updated:
+- Animated Armoury - Fixes
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
