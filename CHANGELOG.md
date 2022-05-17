@@ -34,6 +34,7 @@ Updated:
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
 - Praedy's Staves AIO Patch Hub
+- The Wheels of Lull SE
 
 Removed:
 - Animated Armoury - Enchantments (WACCF Version)
