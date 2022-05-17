@@ -20,6 +20,8 @@
 Added:
 - [NoDelete] Character Presets (I'll include community character presets here eventually)
 - Allow Dialogue Progress Bugfix
+- Apachii Divine Elegance Store (Removed the store)
+- Apachii Divine Elegance Outfits For NPCs (SPID)
 - Cathedral - 3D Tundra Cotton
 - Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
 - FYX - Fortified Whiterun Consistency
