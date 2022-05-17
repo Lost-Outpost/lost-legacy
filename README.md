@@ -12,6 +12,10 @@
 
 ---
 
+**Modlist Download: [Lost Legacy.wabbajack](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/)**
+
+**Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
+
 # Installation
 
 - [Installation](#installation)
