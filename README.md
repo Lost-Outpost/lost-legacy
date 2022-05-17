@@ -120,7 +120,7 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Lost Legacy` from the Wabbajack Browse Modlists page
+3. Download the latest release of `Lost Legacy` from [here](ttps://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/) and run the file
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -171,11 +171,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
-- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
+- (Not set up yet) If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Gameplay Guide
-My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
+This section is under construction: [gameplay guide](GAMEPLAY.md)
 
 # Configuration
 
