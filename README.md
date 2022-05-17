@@ -46,10 +46,7 @@
 
 # Introduction
 
-
-**Note: Lost Legacy is currently in Alpha Testing phase. It is fully installable and playable, but there may be bugs.**
-
-
+**--Note: Lost Legacy is currently in Alpha Testing phase. It is fully installable and playable, but there may be bugs--**
 
 Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full EnaiRim + vokriinator), pretty graphics, and optional survival mechanics!
 
