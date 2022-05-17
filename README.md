@@ -51,7 +51,7 @@
 Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full EnaiRim + vokriinator), pretty graphics, and optional survival mechanics!
 
 ### Minimum Specs
-This needs testing on more systems, but on my system I typically get 45-60fps in most areas of the game, and some dense areas like Riften I may drop down to 35-45. Performance options for the modlist are being worked on.
+This needs testing on more systems, but on my system I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are being worked on.
 My specs:
 - GTX 1080
 - Intel i7-8700k
