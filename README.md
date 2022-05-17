@@ -53,9 +53,9 @@ Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new land
 ### Minimum Specs
 This needs testing on more systems, but on my system I typically get 45-60fps in most areas of the game, and some dense areas like Riften I may drop down to 35-45. Performance options for the modlist are being worked on.
 My specs:
-GTX 1080
-Intel i7-8700k
-32 GB DDR4 3200 RAM
+- GTX 1080
+- Intel i7-8700k
+- 32 GB DDR4 3200 RAM
 
 ### Gameplay
 
