@@ -60,7 +60,7 @@ My specs:
 
 ### Gameplay
 
-Lost Legacy changes Skyrim's gameplay quite heavily. It includes the full EnaiRim suite (Vokriinator is the perk mod, which combines Vokrii and Ordinator for HUGE perk trees). There are enhanced combat mechanics including adding the ability to dodge, and even some extra fun things like a paraglider for you to soar across the landscape! You can find a summary of all changes on the (in progress) [Gameplay Changes](GAMEPLAY.md) page.
+Lost Legacy changes Skyrim's gameplay quite heavily. It includes the full EnaiRim suite (Vokriinator is the perk mod, which combines Vokrii and Ordinator for HUGE perk trees). There are enhanced combat mechanics including adding the ability to dodge, and even some extra fun things like a paraglider for you to soar across the landscape! You can find a summary of all changes on the (under construction) [Gameplay Changes](GAMEPLAY.md) page.
 
 ### Community
 
