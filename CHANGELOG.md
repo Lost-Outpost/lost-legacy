@@ -31,6 +31,7 @@ Added:
 - JS Dwemer Artifacts
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
+- Sufficiently Optimized Snowberries 3D
 - Weapon Armor Attribute Tweaks
 - Wyrmstooth Suleyk Retexture SE
 
