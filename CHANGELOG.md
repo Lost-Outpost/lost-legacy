@@ -26,6 +26,7 @@ Added:
 - Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt (More museum displays!)
+- JS Common Cages SE
 - JS Dwemer Artifacts
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
@@ -48,6 +49,7 @@ Updated:
 Removed:
 - Animated Armoury - Enchantments (WACCF Version)
 - Animated Armoury - WACCF Patch
+- Better cage and prisonerstuff SE
 - Cathedral - 3D Mountain Flowers
 - Cathedral 3D Mountain Flowers - Base Object Swapper
 - Immersive Armors __ WACCF
