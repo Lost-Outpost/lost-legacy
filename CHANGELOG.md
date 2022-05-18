@@ -40,6 +40,7 @@ Updated:
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
 - Praedy's Staves AIO Patch Hub
+- Reliquary of Myth - Artifact Overhaul
 - Soul Cairn Paper Map for FWMF
 - The Wheels of Lull SE
 
