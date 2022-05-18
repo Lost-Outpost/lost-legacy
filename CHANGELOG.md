@@ -33,6 +33,7 @@ Added:
 - Wyrmstooth Suleyk Retexture SE
 
 Updated:
+- AI Overhaul SSE
 - Animated Armoury - Fixes
 - Audio Overhaul Skyrim - Immersive Sounds Compendium Integration
 - Bent Pines II
