@@ -24,6 +24,7 @@ Added:
 - Apachii Divine Elegance Outfits For NPCs (SPID)
 - Cathedral - 3D Tundra Cotton
 - Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
+- FYX - 3D Solitude SighPost
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt (More museum displays!)
 - JS Common Cages SE
