@@ -25,7 +25,7 @@ Added:
 - Cathedral - 3D Tundra Cotton
 - Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
 - FYX - Fortified Whiterun Consistency
-- Golden Egg Treasure Hunt
+- Golden Egg Treasure Hunt (More museum displays!)
 - JS Dwemer Artifacts
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
