@@ -44,6 +44,7 @@ Updated:
 - Praedy's Staves AIO Patch Hub
 - Reliquary of Myth - Artifact Overhaul
 - Soul Cairn Paper Map for FWMF
+- SunHelm Survival and needs
 - The Wheels of Lull SE
 
 Removed:
