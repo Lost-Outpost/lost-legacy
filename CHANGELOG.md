@@ -43,6 +43,7 @@ Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
+- Paarthurnax - Quest Expansion
 - Praedy's Staves AIO Patch Hub
 - Reliquary of Myth - Artifact Overhaul
 - Soul Cairn Paper Map for FWMF
