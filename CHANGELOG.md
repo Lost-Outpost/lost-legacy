@@ -27,6 +27,7 @@ Added:
 - FYX - 3D Solitude SighPost
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt (More museum displays!)
+- Immersive Rejections
 - JS Common Cages SE
 - JS Dwemer Artifacts
 - Missing in Action Delayed
@@ -44,6 +45,7 @@ Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
+- NPCs Wear Amulets of Mara PLUS
 - Paarthurnax - Quest Expansion
 - Praedy's Staves AIO Patch Hub
 - Reliquary of Myth - Artifact Overhaul
@@ -74,8 +76,9 @@ Removed:
 Fixes/Tweaks:
 - Moved dyndolod outputs to CDN, greatly reducing the size of the .wabbajack file
 - Fixed/removed some clipping trees
-- Made lots of custom patches
+- Grass tweaks
 - Removed floating gun and ammo in Windhelm Palace
+- Made lots of custom patches
 - Reran Synthesis
 
 
