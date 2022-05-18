@@ -47,6 +47,7 @@ Updated:
 - Soul Cairn Paper Map for FWMF
 - SunHelm Survival and needs
 - The Wheels of Lull SE
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
 - Animated Armoury - Enchantments (WACCF Version)
