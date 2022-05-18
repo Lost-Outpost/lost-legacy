@@ -65,6 +65,7 @@ Fixes/Tweaks:
 - Moved dyndolod outputs to CDN, greatly reducing the size of the .wabbajack file
 - Fixed/removed some clipping trees
 - Made lots of custom patches
+- Removed floating gun and ammo in Windhelm Palace
 - Reran Synthesis
 
 
