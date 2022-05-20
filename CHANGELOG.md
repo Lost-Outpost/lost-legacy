@@ -41,6 +41,7 @@ Updated:
 - Audio Overhaul Skyrim - Immersive Sounds Compendium Integration
 - Bent Pines II
 - Convenient Carriages
+- Enhanced Volumetric Lighting and Shadows (EVLaS)
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
