@@ -19,6 +19,7 @@
 
 Added:
 - [NoDelete] Character Presets (I'll include community character presets here eventually)
+- PERFORMANCE MODE OPTIONS - Enhanced Vanilla Trees and Verdant Grass + Dyndolod
 - Allow Dialogue Progress Bugfix
 - Apachii Divine Elegance Store (Removed the store)
 - Apachii Divine Elegance Outfits For NPCs (SPID)
@@ -81,6 +82,7 @@ Fixes/Tweaks:
 - Removed floating gun and ammo in Windhelm Palace
 - Made lots of custom patches
 - Reran Synthesis
+- Reran Dyndolod
 
 
 ## 0.2.0 Alpha - Released 2022/05/07
