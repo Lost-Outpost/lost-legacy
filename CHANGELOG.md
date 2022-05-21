@@ -29,8 +29,10 @@ Added:
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt (More museum displays!)
 - Immersive Rejections
+- JK's Sinderion's Field Laboratory
 - JS Common Cages SE
 - JS Dwemer Artifacts
+- Lux - JK's Sinderion Lab patch
 - Missing in Action Delayed
 - Missives - Bigger Trigger Box
 - Sufficiently Optimized Snowberries 3D
@@ -44,6 +46,7 @@ Updated:
 - Bent Pines II
 - Convenient Carriages
 - Enhanced Volumetric Lighting and Shadows (EVLaS)
+- JK's Interiors Patch Collection
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Patches (Official)
 - LOTD Hall of Forgotten TCC Patches
