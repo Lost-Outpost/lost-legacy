@@ -19,8 +19,8 @@
 New Save Required
 
 Added:
-- PERFORMANCE MODE (Massive FPS boost, completely different grass and trees, requires new save)
-- New ENB Option - PERFORMANCE Cathedralist Fantasy
+- PERFORMANCE MODE (Massive FPS boost, completely different grass and trees)
+- New ENB Option - PERFORMANCE Cathedralist Fantasy (Big FPS boost)
 - Allow Dialogue Progress Bugfix
 - Apachii Divine Elegance Store (Removed the store)
 - Apachii Divine Elegance Outfits For NPCs (SPID)
@@ -83,8 +83,9 @@ Removed:
 Fixes/Tweaks:
 - Moved dyndolod outputs to CDN, greatly reducing the size of the .wabbajack file
 - Fixed/removed some clipping trees
-- Grass tweaks
 - Removed floating gun and ammo in Windhelm Palace
+- Grass tweaks
+- ENB tweaks
 - Made lots of custom patches
 - Reran Synthesis
 - Reran Dyndolod
