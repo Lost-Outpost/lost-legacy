@@ -16,10 +16,11 @@
 # Changelog
 
 ## 0.3.0 Alpha - InProgress
+New Save Required
 
 Added:
-- [NoDelete] Character Presets (I'll include community character presets here eventually)
-- PERFORMANCE MODE OPTIONS - Enhanced Vanilla Trees and Verdant Grass + Dyndolod
+- PERFORMANCE MODE (Massive FPS boost, completely different grass and trees, requires new save)
+- New ENB Option - PERFORMANCE Cathedralist Fantasy
 - Allow Dialogue Progress Bugfix
 - Apachii Divine Elegance Store (Removed the store)
 - Apachii Divine Elegance Outfits For NPCs (SPID)
@@ -38,6 +39,7 @@ Added:
 - Sufficiently Optimized Snowberries 3D
 - Weapon Armor Attribute Tweaks
 - Wyrmstooth Suleyk Retexture SE
+- [NoDelete] Character Presets (I'll include community character presets here eventually)
 
 Updated:
 - AI Overhaul SSE
