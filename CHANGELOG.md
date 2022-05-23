@@ -15,7 +15,15 @@
 
 # Changelog
 
-## 0.3.0 Alpha - InProgress
+## 0.3.1 Alpha - In-Progress
+
+Added:
+- Daedric Shrines - Vaermina
+
+Updated:
+- More Informative Console
+
+## 0.3.0 Alpha - Released 2022/05/22
 New Save Required
 
 Added:
@@ -69,8 +77,6 @@ Removed:
 - Cathedral 3D Mountain Flowers - Base Object Swapper
 - Immersive Armors __ WACCF
 - ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch
-- LOTD Hall of Forgotten - Regal Paladin TCC Patch
-- LOTD Hall of Forgotten - Relics of Hyrule TCC Patch
 - MLU - WACCF
 - Project ja-Kha'jay- Khajiit Diversity Overhaul
 - Rigmor of Bruma - Please be quiet (Seemed to break Rose so the quest would not start)
