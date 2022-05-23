@@ -132,8 +132,6 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-![Install Failed](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/installfailed.png)
-
 Seriously, simply retrying the Wabbajack download fixes most problems.
 
 **Could not download x**:
