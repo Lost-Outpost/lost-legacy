@@ -12,7 +12,7 @@
 
 ---
 
-**Modlist Download: (ALPHA) [Lost Legacy.wabbajack](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/)**
+**Modlist Download: (ALPHA) [Lost Legacy.wabbajack](https://github.com/Lost-Outpost/lost-legacy/releases/)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
@@ -123,7 +123,7 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Lost Legacy` from [here](https://drive.google.com/file/d/1kReegTnfIjIKcdfhn_H-cIy3iI55dbOs/) and run the file
+3. Download the latest release of `Lost Legacy` from [here](https://github.com/Lost-Outpost/lost-legacy/releases/) and run the file
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
