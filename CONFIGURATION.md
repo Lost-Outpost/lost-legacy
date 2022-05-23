@@ -34,7 +34,7 @@ When enabling any optional tweaks, make sure they are always loaded BEFORE reali
 
 **(Not yet implemented)** I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
-![Widescreen](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/widescreen.png)
+
 
 Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
 
