@@ -72,11 +72,9 @@ To change ENB presets, do the following:
 - Run ENB Organizer from the exe list in the top right of MO2
 - If the program warns about not being able to check for updates, simply click ok and ignore it
 
-![Exe List](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/exe_menu.png)
 
 - Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset. Mixing presets (including mixing ENB and Reshade presets) will not work. The default ENB preset for the list is "MAIN - Pi-Cho Ultra".
 
-![Enb Organizer](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/enb_enable.png)
 
 To install a new ENB, do the following:
 
