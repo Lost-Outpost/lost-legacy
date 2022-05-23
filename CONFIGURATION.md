@@ -93,7 +93,8 @@ Thanks to Lost Legacy community helper Curly for making [this video](https://www
 ## Performance Guide
 
 (In-progress)
-- Try switching ENB to the "Pi-Cho - Performance" preset (instructions above)
+- Enable the three Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
+- Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
 - Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` to the profile you're using and overwrite `Lost Legacy\profiles\Lost Legacy`
 
 ![Perf Options](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options.png)
