@@ -95,7 +95,4 @@ Thanks to Lost Legacy community helper Curly for making [this video](https://www
 - Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
 - Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` to the profile you're using and overwrite `Lost Legacy\profiles\Lost Legacy`
 
-![Perf Options](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options.png)
-![Perf Options 2](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options2.png)
-![Perf Options 3](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/perf_options3.png)
 
