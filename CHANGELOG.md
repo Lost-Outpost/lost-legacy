@@ -25,7 +25,7 @@ Added:
 - Apachii Divine Elegance Store (Removed the store)
 - Apachii Divine Elegance Outfits For NPCs (SPID)
 - CLOUDS
-- Eastern Dwemer Towers of Solstheim (haven't re-ran LODs so you won't see them at a distance yet)
+- Eastern Dwemer Towers of Solstheim
 - FYX - 3D Solitude SighPost
 - FYX - Fortified Whiterun Consistency
 - Golden Egg Treasure Hunt (More museum displays!)
