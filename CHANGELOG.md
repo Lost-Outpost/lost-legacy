@@ -19,7 +19,7 @@
 
 Added:
 - C.O.I.N. - Coins of Interesting Natures
-- Daedric Shrines - Vaermina (Existing saves might make the shrine look off)
+- Daedric Shrines - Vaermina (Shrine might look weird on existing saves)
 - Equipment Toggle 2
 - I'm Glad You're Here - a follower and spouse appreciation mod - SSE
 - Kala's Eyes
@@ -30,7 +30,7 @@ Added:
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Unofficial Unslaad Patch
-- Lucifer - Argonian Custom Voiced Follower
+- Lucifer - Argonian Custom Voiced Follower (Should fix CTDs)
 - More Informative Console
 
 ## 0.3.0 Alpha - Released 2022/05/22
