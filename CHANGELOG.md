@@ -18,6 +18,7 @@
 ## 0.3.1 Alpha - In-Progress
 
 Added:
+- C.O.I.N. - Coins of Interesting Natures
 - Daedric Shrines - Vaermina (Existing saves might make the shrine look off)
 - Equipment Toggle 2
 - I'm Glad You're Here - a follower and spouse appreciation mod - SSE
