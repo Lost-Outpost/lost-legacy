@@ -19,6 +19,8 @@
 
 Added:
 - Daedric Shrines - Vaermina
+- Equipment Toggle 2
+- Unslaad Weapons and Armors Retexture SE
 
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
