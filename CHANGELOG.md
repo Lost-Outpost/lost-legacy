@@ -27,6 +27,7 @@ Added:
 Updated:
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Unofficial Unslaad Patch
+- Lucifer - Argonian Custom Voiced Follower
 - More Informative Console
 
 ## 0.3.0 Alpha - Released 2022/05/22
