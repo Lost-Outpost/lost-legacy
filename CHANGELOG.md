@@ -18,9 +18,10 @@
 ## 0.3.1 Alpha - In-Progress
 
 Added:
-- Daedric Shrines - Vaermina
+- Daedric Shrines - Vaermina (Existing saves might make the shrine look off)
 - Equipment Toggle 2
 - Kala's Eyes
+- Triumvirate - Warlock Summons Volume Down
 - Unslaad Weapons and Armors Retexture SE
 
 Updated:
