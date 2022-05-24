@@ -20,7 +20,9 @@
 Added:
 - Daedric Shrines - Vaermina (Existing saves might make the shrine look off)
 - Equipment Toggle 2
+- I'm Glad You're Here - a follower and spouse appreciation mod - SSE
 - Kala's Eyes
+- Pet The Dog - Animations
 - Triumvirate - Warlock Summons Volume Down
 - Unslaad Weapons and Armors Retexture SE
 
