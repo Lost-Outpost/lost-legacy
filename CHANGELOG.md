@@ -20,6 +20,7 @@
 Added:
 - Daedric Shrines - Vaermina
 - Equipment Toggle 2
+- Kala's Eyes
 - Unslaad Weapons and Armors Retexture SE
 
 Updated:
