@@ -21,6 +21,7 @@ Added:
 - Daedric Shrines - Vaermina
 
 Updated:
+- Legacy of the Dragonborn - Hall of Forgotten
 - More Informative Console
 
 ## 0.3.0 Alpha - Released 2022/05/22
