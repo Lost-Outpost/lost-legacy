@@ -45,6 +45,7 @@ Updated:
 Fixes/Tweaks:
 - ENB tweaks
 - More custom patches
+- Tweaked some MCMs
 
 ## 0.3.0 Alpha - Released 2022/05/22
 New Save Required
