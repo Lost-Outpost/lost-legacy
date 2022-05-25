@@ -24,9 +24,9 @@ Added:
 - Equipment Toggle 2
 - I'm Glad You're Here - a follower and spouse appreciation mod - SSE
 - JS Dwemer Puzzle Cube SE
-- Kala's Eyes
 - More Colorful Collectibles (More LotD displays)
 - Pet The Dog - Animations
+- The Eyes of Beauty SSE
 - Triumvirate - Warlock Summons Volume Down
 - Unslaad Weapons and Armors Retexture SE
 
