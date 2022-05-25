@@ -19,20 +19,32 @@
 
 Added:
 - C.O.I.N. - Coins of Interesting Natures
+- Collectible Dragonling Eggs (More LotD Displays)
 - Daedric Shrines - Vaermina (Shrine might look weird on existing saves)
 - Equipment Toggle 2
 - I'm Glad You're Here - a follower and spouse appreciation mod - SSE
 - JS Dwemer Puzzle Cube SE
 - Kala's Eyes
+- More Colorful Collectibles (More LotD displays)
 - Pet The Dog - Animations
 - Triumvirate - Warlock Summons Volume Down
 - Unslaad Weapons and Armors Retexture SE
 
 Updated:
+- FYX - 3D Shack Kit Roofs
+- FYX - 3D Shack Kit Walls - Collision
+- FYX - 3D Stockades - Walls and Gate
+- JK's Jorrvaskr
+- JK's Sinderion's Field Laboratory
 - Legacy of the Dragonborn - Hall of Forgotten
 - Legacy of the Dragonborn Unofficial Unslaad Patch
+- LOTD Hall of Forgotten TCC Patches
 - Lucifer - Argonian Custom Voiced Follower (Should fix CTDs)
 - More Informative Console
+
+Fixes/Tweaks:
+- ENB tweaks
+- More custom patches
 
 ## 0.3.0 Alpha - Released 2022/05/22
 New Save Required
