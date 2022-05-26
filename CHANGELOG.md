@@ -15,7 +15,16 @@
 
 # Changelog
 
-## 0.3.1 Alpha - In-Progress
+## 0.3.2 Alpha - In-Progress
+
+Updated:
+- More Informative Console (fixes the massive delay when console clicking)
+
+Fixes/Tweaks:
+-Fixed/moved floating note and dagger in Bee and Barb from Xelzaz
+-Fixed/moved conflicting objects at Hircine Statue and Moon and Star camp in Falkreath
+
+## 0.3.1 Alpha - Released 2022/05/22
 
 Added:
 - C.O.I.N. - Coins of Interesting Natures
