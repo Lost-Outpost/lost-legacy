@@ -21,8 +21,9 @@ Updated:
 - More Informative Console (fixes the massive delay when console clicking)
 
 Fixes/Tweaks:
--Fixed/moved floating note and dagger in Bee and Barb from Xelzaz
--Fixed/moved conflicting objects at Hircine Statue and Moon and Star camp in Falkreath
+- Disabled Equipment Toggle for now due to some CTD issues with Khajiits and Argonians (can safely enable it for other races)
+- Fixed/moved floating note and dagger in Bee and Barb from Xelzaz
+- Fixed/moved conflicting objects at Hircine Statue and Moon and Star camp in Falkreath
 
 ## 0.3.1 Alpha - Released 2022/05/22
 
