@@ -18,10 +18,12 @@
 ## 0.3.2 Alpha - In-Progress
 
 Updated:
-- LOTD Hall of Forgotten TCC Patches (Fixes missing TCC icons for the YOTP orbs and Golden Eggs)
+- LOTD Hall of Forgotten TCC Patches (I verified the TCC icons show up correctly)
 - More Informative Console (fixes the massive delay when console clicking)
 
 Fixes/Tweaks:
+- Automated Sunhelm MCM
+- Automated Violens MCM (Disabled killmoves, you can enable them in the MCM if you want)
 - Disabled Equipment Toggle for now due to some CTD issues with Khajiits and Argonians (can safely enable it for other races)
 - Fixed/moved floating note and dagger in Bee and Barb from Xelzaz
 - Fixed/moved conflicting objects at Hircine Statue and Moon and Star camp in Falkreath
