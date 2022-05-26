@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.3.2 Alpha - In-Progress
+## 0.3.2 Alpha - Released 2022/05/26
 
 Updated:
 - LOTD Hall of Forgotten TCC Patches (I verified the TCC icons show up correctly)
@@ -28,7 +28,7 @@ Fixes/Tweaks:
 - Fixed/moved floating note and dagger in Bee and Barb from Xelzaz
 - Fixed/moved conflicting objects at Hircine Statue and Moon and Star camp in Falkreath
 
-## 0.3.1 Alpha - Released 2022/05/22
+## 0.3.1 Alpha - Released 2022/05/25
 
 Added:
 - C.O.I.N. - Coins of Interesting Natures
