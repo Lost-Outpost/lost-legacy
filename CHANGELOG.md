@@ -18,6 +18,7 @@
 ## 0.3.2 Alpha - In-Progress
 
 Updated:
+- LOTD Hall of Forgotten TCC Patches (Fixes missing TCC icons for the YOTP orbs and Golden Eggs)
 - More Informative Console (fixes the massive delay when console clicking)
 
 Fixes/Tweaks:
