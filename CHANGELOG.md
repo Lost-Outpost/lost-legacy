@@ -15,6 +15,12 @@
 
 # Changelog
 
+## 0.3.3 Alpha - In-Progress
+
+Updated:
+- BeastHHBB - Player Character only
+
+
 ## 0.3.2 Alpha - Released 2022/05/26
 
 Updated:
