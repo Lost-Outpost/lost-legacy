@@ -15,10 +15,11 @@
 
 # Changelog
 
-## 0.3.3 Alpha - In-Progress
+## 0.4.0 Alpha - In-Progress
 
 Updated:
 - BeastHHBB - Player Character only
+- JS Dwemer Puzzle Cube SE (Added animations)
 
 
 ## 0.3.2 Alpha - Released 2022/05/26
