@@ -21,6 +21,7 @@ Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
 - Halted Stream Mine - Lawbringer
 - Konahrik's Accoutrements (More LotD displays)
+- Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
