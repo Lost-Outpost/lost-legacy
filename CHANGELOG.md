@@ -17,9 +17,24 @@
 
 ## 0.4.0 Alpha - In-Progress
 
+Added:
+- Aetherium Armor and Weapons Compilation
+- Halted Stream Mine - Lawbringer
+- Konahrik's Accoutrements
+- Teldryn Serious
+- The Black Door - 3D Dagger and Glow - ENB Light
+
 Updated:
 - BeastHHBB - Player Character only
 - JS Dwemer Puzzle Cube SE (Added animations)
+
+Removed:
+- Conditional tavern cheering (DAR)
+- EVG Animation Variance
+- EVG Conditional Idles
+- Gesture Animation Remix (DAR)
+- Lively Children Animations (DAR)
+- NPC Animation Remix (DAR)
 
 
 ## 0.3.2 Alpha - Released 2022/05/26
