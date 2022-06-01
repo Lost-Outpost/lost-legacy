@@ -18,13 +18,16 @@
 ## 0.4.0 Alpha - In-Progress
 
 Added:
-- Aetherium Armor and Weapons Compilation
+- Aetherium Armor and Weapons Compilation (More LotD displays)
 - Halted Stream Mine - Lawbringer
-- Konahrik's Accoutrements
+- Konahrik's Accoutrements (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
-- Teldryn Serious
+- Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
+- Treasure Hunter (More LotD displays)
+- Treasure Hunter for SSE - fixed esp
+- Treasure Hunter for SSE - Tweaks and Fixes
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
 
