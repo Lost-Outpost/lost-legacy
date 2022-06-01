@@ -21,12 +21,17 @@ Added:
 - Aetherium Armor and Weapons Compilation
 - Halted Stream Mine - Lawbringer
 - Konahrik's Accoutrements
+- Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - Teldryn Serious
+- Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
+- Vanilla Script (micro)Optimizations
+- Vanilla Scripting Enhancements
 
 Updated:
 - BeastHHBB - Player Character only
 - JS Dwemer Puzzle Cube SE (Added animations)
+- powerofthree's Papyrus Extender
 
 Removed:
 - Conditional tavern cheering (DAR)
