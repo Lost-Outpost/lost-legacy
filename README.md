@@ -7,6 +7,7 @@
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
+  <a href="https://loadorderlibrary.com/lists/lostlegacy">Full Modlist</a> ·
   <a href="HELP.md">Help</a>
 </p>
 
