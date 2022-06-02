@@ -34,6 +34,7 @@ Added:
 
 Updated:
 - BeastHHBB - Player Character only
+- Frozen Electrocuted Combustion
 - JS Dwemer Puzzle Cube SE (Added animations)
 - powerofthree's Papyrus Extender
 
