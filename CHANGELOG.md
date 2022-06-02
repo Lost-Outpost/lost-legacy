@@ -23,6 +23,7 @@ Added:
 - Konahrik's Accoutrements (More LotD displays)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
+- Oblivion Artifact Pack SE
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
