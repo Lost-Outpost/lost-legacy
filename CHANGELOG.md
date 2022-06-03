@@ -39,6 +39,7 @@ Updated:
 - Frozen Electrocuted Combustion
 - JS Dwemer Puzzle Cube SE (Added animations)
 - powerofthree's Papyrus Extender
+- Strange Runes
 
 Removed:
 - Conditional tavern cheering (DAR)
@@ -50,6 +51,7 @@ Removed:
 
 Fixes/Tweaks:
 - Honed Metal should work right now
+- Tweaked some encounter zones that were way too high level
 
 
 ## 0.3.2 Alpha - Released 2022/05/26
