@@ -30,6 +30,7 @@ Added:
 - Treasure Hunter (More LotD displays)
 - Treasure Hunter for SSE - fixed esp
 - Treasure Hunter for SSE - Tweaks and Fixes
+- Unaggressive Dragon Priests Fix
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
 
@@ -46,6 +47,9 @@ Removed:
 - Gesture Animation Remix (DAR)
 - Lively Children Animations (DAR)
 - NPC Animation Remix (DAR)
+
+Fixes/Tweaks:
+- Honed Metal should work right now
 
 
 ## 0.3.2 Alpha - Released 2022/05/26
