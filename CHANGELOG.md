@@ -52,7 +52,7 @@ Removed:
 - NPC Animation Remix (DAR)
 
 Fixes/Tweaks:
-- Honed Metal should work right now
+- Honed Metal should work correctly now
 - Tweaked some encounter zones that were way too high level
 - Made lots of custom patches
 - Reran Synthesis
