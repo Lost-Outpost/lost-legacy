@@ -20,6 +20,7 @@
 Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
 - Halted Stream Mine - Lawbringer
+- JS Attunement Sphere and Lexicons SE
 - Konahrik's Accoutrements (More LotD displays)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
@@ -47,11 +48,15 @@ Removed:
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
 - Lively Children Animations (DAR)
+- Mihail Monsters - Shadow Atronachs
 - NPC Animation Remix (DAR)
 
 Fixes/Tweaks:
 - Honed Metal should work right now
 - Tweaked some encounter zones that were way too high level
+- Made lots of custom patches
+- Reran Synthesis
+- Reran Dyndolod
 
 
 ## 0.3.2 Alpha - Released 2022/05/26
