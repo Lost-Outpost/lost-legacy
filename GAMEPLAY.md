@@ -18,3 +18,26 @@
 
 # Gameplay Guide
 
+## Controls
+
+Here is a list of the non-standard controls that you should be aware of:
+
+- <kbd>B</kbd> - Switches 3rd person shoulder view from left or right
+
+- <kbd>C</kbd> - Sneak/crouch (Can be changed in the TUDM MCM) NOT in the main Controls page
+
+- <kbd>L</kbd> - Toggles lantern
+
+- <kbd>V</kbd> - Toggles zoom
+
+- <kbd>X</kbd> - Toggles HUD/UI visibility (Great for taking screenshots!)
+
+- <kbd>CTRL</kbd> - Dodge Roll/Sidestep (Can be changed in the main Controls page, uses the Sneak/Crouch keybind)
+
+- <kbd>SHIFT</kbd> - Toggles sprinting
+
+- <kbd>'</kbd> (apostrophe) - Squad command menu (follow, wait, teleport)
+
+- <kbd>Middle Mouse Button</kbd> - Locks on to enemies in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+
+- <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
