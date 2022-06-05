@@ -19,12 +19,17 @@
 
 Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
+- Friendly Wisp Orbs
+- Friendly Wisp Orbs - Particle Lights for ENB PATCH
 - Halted Stream Mine - Lawbringer
 - JS Attunement Sphere and Lexicons SE
 - Konahrik's Accoutrements (More LotD displays)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
+- M'aiq the Alfiq
+- No Need to Ask... Bounty is Served
 - Oblivion Artifact Pack SE
+- Relationship Change Notifications
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
@@ -39,6 +44,7 @@ Updated:
 - BeastHHBB - Player Character only
 - Frozen Electrocuted Combustion
 - JS Dwemer Puzzle Cube SE (Added animations)
+- Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
 - Strange Runes
 
