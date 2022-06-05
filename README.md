@@ -52,7 +52,7 @@
 Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full EnaiRim + vokriinator), pretty graphics, and optional survival mechanics!
 
 ### Minimum Specs
-This needs testing on more systems, but on my system I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are being worked on. See [Configuration](CONFIGURATION.md#performance-guide)
+This needs testing on more systems, but on my system I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
 
 My specs:
 - GTX 1080
@@ -65,7 +65,7 @@ Lost Legacy changes Skyrim's gameplay quite heavily. It includes the full EnaiRi
 
 ### Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in the Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) section of the Lost Legacy GitHub. If you have any questions following the instructions or if you find a typo or any other mistake in the documentation, feel free to report in the Lost Outpost Discord server's support channel.
 
 ### List Contents
 
@@ -122,8 +122,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy"
-2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy" (i.e. C:\Lost Legacy\)
+2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish, and can be shared among other modlists to save space
 3. Download the latest release of `Lost Legacy` from [here](https://github.com/Lost-Outpost/lost-legacy/releases/) and run the file
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
@@ -174,7 +174,7 @@ Updating is like installing. You only have to make sure that you select the same
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
 - (Not set up yet) If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
-- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page. The default ENB is a modified Pi-Cho.
+- Change the ENB Preset (if you want) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page. The default ENB is a modified Pi-Cho. Cathedralist Fantasy is the most performance friendly ENB, but drastically changes the look of the game.
 
 # Gameplay Guide
 This section is under construction: [gameplay guide](GAMEPLAY.md)
