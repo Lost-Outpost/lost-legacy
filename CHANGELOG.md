@@ -19,6 +19,7 @@
 
 Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
+- Auri Re-Imagined SE (Song of the Green visual overhaul)
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
 - Halted Stream Mine - Lawbringer
@@ -60,6 +61,7 @@ Removed:
 - Lively Children Animations (DAR)
 - Mihail Monsters - Shadow Atronachs
 - NPC Animation Remix (DAR)
+- Song of the Green - Auri Lenka Replacer
 
 Fixes/Tweaks:
 - Honed Metal should work correctly now
