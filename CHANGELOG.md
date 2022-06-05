@@ -33,6 +33,7 @@ Added:
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
+- The Ravens Breezehome SSE
 - Treasure Hunter (More LotD displays)
 - Treasure Hunter for SSE - fixed esp
 - Treasure Hunter for SSE - Tweaks and Fixes
@@ -50,6 +51,7 @@ Updated:
 
 Removed:
 - Conditional tavern cheering (DAR)
+- Eli's Breezehome
 - EVG Animation Variance
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
