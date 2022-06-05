@@ -12,7 +12,9 @@
 
 ---
 
+# THIS PAGE IS UNDER CONSTRUCTION
+
+
 
 # Gameplay Guide
 
-Soon TM
