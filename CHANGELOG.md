@@ -43,6 +43,8 @@ Added:
 
 Updated:
 - BeastHHBB - Player Character only
+- eFPS - Exterior FPS boost
+- eFPS - Official Patch Hub
 - Frozen Electrocuted Combustion
 - JS Dwemer Puzzle Cube SE (Added animations)
 - Particle Lights for ENB - Light Orbs - Motes
