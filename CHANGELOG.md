@@ -54,6 +54,7 @@ Updated:
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
 - Frozen Electrocuted Combustion
+- Immersive Kaidan Start
 - JS Dwemer Puzzle Cube SE (Added animations)
 - Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
