@@ -40,6 +40,7 @@ Added:
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
 - The Ravens Breezehome SSE
+- Toccata Follower SE (Follower)
 - Treasure Hunter (More LotD displays)
 - Treasure Hunter for SSE - fixed esp
 - Treasure Hunter for SSE - Tweaks and Fixes
