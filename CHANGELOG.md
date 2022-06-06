@@ -76,6 +76,8 @@ Fixes/Tweaks:
 - Honed Metal should work correctly now
 - Tweaked some encounter zones that were way too high level
 - Re-ran patch fomods for several mods like GG Thieves Guild, JKs Int/Guild, LotD and TCC, Lux, Lux Orbis, Great Towns/Villages, UCOW, 
+- Removed BadGremlins/fairy starting note
+- Removed Lucifer starting note
 - Made lots of custom patches
 - Reran Synthesis
 - Reran Dyndolod
