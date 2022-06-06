@@ -22,6 +22,7 @@ Added:
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
+- FYX - 3D Whiterun Castle Bridge
 - Halted Stream Mine - Lawbringer
 - JS Attunement Sphere and Lexicons SE
 - Konahrik's Accoutrements (More LotD displays)
