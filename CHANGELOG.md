@@ -19,6 +19,9 @@
 
 Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
+- Amulets of Skyrim SSE (More LotD displays)
+- Amulets of Skyrim - Tweaks and Fixes
+- Artifacts - The Breton Paladin
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
@@ -32,6 +35,7 @@ Added:
 - No Need to Ask... Bounty is Served
 - Oblivion Artifact Pack SE
 - Relationship Change Notifications
+- Ryn's Standing Stones - Amulets of Skyrim Patch
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
@@ -43,6 +47,7 @@ Added:
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
 - Whiterun Objects SMIMed
+- Wintersun and Artifacts - The Breton Paladin Patch
 
 Updated:
 - BeastHHBB - Player Character only
@@ -68,6 +73,7 @@ Removed:
 Fixes/Tweaks:
 - Honed Metal should work correctly now
 - Tweaked some encounter zones that were way too high level
+- Re-ran patch fomods for several mods like GG Thieves Guild, JKs Int/Guild, LotD and TCC, Lux, Lux Orbis, Great Towns/Villages, UCOW, 
 - Made lots of custom patches
 - Reran Synthesis
 - Reran Dyndolod
