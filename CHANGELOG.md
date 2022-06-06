@@ -41,6 +41,7 @@ Added:
 - Unaggressive Dragon Priests Fix
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
+- Whiterun Objects SMIMed
 
 Updated:
 - BeastHHBB - Player Character only
