@@ -65,11 +65,13 @@ Updated:
 Removed:
 - Conditional tavern cheering (DAR)
 - Eli's Breezehome
+- Equipment Toggle (was causing too many CTDs)
 - EVG Animation Variance
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
 - Lively Children Animations (DAR)
 - Mihail Monsters - Shadow Atronachs
+- No Follower Attack Collision
 - NPC Animation Remix (DAR)
 - Song of the Green - Auri Lenka Replacer
 
