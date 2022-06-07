@@ -47,6 +47,7 @@ Added:
 - Unaggressive Dragon Priests Fix
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
+- Vigilance Reborn SE
 - Whiterun Objects SMIMed
 - Wintersun and Artifacts - The Breton Paladin Patch
 
