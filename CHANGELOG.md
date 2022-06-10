@@ -33,6 +33,7 @@ Added:
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
+- Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
@@ -74,10 +75,11 @@ Removed:
 
 Fixes/Tweaks:
 - Honed Metal should work correctly now
-- Tweaked some encounter zones that were way too high level
+- Increased max file handle limit in Engine Fixes (was causing false save corruption)
 - Re-ran patch fomods for several mods like GG Thieves Guild, JKs Int/Guild, LotD and TCC, Lux, Lux Orbis, Great Towns/Villages, UCOW, 
 - Removed BadGremlins/fairy starting note
 - Removed Lucifer starting note
+- Tweaked some encounter zones that were way too high level
 - Made lots of custom patches
 - Reran Synthesis
 - Reran Dyndolod
