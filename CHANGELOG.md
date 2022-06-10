@@ -34,6 +34,7 @@ Added:
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
+- Oblivion Artifact Pack SE Cleaned and Upscaled Textures
 - Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
 - Solstheim Lighthouse
@@ -46,14 +47,18 @@ Added:
 - Treasure Hunter for SSE - fixed esp
 - Treasure Hunter for SSE - Tweaks and Fixes
 - Unaggressive Dragon Priests Fix
-- Vanilla Script (micro)Optimizations
-- Vanilla Scripting Enhancements
 - Vigilance Reborn SE
 - Whiterun Objects SMIMed
 - Wintersun and Artifacts - The Breton Paladin Patch
 
 Player Homes: (separate because there are so many lol)
+- Cityside - A Starter Home
+- LC_Build Your Noble House (Literally build your own keep, this mod is sick!! https://www.nexusmods.com/skyrimspecialedition/mods/18308)
+- JK's Riverfall Cottage
 - Sarethi Manor - Morrowind mansion with village
+- Shadowstar Castle SE
+- Sindora's Hidden Hearth
+- Whiterun Safehold
 
 Updated:
 - BeastHHBB - Player Character only
