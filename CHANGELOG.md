@@ -32,9 +32,7 @@ Added:
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - M'aiq the Alfiq
-- No Need to Ask... Bounty is Served
 - Oblivion Artifact Pack SE
-- Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
