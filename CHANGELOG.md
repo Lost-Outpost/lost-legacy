@@ -21,6 +21,7 @@ Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
 - Amulets of Skyrim SSE (More LotD displays)
 - Amulets of Skyrim - Tweaks and Fixes
+- Apachii Divine Elegance Outfits for Interesting NPCs (SPID)
 - Artifacts - The Breton Paladin
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
 - Friendly Wisp Orbs
@@ -52,13 +53,40 @@ Added:
 - Wintersun and Artifacts - The Breton Paladin Patch
 
 Player Homes: (separate because there are so many lol)
+- Astronomer's Loft -- Small Loft Library Player Home in Whiterun
+- Autumngate - A Believable Player Home
 - Cityside - A Starter Home
+- Dovahkiin's Vault SSE
+- Ebongrove
+- Ebongrove - Buyable Home Patch
+- Emberbrand Cellar -- Gray Quarter Basement Home
+- Frithuz - A Dunmer Home
+- Gleamblossom Hollow
+- Golzarga - An Orc's Cottage
+- Gwent Hearth Falkreath
 - LC_Build Your Noble House (Literally build your own keep, this mod is sick!! https://www.nexusmods.com/skyrimspecialedition/mods/18308)
 - JK's Riverfall Cottage
+- Kalnn - A Vampire's Hobbit Hole
+- Menskr - A Winterhold Home
+- Myrkheimr SE
+- Nimstette - A Cyrodiil Home
+- Ouada-Ruhn - A Dunmer Home
+- Rawlith - A Khajiit Home
 - Sarethi Manor - Morrowind mansion with village
 - Shadowstar Castle SE
 - Sindora's Hidden Hearth
+- Skaunr - An Igloo Home
+- Solitude Rectory - Tiny Imperial Temple Home
+- Staff of Shalidor
+- Staff of Shalidor - Maze Reward
+- Swelgn - A Nordic Home
+- Tel Aschan - Mage Tower Home
+- Tyburn Nook
+- Varbaril - A Bosmer Home
+- Varbaril - Alternate Key Location ESL
+- Vulav - A Cyrodiil Home
 - Whiterun Safehold
+- Wuth Rein - An ancient nordic hideout
 
 Updated:
 - BeastHHBB - Player Character only
