@@ -121,9 +121,10 @@ Removed:
 Fixes/Tweaks:
 - Honed Metal should work correctly now
 - Increased max file handle limit in Engine Fixes (was causing false save corruption)
-- Re-ran patch fomods for several mods like GG Thieves Guild, JKs Int/Guild, LotD and TCC, Lux, Lux Orbis, Great Towns/Villages, UCOW, 
 - Removed BadGremlins/fairy starting note
+- Removed Cathedral Meditation starting power
 - Removed Lucifer starting note
+- Removed Vibrant Weapons starting powers
 - Tweaked some encounter zones that were way too high level
 - Made lots of custom patches
 - Reran Synthesis
