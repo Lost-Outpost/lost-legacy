@@ -29,12 +29,15 @@ Added:
 - Halted Stream Mine - Lawbringer
 - JS Attunement Sphere and Lexicons SE
 - Konahrik's Accoutrements (More LotD displays)
+- LC_Citadel (Really cool mod, info here: https://www.nexusmods.com/skyrimspecialedition/mods/27059)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
 - Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
+- Solstheim Lighthouse
+- Solstheim Trading Posts
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
@@ -49,16 +52,25 @@ Added:
 - Whiterun Objects SMIMed
 - Wintersun and Artifacts - The Breton Paladin Patch
 
+Player Homes: (separate because there are so many lol)
+- Sarethi Manor - Morrowind mansion with village
+
 Updated:
 - BeastHHBB - Player Character only
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
 - Frozen Electrocuted Combustion
+- GG's Thieves Guild Headquarters
 - Immersive Kaidan Start
 - JS Dwemer Puzzle Cube SE (Added animations)
 - Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
 - Strange Runes
+- The Great Town of Karthwasten Patch Collection
+- The Great Town of Shor's Stone Patch Collection
+- The Great Village of Kynesgrove Patch Collection
+- The Great Village of Mixwater Mill Patch Collection
+- The Great Village of Old Hroldan Patch Collection
 
 Removed:
 - Conditional tavern cheering (DAR)
