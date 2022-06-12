@@ -110,6 +110,8 @@ Updated:
 
 Removed:
 - Conditional tavern cheering (DAR)
+- Dark Forest of Skyrim SE - Beyond Reach
+- Dark Forest of Skyrim SE - Wyrmstooth
 - Eli's Breezehome
 - Equipment Toggle (was causing too many CTDs)
 - EVG Animation Variance
