@@ -97,6 +97,8 @@ Updated:
 - GG's Thieves Guild Headquarters
 - Immersive Kaidan Start
 - JS Dwemer Puzzle Cube SE (Added animations)
+- Mihail Monsters - Bone Colossus
+- Mihail Monsters - Gravelords
 - Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
 - Strange Runes
@@ -114,7 +116,10 @@ Removed:
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
 - Lively Children Animations (DAR)
+- Mihail Monsters - Bone Colossus Cleaned and Enhanced textures
+- Mihail Monsters - Gravelords Cleaned and Enhanced Textures
 - Mihail Monsters - Shadow Atronachs
+- Mihail Monsters - The Mudcrab Merchant
 - No Follower Attack Collision
 - NPC Animation Remix (DAR)
 - Song of the Green - Auri Lenka Replacer
@@ -125,6 +130,7 @@ Fixes/Tweaks:
 - Removed BadGremlins/fairy starting note
 - Removed Cathedral Meditation starting power
 - Removed Lucifer starting note
+- Removed 
 - Removed Vibrant Weapons starting powers
 - Tweaked some encounter zones that were way too high level
 - Made lots of custom patches
