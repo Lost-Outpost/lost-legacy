@@ -33,6 +33,7 @@ Added:
 - LC_Citadel (Really cool mod, info here: https://www.nexusmods.com/skyrimspecialedition/mods/27059)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
+- Lucifer - Wyrmstooth
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
 - Oblivion Artifact Pack SE Cleaned and Upscaled Textures
