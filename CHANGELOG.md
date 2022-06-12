@@ -119,6 +119,7 @@ Removed:
 - Mihail Monsters - Bone Colossus Cleaned and Enhanced textures
 - Mihail Monsters - Gravelords Cleaned and Enhanced Textures
 - Mihail Monsters - Shadow Atronachs
+- Mihail Monsters - Snow Whales
 - Mihail Monsters - The Mudcrab Merchant
 - No Follower Attack Collision
 - NPC Animation Remix (DAR)
