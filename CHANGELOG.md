@@ -24,6 +24,7 @@ Added:
 - Apachii Divine Elegance Outfits for Interesting NPCs (SPID)
 - Artifacts - The Breton Paladin
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
+- Daedric Shrines - Molag Bal
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
 - FYX - 3D Whiterun Castle Bridge
