@@ -35,6 +35,7 @@ Added:
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
 - Legacy of the Dragonborn - Replicas for Good Guys - The Only Cure Quest Expansion - Spellbreaker
 - Lucifer - Wyrmstooth
+- Lunar Armory - A Silent Moons Overhaul
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
 - Oblivion Artifact Pack SE Cleaned and Upscaled Textures
