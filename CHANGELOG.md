@@ -103,6 +103,7 @@ Updated:
 - Mihail Monsters - Gravelords
 - Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
+- Skyrim's Got Talent - Improve As a Bard
 - Strange Runes
 - The Great Town of Karthwasten Patch Collection
 - The Great Town of Shor's Stone Patch Collection
