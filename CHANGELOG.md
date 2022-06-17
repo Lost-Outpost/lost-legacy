@@ -39,6 +39,7 @@ Added:
 - M'aiq the Alfiq
 - Oblivion Artifact Pack SE
 - Oblivion Artifact Pack SE Cleaned and Upscaled Textures
+- Quest Conflict Fixes - Get Aegisbane
 - Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
 - Solstheim Lighthouse
@@ -47,6 +48,8 @@ Added:
 - Teldryn Serious Patch
 - The Black Door - 3D Dagger and Glow - ENB Light
 - The Ravens Breezehome SSE
+- Traveling Mage - My version SE-AE
+- Traveling Mage Armor SPID
 - Treasure Hunter (More LotD displays)
 - Treasure Hunter for SSE - fixed esp
 - Treasure Hunter for SSE - Tweaks and Fixes
