@@ -29,6 +29,7 @@ Added:
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
 - FYX - 3D Whiterun Castle Bridge
 - Halted Stream Mine - Lawbringer
+- Immersive Cow Tipping (SPID)
 - JS Attunement Sphere and Lexicons SE
 - Konahrik's Accoutrements (More LotD displays)
 - LC_Citadel (Really cool mod, info here: https://www.nexusmods.com/skyrimspecialedition/mods/27059)
