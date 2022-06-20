@@ -31,6 +31,7 @@ Added:
 - Halted Stream Mine - Lawbringer
 - Immersive Cow Tipping (SPID)
 - JS Attunement Sphere and Lexicons SE
+- JS Attunement Sphere and Lexicons SE - LOTD Display Patch
 - Konahrik's Accoutrements (More LotD displays)
 - LC_Citadel (Really cool mod, info here: https://www.nexusmods.com/skyrimspecialedition/mods/27059)
 - Legacy of the Dragonborn BadGremlins Collection (More LotD displays)
@@ -97,16 +98,24 @@ Player Homes: (separate because there are so many lol)
 
 Updated:
 - BeastHHBB - Player Character only
+- Caught Red Handed - Quest Expansion
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
 - Frozen Electrocuted Combustion
 - GG's Thieves Guild Headquarters
 - Immersive Kaidan Start
+- JK's Radiant Raiment
+- JK's Riverwood Trader
+- JK's The Bee and Barb
+- JS Common Cages SE
 - JS Dwemer Puzzle Cube SE (Added animations)
+- JS Essence Extractor SE
 - Mihail Monsters - Bone Colossus
 - Mihail Monsters - Gravelords
+- Nilheim - Quest Expansion
 - Particle Lights for ENB - Light Orbs - Motes
 - powerofthree's Papyrus Extender
+- Reliquary of Myth - Artifact Overhaul
 - Skyrim's Got Talent - Improve As a Bard
 - Strange Runes
 - The Great Town of Karthwasten Patch Collection
