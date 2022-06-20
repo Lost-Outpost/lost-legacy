@@ -123,6 +123,7 @@ Updated:
 - The Great Village of Kynesgrove Patch Collection
 - The Great Village of Mixwater Mill Patch Collection
 - The Great Village of Old Hroldan Patch Collection
+- Water for ENB
 
 Removed:
 - Conditional tavern cheering (DAR)
