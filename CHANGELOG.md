@@ -24,6 +24,7 @@ Added:
 - Apachii Divine Elegance Outfits for Interesting NPCs (SPID)
 - Artifacts - The Breton Paladin
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
+- Cathedral - 3D Snow Berries
 - Daedric Shrines - Molag Bal
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
@@ -39,15 +40,20 @@ Added:
 - Lucifer - Wyrmstooth
 - Lunar Armory - A Silent Moons Overhaul
 - M'aiq the Alfiq
+- No More of that dumb falling dust thingy in caves
 - Oblivion Artifact Pack SE
 - Oblivion Artifact Pack SE Cleaned and Upscaled Textures
 - Quest Conflict Fixes - Get Aegisbane
 - Relationship Change Notifications
 - Ryn's Standing Stones - Amulets of Skyrim Patch
+- Sales Overflow Solved
 - Solstheim Lighthouse
 - Solstheim Trading Posts
+- Storm Calling Magic
 - Teldryn Serious (More LotD displays)
 - Teldryn Serious Patch
+- Thanedom Assets
+- Thanedom Of Darkwater Crossing
 - The Black Door - 3D Dagger and Glow - ENB Light
 - The Ravens Breezehome SSE
 - Traveling Mage - My version SE-AE
@@ -67,6 +73,8 @@ Player Homes: (separate because there are so many lol)
 - Dovahkiin's Vault SSE
 - Ebongrove
 - Ebongrove - Buyable Home Patch
+- Elysium Estate SSE
+- Elysium Estate SSE - Buyable Home Patch
 - Emberbrand Cellar -- Gray Quarter Basement Home
 - Frithuz - A Dunmer Home
 - Gleamblossom Hollow
@@ -99,6 +107,7 @@ Player Homes: (separate because there are so many lol)
 Updated:
 - BeastHHBB - Player Character only
 - Caught Red Handed - Quest Expansion
+- Classic Classes and Birthsigns SSE (Reimagined)
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
 - Frozen Electrocuted Combustion
