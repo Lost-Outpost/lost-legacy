@@ -26,6 +26,7 @@ Added:
 - Auri Re-Imagined SE (Song of the Green visual overhaul)
 - Cathedral - 3D Snow Berries
 - Daedric Shrines - Molag Bal
+- ElSopa - Medieval Anvil Embers XD Patch
 - Friendly Wisp Orbs
 - Friendly Wisp Orbs - Particle Lights for ENB PATCH
 - FYX - 3D Whiterun Castle Bridge
