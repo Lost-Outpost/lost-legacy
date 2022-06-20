@@ -111,6 +111,7 @@ Updated:
 - Classic Classes and Birthsigns SSE (Reimagined)
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
+- Embers XD
 - Frozen Electrocuted Combustion
 - GG's Thieves Guild Headquarters
 - Immersive Kaidan Start
