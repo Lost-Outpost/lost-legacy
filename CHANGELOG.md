@@ -165,7 +165,7 @@ Fixes/Tweaks:
 - Removed BadGremlins/fairy starting note
 - Removed Cathedral Meditation starting power
 - Removed Lucifer starting note
-- Removed 
+- Removed Herobrine
 - Removed Vibrant Weapons starting powers
 - Tweaked some encounter zones that were way too high level
 - Made lots of custom patches
