@@ -124,6 +124,7 @@ Updated:
 - JS Common Cages SE
 - JS Dwemer Puzzle Cube SE (Added animations)
 - JS Essence Extractor SE
+- Legacy of the Dragonborn - The Curator's Companion
 - Mihail Monsters - Bone Colossus
 - Mihail Monsters - Gravelords
 - Nilheim - Quest Expansion
