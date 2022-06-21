@@ -46,6 +46,7 @@ Added:
 - Oblivion Artifact Pack SE Cleaned and Upscaled Textures
 - Quest Conflict Fixes - Get Aegisbane
 - Relationship Change Notifications
+- Ryn's Robber's Gorge
 - Ryn's Standing Stones - Amulets of Skyrim Patch
 - Sales Overflow Solved
 - Solstheim Lighthouse
@@ -142,10 +143,12 @@ Removed:
 - Dark Forest of Skyrim SE - Beyond Reach
 - Dark Forest of Skyrim SE - Wyrmstooth
 - Eli's Breezehome
+- Engorged Robber's Gorge - A Lawbringer Module
 - Equipment Toggle (was causing too many CTDs)
 - EVG Animation Variance
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
+- Lainalten
 - Lively Children Animations (DAR)
 - Mihail Monsters - Bone Colossus Cleaned and Enhanced textures
 - Mihail Monsters - Gravelords Cleaned and Enhanced Textures
