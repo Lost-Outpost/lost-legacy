@@ -110,6 +110,8 @@ Updated:
 - BeastHHBB - Player Character only
 - Caught Red Handed - Quest Expansion
 - Classic Classes and Birthsigns SSE (Reimagined)
+- DynDOLOD 3 Alpha
+- DynDOLOD Resources SE 3
 - eFPS - Exterior FPS boost
 - eFPS - Official Patch Hub
 - Embers XD
@@ -143,31 +145,31 @@ Removed:
 - Dark Forest of Skyrim SE - Beyond Reach
 - Dark Forest of Skyrim SE - Wyrmstooth
 - Eli's Breezehome
-- Engorged Robber's Gorge - A Lawbringer Module
+- Engorged Robber's Gorge (Replaced by Ryn's Robber's Gorge)
 - Equipment Toggle (was causing too many CTDs)
 - EVG Animation Variance
 - EVG Conditional Idles
 - Gesture Animation Remix (DAR)
-- Lainalten
+- Lainalten (Replaced by Ryn's Robber's Gorge)
 - Lively Children Animations (DAR)
 - Mihail Monsters - Bone Colossus Cleaned and Enhanced textures
 - Mihail Monsters - Gravelords Cleaned and Enhanced Textures
 - Mihail Monsters - Shadow Atronachs
 - Mihail Monsters - Snow Whales
 - Mihail Monsters - The Mudcrab Merchant
-- No Follower Attack Collision
+- No Follower Attack Collision (Was confusing and caused some issues)
 - NPC Animation Remix (DAR)
-- Song of the Green - Auri Lenka Replacer
+- Song of the Green - Auri Lenka Replacer (Replaced by Auri Re-Imagined SE)
 
 Fixes/Tweaks:
 - Honed Metal should work correctly now
 - Increased max file handle limit in Engine Fixes (was causing false save corruption)
 - Removed BadGremlins/fairy starting note
 - Removed Cathedral Meditation starting power
-- Removed Lucifer starting note
 - Removed Herobrine
+- Removed Lucifer starting note
 - Removed Vibrant Weapons starting powers
-- Tweaked some encounter zones that were way too high level
+- Tweaked some encounter zones that were way too high level (Let me know if you think any others are too difficult)
 - Made lots of custom patches
 - Reran Synthesis
 - Reran Dyndolod
