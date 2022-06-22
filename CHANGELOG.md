@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.4.0 Alpha - In-Progress
+## 0.4.0 Alpha - Released 2022/06/21
 
 Added:
 - Aetherium Armor and Weapons Compilation (More LotD displays)
