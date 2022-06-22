@@ -15,6 +15,17 @@
 
 # Changelog
 
+## 0.4.1 Alpha - In-Progress
+
+Added:
+- Storm Calling Magic - Red Lightning
+- The Elder Scrolls Legends - Loading Screens
+
+Fixes/Tweaks:
+- Cleaned up some clipping trees/bushes in Rorikstead
+
+
+
 ## 0.4.0 Alpha - Released 2022/06/21
 
 Added:
