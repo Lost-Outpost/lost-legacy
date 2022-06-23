@@ -22,6 +22,9 @@ Added:
 - Storm Calling Magic - Red Lightning
 - The Elder Scrolls Legends - Loading Screens
 
+Updated:
+- Storm Calling Magic
+
 Fixes/Tweaks:
 - Cleaned up some clipping trees/bushes in Rorikstead
 - Removed hanging moss blocking amulet in the Warrior stone
