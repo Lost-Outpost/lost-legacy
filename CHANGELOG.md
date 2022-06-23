@@ -25,6 +25,7 @@ Added:
 Fixes/Tweaks:
 - Cleaned up some clipping trees/bushes in Rorikstead
 - Removed hanging moss blocking amulet in the Warrior stone
+- Tweaked Tyburn Nook home
 
 
 
