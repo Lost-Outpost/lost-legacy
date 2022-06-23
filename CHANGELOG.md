@@ -18,11 +18,13 @@
 ## 0.4.1 Alpha - In-Progress
 
 Added:
+- RaceMenu 0.4.16 Memory Leak Hotfix
 - Storm Calling Magic - Red Lightning
 - The Elder Scrolls Legends - Loading Screens
 
 Fixes/Tweaks:
 - Cleaned up some clipping trees/bushes in Rorikstead
+- Removed hanging moss blocking amulet in the Warrior stone
 
 
 
