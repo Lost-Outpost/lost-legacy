@@ -18,6 +18,7 @@
 ## 0.4.1 Alpha - In-Progress
 
 Added:
+- Lava Replacer - SE
 - RaceMenu 0.4.16 Memory Leak Hotfix
 - Storm Calling Magic - Red Lightning
 - The Elder Scrolls Legends - Loading Screens
