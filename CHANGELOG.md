@@ -28,6 +28,7 @@ Updated:
 
 Fixes/Tweaks:
 - Cleaned up some clipping trees/bushes in Rorikstead
+- Fixed failed download due to skse "update"
 - Removed hanging moss blocking amulet in the Warrior stone
 - Tweaked Tyburn Nook home
 
