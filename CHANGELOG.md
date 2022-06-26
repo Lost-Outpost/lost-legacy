@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.4.1 Alpha - In-Progress
+## 0.4.1 Alpha - Released 2022/06/26
 
 Added:
 - JS Dwemer Control Cube SE
