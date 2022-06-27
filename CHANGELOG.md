@@ -15,6 +15,12 @@
 
 # Changelog
 
+## 0.4.2 Alpha - In-Progress
+
+Fixes/Tweaks:
+- Disabled Dragon attacks on cities in Immersive World Encounters MCM
+- Removed "Spider Descriptions" from active effects list
+
 ## 0.4.1 Alpha - Released 2022/06/26
 
 Added:
