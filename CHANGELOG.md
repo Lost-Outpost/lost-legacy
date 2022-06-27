@@ -17,6 +17,9 @@
 
 ## 0.4.2 Alpha - In-Progress
 
+Added:
+- TB's Better Chains for SMIM
+
 Fixes/Tweaks:
 - Disabled Dragon attacks on cities in Immersive World Encounters MCM
 - Removed "Spider Descriptions" from active effects list
