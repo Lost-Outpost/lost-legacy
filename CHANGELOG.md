@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.4.2 Alpha - In-Progress
+## 0.5.0 Beta - In-Progress
 
 Added:
 - TB's Better Chains for SMIM
