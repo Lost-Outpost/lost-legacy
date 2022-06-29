@@ -18,7 +18,13 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
+- Lost Races of Aetherius
+- RaceCompatibility with fixes for SSE
+- Race Compatibility Dialogue SSE
 - TB's Better Chains for SMIM
+
+Removed:
+- Expressive Facegen Morphs SE
 
 Fixes/Tweaks:
 - Disabled Dragon attacks on cities in Immersive World Encounters MCM
