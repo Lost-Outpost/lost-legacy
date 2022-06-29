@@ -18,7 +18,7 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
-- Lost Races of Aetherius
+- Lost Races of Aetherius (New playable races!)
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
 - TB's Better Chains for SMIM
