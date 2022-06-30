@@ -18,6 +18,8 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
+- Custom Skills - GLENMORIL
+- Custom Skills - GLENMORIL - English Translation
 - GG Markarth Outskirts
 - Lost Races of Aetherius (New playable races!)
 - RaceCompatibility with fixes for SSE
@@ -26,6 +28,8 @@ Added:
 
 Updated:
 - Legacy of the Dragonborn Patches (Official)
+- Unslaad SE
+- UNSLAAD Voiced - English Addon
 
 Removed:
 - Expressive Facegen Morphs SE
