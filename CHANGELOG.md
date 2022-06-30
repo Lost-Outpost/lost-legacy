@@ -18,13 +18,18 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
+- GG Markarth Outskirts
 - Lost Races of Aetherius (New playable races!)
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
 - TB's Better Chains for SMIM
 
+Updated:
+- Legacy of the Dragonborn Patches (Official)
+
 Removed:
 - Expressive Facegen Morphs SE
+- GG's Markarth Farm
 
 Fixes/Tweaks:
 - Disabled Dragon attacks on cities in Immersive World Encounters MCM
