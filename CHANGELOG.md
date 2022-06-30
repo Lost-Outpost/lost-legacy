@@ -21,9 +21,11 @@ Added:
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
 - GG Markarth Outskirts
+- Immersive Diseases
 - Lost Races of Aetherius (New playable races!)
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
+- SSE Gameplay Tweaks (Accumulate Training Levels Only)
 - TB's Better Chains for SMIM
 
 Updated:
