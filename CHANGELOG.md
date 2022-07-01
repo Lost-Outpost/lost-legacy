@@ -23,7 +23,6 @@ Added:
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
 - Dragon Claws Auto-Unlock
-- GG Markarth Outskirts
 - GLENMORIL SE
 - Glenmoril - Animated Armoury Patch
 - Glenmoril - Delayed Start
@@ -52,7 +51,7 @@ Updated:
 
 Removed:
 - Expressive Facegen Morphs SE (Doesn't work with Lost Races of Aetherius)
-- GG's Markarth Farm (Replaced by GG Markarth Outskirts)
+- GG's Markarth Farm
 - Quick Loot RE (Replaced by QuickLootEE)
 
 Fixes/Tweaks:
