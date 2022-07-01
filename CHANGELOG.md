@@ -37,6 +37,7 @@ Added:
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
 - Remiel-Dwemer Specialist-Custom Voiced
+- Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE
 - SSE Gameplay Tweaks (Accumulate Training Levels Only)
 - TB's Better Chains for SMIM
 
