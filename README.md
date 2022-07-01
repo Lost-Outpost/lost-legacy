@@ -61,7 +61,7 @@ My specs:
 
 Downloads: 106GB  
 Install: 181GB  
-**TOTAL: 287GB**  
+**TOTAL: ~287GB**  
 
 ### Gameplay
 
