@@ -18,11 +18,19 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
+- Apothecary
+- Better Third Person Selection - BTPS
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
 - GG Markarth Outskirts
+- GLENMORIL SE
+- Glenmoril - Animated Armoury Patch
+- Glenmoril - Delayed Start
+- GLENMORIL - English Translation
+- Glenmoril and Unslaad xVASynth Voiced
 - Immersive Diseases
 - Lost Races of Aetherius (New playable races!)
+- QuickLootEE - TCC version
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
 - SSE Gameplay Tweaks (Accumulate Training Levels Only)
@@ -34,8 +42,9 @@ Updated:
 - UNSLAAD Voiced - English Addon
 
 Removed:
-- Expressive Facegen Morphs SE
-- GG's Markarth Farm
+- Expressive Facegen Morphs SE (Doesn't work with Lost Races of Aetherius)
+- GG's Markarth Farm (Replaced by GG Markarth Outskirts)
+- Quick Loot RE (Replaced by QuickLootEE)
 
 Fixes/Tweaks:
 - Disabled Dragon attacks on cities in Immersive World Encounters MCM
