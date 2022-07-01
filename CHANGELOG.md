@@ -44,6 +44,8 @@ Updated:
 - Daedric Shrines - Vaermina
 - JK's Interiors Patch Collection
 - Legacy of the Dragonborn Patches (Official)
+- Legacy of the Dragonborn - Hall of Forgotten
+- LOTD Hall of Forgotten TCC Patches
 - Unslaad SE
 - UNSLAAD Voiced - English Addon
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
