@@ -20,6 +20,7 @@
 Added:
 - Apothecary - An Alchemy Overhaul (and lots of patches)
 - Better Third Person Selection - BTPS
+- Clockwork shadow redone
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
 - Dragon Claws Auto-Unlock
