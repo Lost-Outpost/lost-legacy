@@ -18,7 +18,7 @@
 ## 0.5.0 Beta - In-Progress
 
 Added:
-- Apothecary
+- Apothecary - An Alchemy Overhaul (and lots of patches)
 - Better Third Person Selection - BTPS
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
