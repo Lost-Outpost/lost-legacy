@@ -59,9 +59,10 @@ My specs:
 - Intel i7-8700k
 - 32 GB DDR4 3200 RAM
 
-Downloads: 106GB
-Install: 181GB
-TOTAL: 287GB
+Storage:
+- Downloads: 106GB
+- Install: 181GB
+- TOTAL: 287GB
 
 ### Gameplay
 
