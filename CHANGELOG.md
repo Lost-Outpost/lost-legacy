@@ -22,6 +22,7 @@ Added:
 - Better Third Person Selection - BTPS
 - Custom Skills - GLENMORIL
 - Custom Skills - GLENMORIL - English Translation
+- Dragon Claws Auto-Unlock
 - GG Markarth Outskirts
 - GLENMORIL SE
 - Glenmoril - Animated Armoury Patch
@@ -30,16 +31,22 @@ Added:
 - Glenmoril and Unslaad xVASynth Voiced
 - Immersive Diseases
 - Lost Races of Aetherius (New playable races!)
+- Oxygen Meter 2
+- Oxygen Meter 2 - Nordic UI like Skin
 - QuickLootEE - TCC version
 - RaceCompatibility with fixes for SSE
 - Race Compatibility Dialogue SSE
+- Remiel-Dwemer Specialist-Custom Voiced
 - SSE Gameplay Tweaks (Accumulate Training Levels Only)
 - TB's Better Chains for SMIM
 
 Updated:
+- Daedric Shrines - Vaermina
+- JK's Interiors Patch Collection
 - Legacy of the Dragonborn Patches (Official)
 - Unslaad SE
 - UNSLAAD Voiced - English Addon
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
 - Expressive Facegen Morphs SE (Doesn't work with Lost Races of Aetherius)
