@@ -63,7 +63,10 @@ Removed:
 
 Fixes/Tweaks:
 - Disabled Dragon attacks on cities in Immersive World Encounters MCM
+- Made lots of custom patches
 - Removed "Spider Descriptions" from active effects list
+- Reran Dyndolod
+- Reran Synthesis
 
 ## 0.4.1 Alpha - Released 2022/06/26
 
