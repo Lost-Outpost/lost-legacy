@@ -30,6 +30,7 @@ Added:
 - GLENMORIL - English Translation
 - Glenmoril and Unslaad xVASynth Voiced
 - Immersive Diseases
+- Legacy of the Dragonborn - Remiel Patch Room A-1
 - Lost Races of Aetherius (New playable races!)
 - Oxygen Meter 2
 - Oxygen Meter 2 - Nordic UI like Skin
@@ -44,6 +45,10 @@ Added:
 Updated:
 - Daedric Shrines - Vaermina
 - JK's Interiors Patch Collection
+- Legacy of the Dragonborn - Auri Follower Patch Room B-2
+- Legacy of the Dragonborn - Inigo Follower Patch Room A-2
+- Legacy of the Dragonborn - Kaidan Follower Patch Room A-4
+- Legacy of the Dragonborn - Vilja Follower Patch Room B-3
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - Hall of Forgotten
 - LOTD Hall of Forgotten TCC Patches
