@@ -15,7 +15,17 @@
 
 # Changelog
 
-## 0.5.0 Beta - In-Progress
+## 0.5.1 Beta - In-Progress
+
+Added:
+- QuickLoot EE - Settings Loader
+
+Updated:
+- Better Third Person Selection (SE)
+- Lost Races of Aetherius
+- QuickLoot EE
+
+## 0.5.0 Beta - Released 2022/07/03
 
 Added:
 - Apothecary - An Alchemy Overhaul (and lots of patches)
