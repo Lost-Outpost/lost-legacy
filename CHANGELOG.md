@@ -29,7 +29,9 @@ Updated:
 - QuickLoot EE
 
 Fixes/Tweaks:
-- Fixed Mandyn Hlaalu from getting a random name
+- Fixed bounty bandit quest issues where the bandit's head was not lootable
+- Fixed floating land chunk near Silent Moons camp
+- Fixed Mandyn Hlaalu from getting a random name (maybe)
 
 ## 0.5.0 Beta - Released 2022/07/03
 
