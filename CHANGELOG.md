@@ -29,8 +29,10 @@ Updated:
 - QuickLoot EE
 
 Fixes/Tweaks:
-- Fixed bounty bandit quest issues where the bandit's head was not lootable
+- Fixed bounty bandit quest issues where the bandit's head was not lootable (and some other missives issues)
 - Fixed floating land chunk near Silent Moons camp
+- Fixed LotD Heavy armory Falmer daggers not working
+- Fixed radiant quests at Shadowstar Castle (requiring you to purchase the castle to get inside)
 - Fixed Mandyn Hlaalu from getting a random name (maybe)
 
 ## 0.5.0 Beta - Released 2022/07/03
