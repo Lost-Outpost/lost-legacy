@@ -28,6 +28,9 @@ Updated:
 - Lost Races of Aetherius
 - QuickLoot EE
 
+Fixes/Tweaks:
+- Fixed Mandyn Hlaalu from getting a random name
+
 ## 0.5.0 Beta - Released 2022/07/03
 
 Added:
