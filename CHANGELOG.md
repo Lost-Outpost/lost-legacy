@@ -24,8 +24,7 @@ Added:
 - Silver Objects SMIMed
 
 Updated:
-- Better Third Person Selection (SE)
-- Lost Races of Aetherius
+- Better Third Person Selection (fixed flickering issue with Quickloot)
 - QuickLoot EE
 
 Fixes/Tweaks:
