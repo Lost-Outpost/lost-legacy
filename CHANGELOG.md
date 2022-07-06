@@ -18,7 +18,10 @@
 ## 0.5.1 Beta - In-Progress
 
 Added:
+- College of Winterhold - Quest Expansion
+- Daedric Shrines - Nocturnal
 - QuickLoot EE - Settings Loader
+- Silver Objects SMIMed
 
 Updated:
 - Better Third Person Selection (SE)
