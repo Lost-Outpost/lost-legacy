@@ -13,7 +13,7 @@
 
 ---
 
-**Modlist Download: (ALPHA) [Lost Legacy.wabbajack](https://github.com/Lost-Outpost/lost-legacy/releases/)**
+**Modlist Download: [Lost Legacy.wabbajack](https://github.com/Lost-Outpost/lost-legacy/releases/)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
@@ -46,8 +46,6 @@
 - [Issues](#issues)
 
 # Introduction
-
-**--Note: Lost Legacy is currently in Alpha Testing phase. It is fully installable and playable, but there may be bugs--**
 
 Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics!
 
