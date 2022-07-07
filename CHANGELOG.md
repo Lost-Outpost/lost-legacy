@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.5.1 Beta - In-Progress
+## 0.5.1 Beta - Released 2022/07/07
 
 Added:
 - College of Winterhold - Quest Expansion
