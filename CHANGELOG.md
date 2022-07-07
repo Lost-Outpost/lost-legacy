@@ -34,7 +34,6 @@ Removed:
 - Lunar Weapon Replacers (Replaced by Lunar Armory)
 
 Fixes/Tweaks:
-- 
 - Fixed bounty bandit quest issues where the bandit's head was not lootable (and some other missives issues)
 - Fixed floating land chunk near Silent Moons camp
 - Fixed floating camp and landscape from Artaeum near ToK ruin
