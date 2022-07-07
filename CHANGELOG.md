@@ -21,17 +21,22 @@ Added:
 - College of Winterhold - Quest Expansion
 - Daedric Shrines - Nocturnal
 - QuickLoot EE - Settings Loader
+- Read Or Take SKSE
 - Silver Objects SMIMed
+- Use Or Take SKSE
 
 Updated:
 - Better Third Person Selection (fixed flickering issue with Quickloot)
+- Headhunter - Bounties Redone
 - QuickLoot EE
 
 Fixes/Tweaks:
+- 
 - Fixed bounty bandit quest issues where the bandit's head was not lootable (and some other missives issues)
 - Fixed floating land chunk near Silent Moons camp
 - Fixed LotD Heavy armory Falmer daggers not working
 - Fixed radiant quests at Shadowstar Castle (requiring you to purchase the castle to get inside)
+- Included optional files for those experiencing Lux crashes in certain locations (Blue Palace, College, Dragonsreach)
 
 ## 0.5.0 Beta - Released 2022/07/03
 
