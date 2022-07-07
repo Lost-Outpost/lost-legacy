@@ -30,13 +30,22 @@ Updated:
 - Headhunter - Bounties Redone
 - QuickLoot EE
 
+Removed:
+- Lunar Weapon Replacers (Replaced by Lunar Armory)
+
 Fixes/Tweaks:
 - 
 - Fixed bounty bandit quest issues where the bandit's head was not lootable (and some other missives issues)
 - Fixed floating land chunk near Silent Moons camp
+- Fixed floating camp and landscape from Artaeum near ToK ruin
 - Fixed LotD Heavy armory Falmer daggers not working
+- Fixed Map marker for Dark Brotherhood Sanctuary never showing up
+- Fixed Moon and Start NPC (Mandyn Hlaalu) from getting renamed
 - Fixed radiant quests at Shadowstar Castle (requiring you to purchase the castle to get inside)
+- Fixed Wyrmstooth
 - Included optional files for those experiencing Lux crashes in certain locations (Blue Palace, College, Dragonsreach)
+- Made lots of custom patches
+- Re-ran Synthesis
 
 ## 0.5.0 Beta - Released 2022/07/03
 
