@@ -28,7 +28,7 @@
 ## Optional Content
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
 
-When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
+When enabling any optional tweaks, the .esp files (if applicable) should already be placed in the correct order in the plugin list for you, but let me know if you notice it at the end of the plugin list so I can fix that.
 
 ### Widescreen
 
@@ -38,7 +38,7 @@ When enabling any optional tweaks, make sure they are always loaded BEFORE reali
 
 Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
 
-### Character Presets
+### Character Presets (Soon™)
 
 Lost Legacy includes a mod that contains a few character presets, and you can also copy presets you download from the [Lost Legacy Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
 
