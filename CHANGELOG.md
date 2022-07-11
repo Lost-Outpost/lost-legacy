@@ -15,6 +15,24 @@
 
 # Changelog
 
+## 0.5.2 Beta - In-Progress
+
+Added:
+- Experience - Leveling Freedom - Configure your XP Curve
+- Hide Your Quests (ESL flagged)
+- JS Immersive Tripwires SE
+- Legacy of the Dragonborn SSE - Settings Loader
+- Ryn's Bleak Falls Barrow (Haven't re-run dyndolod yet)
+- WIDeadBodyCleanupScript Crash Fix
+
+Updated:
+- College of Winterhold - Quest Expansion
+- Silver Objects SMIMed
+
+Fixes/Tweaks:
+- ESL flagged some plugins to free up some ESP slots
+
+
 ## 0.5.1 Beta - Released 2022/07/07
 
 Added:
