@@ -21,7 +21,6 @@ Added:
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
-- Legacy of the Dragonborn SSE - Settings Loader
 - Ryn's Bleak Falls Barrow (Haven't re-run dyndolod yet)
 - WIDeadBodyCleanupScript Crash Fix
 
