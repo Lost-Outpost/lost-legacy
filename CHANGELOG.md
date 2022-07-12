@@ -30,6 +30,8 @@ Updated:
 
 Fixes/Tweaks:
 - ESL flagged some plugins to free up some ESP slots
+- Removed aggressive occlusion culling planes in the Bards College
+- Removed some clipping plants in Solitude around the Loft
 
 
 ## 0.5.1 Beta - Released 2022/07/07
