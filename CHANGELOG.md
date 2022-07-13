@@ -21,7 +21,8 @@ Added:
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
-- Ryn's Bleak Falls Barrow (Haven't re-run dyndolod yet)
+- Lilmothiit of Aetherius
+- Ryn's Bleak Falls Barrow
 - WIDeadBodyCleanupScript Crash Fix
 
 Updated:
@@ -30,6 +31,8 @@ Updated:
 
 Fixes/Tweaks:
 - ESL flagged some plugins to free up some ESP slots
+- Fixed invisible walls in Glenmoril Coven
+- Fixed Wheels of Lull NPC name changing
 - Removed aggressive occlusion culling planes in the Bards College
 - Removed some clipping plants in Solitude around the Loft
 
