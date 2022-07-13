@@ -8,7 +8,8 @@
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://loadorderlibrary.com/lists/lostlegacy">Full Modlist</a> ·
-  <a href="HELP.md">Help</a>
+  <a href="HELP.md">Help</a> ·
+  <a href="https://www.patreon.com/greatpadinski">Patreon</a>
 </p>
 
 ---
