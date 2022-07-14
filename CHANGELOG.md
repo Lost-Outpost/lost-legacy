@@ -26,6 +26,7 @@ Added:
 - WIDeadBodyCleanupScript Crash Fix
 
 Updated:
+- Apothecary - An Alchemy Overhaul
 - College of Winterhold - Quest Expansion
 - Silver Objects SMIMed
 
