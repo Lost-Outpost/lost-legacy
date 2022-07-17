@@ -18,17 +18,23 @@
 ## 0.5.2 Beta - In-Progress
 
 Added:
+- Convenient Reading UI - SE
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
 - Lilmothiit of Aetherius
+- Obsidian Mountain Fogs Tweaked
 - Ryn's Bleak Falls Barrow
 - WIDeadBodyCleanupScript Crash Fix
+- Yes Im Sure
 
 Updated:
 - Apothecary - An Alchemy Overhaul
 - College of Winterhold - Quest Expansion
 - Silver Objects SMIMed
+
+Removes:
+- Obsidian Mountain Fogs
 
 Fixes/Tweaks:
 - ESL flagged some plugins to free up some ESP slots
