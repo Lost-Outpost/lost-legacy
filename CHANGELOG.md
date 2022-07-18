@@ -22,8 +22,9 @@ Added:
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
-- Lilmothiit of Aetherius
+- Lilmothiit of Aetherius (New playable race!)
 - Obsidian Mountain Fogs Tweaked
+- Quests Are In Skyrim
 - Ryn's Bleak Falls Barrow
 - WIDeadBodyCleanupScript Crash Fix
 - Yes Im Sure
@@ -37,6 +38,7 @@ Removes:
 - Obsidian Mountain Fogs
 
 Fixes/Tweaks:
+- Added Lux Crash Fixes for more locations, cleaned/fixed some existing ones
 - ESL flagged some plugins to free up some ESP slots
 - Fixed invisible walls in Glenmoril Coven
 - Fixed Wheels of Lull NPC name changing
