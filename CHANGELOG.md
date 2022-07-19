@@ -40,7 +40,9 @@ Removes:
 Fixes/Tweaks:
 - Added Lux Crash Fixes for more locations, cleaned/fixed some existing ones
 - ESL flagged some plugins to free up some ESP slots
+- Fixed an issue with some summons/minions not using the correct AI package
 - Fixed invisible walls in Glenmoril Coven
+- Fixed undeath spell causing floating numbers to go nuts and never disappearing
 - Fixed Wheels of Lull NPC name changing
 - Removed aggressive occlusion culling planes in the Bards College
 - Removed some clipping plants in Solitude around the Loft
