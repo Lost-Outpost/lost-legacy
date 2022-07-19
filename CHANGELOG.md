@@ -35,6 +35,7 @@ Updated:
 - Silver Objects SMIMed
 
 Removes:
+- Nether's Follower Framework - Settings Loader (wasn't working, using MCM recorder now)
 - Obsidian Mountain Fogs
 
 Fixes/Tweaks:
