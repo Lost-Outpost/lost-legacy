@@ -18,8 +18,10 @@
 ## 0.6.0 Beta - In-Progress
 
 Added:
+- OPTIONAL - Serana Dialogue Add-On (Disabled by default)
 - Clockwork Re-Imagined
 - Convenient Reading UI - SE
+- Daedric Shrines - Namira
 - Dayspring Canyon Global Markers Enabler for FWMF
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
