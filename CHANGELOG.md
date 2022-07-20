@@ -33,6 +33,7 @@ Added:
 
 Updated:
 - Apothecary - An Alchemy Overhaul
+- Awesome Potions Simplified -ENB Lights
 - College of Winterhold - Quest Expansion
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches (Official)
