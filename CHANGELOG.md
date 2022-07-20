@@ -15,10 +15,12 @@
 
 # Changelog
 
-## 0.5.2 Beta - In-Progress
+## 0.6.0 Beta - In-Progress
 
 Added:
+- Clockwork Re-Imagined
 - Convenient Reading UI - SE
+- Dayspring Canyon Global Markers Enabler for FWMF
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
@@ -32,7 +34,10 @@ Added:
 Updated:
 - Apothecary - An Alchemy Overhaul
 - College of Winterhold - Quest Expansion
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn Patches (Official)
 - Silver Objects SMIMed
+- Wuth Rein - An ancient nordic hideout
 
 Removes:
 - Nether's Follower Framework - Settings Loader (wasn't working, using MCM recorder now)
@@ -40,6 +45,7 @@ Removes:
 
 Fixes/Tweaks:
 - Added Lux Crash Fixes for more locations, cleaned/fixed some existing ones
+- Adjusted performance ENB to have brighter interiors and nights
 - ESL flagged some plugins to free up some ESP slots
 - Fixed an issue with some summons/minions not using the correct AI package
 - Fixed invisible walls in Glenmoril Coven
