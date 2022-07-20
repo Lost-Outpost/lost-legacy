@@ -45,6 +45,7 @@ Removes:
 
 Fixes/Tweaks:
 - Added Lux Crash Fixes for more locations, cleaned/fixed some existing ones
+- Added map marker to fast travel directly to Fort Dawnguard from Tamriel
 - Adjusted performance ENB to have brighter interiors and nights
 - ESL flagged some plugins to free up some ESP slots
 - Fixed an issue with some summons/minions not using the correct AI package
