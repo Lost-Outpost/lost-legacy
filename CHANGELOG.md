@@ -42,7 +42,7 @@ Updated:
 - Silver Objects SMIMed
 - Wuth Rein - An ancient nordic hideout
 
-Removes:
+Removed:
 - Nether's Follower Framework - Settings Loader (wasn't working, using MCM recorder now)
 - Obsidian Mountain Fogs
 
