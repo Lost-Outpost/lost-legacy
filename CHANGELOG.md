@@ -18,18 +18,23 @@
 ## 0.6.0 Beta - In-Progress
 
 Added:
-- OPTIONAL - Serana Dialogue Add-On (Disabled by default)
+- OPTIONAL - Serana Dialogue Add-On + Patches (Disabled by default)
+- Arcanum - A New Age of Magic
+- Astral Magic 2
 - Clockwork Re-Imagined
 - Convenient Reading UI - SE
 - Daedric Shrines - Namira
 - Dayspring Canyon Global Markers Enabler for FWMF
+- DEATHBRAND - My version
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
+- Legacy of the Dragonborn - Remiel Patch Room B-4 (instead of A-1)
 - Lilmothiit of Aetherius (New playable race!)
 - Obsidian Mountain Fogs Tweaked
 - Quests Are In Skyrim
 - Ryn's Bleak Falls Barrow
+- Seasoned Traveller Armor
 - WIDeadBodyCleanupScript Crash Fix
 - Yes Im Sure
 
@@ -43,6 +48,7 @@ Updated:
 - Wuth Rein - An ancient nordic hideout
 
 Removed:
+- Legacy of the Dragonborn - Remiel Patch Room A-1 (swapped with B-4)
 - Nether's Follower Framework - Settings Loader (wasn't working, using MCM recorder now)
 - Obsidian Mountain Fogs
 
