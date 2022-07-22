@@ -29,16 +29,21 @@ Added:
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JS Immersive Tripwires SE
+- Kanjs - Utensils set and Weapons - esl patch
+- Khajiit Will Follow + Vigilant and Forgotten City Patches
+- Khajiit Will Follow - Fresh Start
 - Legacy of the Dragonborn - Remiel Patch Room B-4 (instead of A-1)
 - Lilmothiit of Aetherius (New playable race!)
 - Obsidian Mountain Fogs Tweaked
 - Quests Are In Skyrim
+- Real Bosses
 - Ryn's Bleak Falls Barrow
 - Seasoned Traveller Armor
 - WIDeadBodyCleanupScript Crash Fix
 - Yes Im Sure
 
 Updated:
+- Additional Clockwork
 - Apothecary - An Alchemy Overhaul
 - Awesome Potions Simplified -ENB Lights
 - College of Winterhold - Quest Expansion
