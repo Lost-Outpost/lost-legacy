@@ -32,7 +32,10 @@ Added:
 - Kanjs - Utensils set and Weapons - esl patch
 - Khajiit Will Follow + Vigilant and Forgotten City Patches
 - Khajiit Will Follow - Fresh Start
+- Legacy of the Dragonborn - Follower Hot Tub Room B-5
+- Legacy of the Dragonborn - Kaidan Follower Patch Room A-1 (instead of room A-4)
 - Legacy of the Dragonborn - Remiel Patch Room B-4 (instead of A-1)
+- Legacy of the Dragonborn - Xelzaz Follower Display Patch A-4 (instead of B-5)
 - Lilmothiit of Aetherius (New playable race!)
 - No Crime Teleport RE
 - No Crime Teleport - Voice Consistency Fix
@@ -55,6 +58,7 @@ Updated:
 - Wuth Rein - An ancient nordic hideout
 
 Removed:
+- Legacy of the Dragonborn - Kaidan Follower Patch Room A-1 (swapped with A-4)
 - Legacy of the Dragonborn - Remiel Patch Room A-1 (swapped with B-4)
 - Nether's Follower Framework - Settings Loader (wasn't working, using MCM recorder now)
 - Obsidian Mountain Fogs
