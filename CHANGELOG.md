@@ -70,6 +70,8 @@ Fixes/Tweaks:
 - Fixed Wheels of Lull NPC name changing
 - Removed aggressive occlusion culling planes in the Bards College
 - Removed some clipping plants in Solitude around the Loft
+- Reran Dyndolod
+- Reran Synthesis
 
 
 ## 0.5.1 Beta - Released 2022/07/07
