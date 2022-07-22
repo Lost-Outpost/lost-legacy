@@ -34,6 +34,8 @@ Added:
 - Khajiit Will Follow - Fresh Start
 - Legacy of the Dragonborn - Remiel Patch Room B-4 (instead of A-1)
 - Lilmothiit of Aetherius (New playable race!)
+- No Crime Teleport RE
+- No Crime Teleport - Voice Consistency Fix
 - Obsidian Mountain Fogs Tweaked
 - Quests Are In Skyrim
 - Real Bosses
