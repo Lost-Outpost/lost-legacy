@@ -28,6 +28,7 @@ Added:
 - DEATHBRAND - My version
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
+- JK's The Bards College
 - JS Immersive Tripwires SE
 - Kanjs - Utensils set and Weapons - esl patch
 - Khajiit Will Follow + Vigilant and Forgotten City Patches
@@ -52,6 +53,7 @@ Updated:
 - Apothecary - An Alchemy Overhaul
 - Awesome Potions Simplified -ENB Lights
 - College of Winterhold - Quest Expansion
+- JK's Guild HQ Interiors Patch Collection
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches (Official)
 - Silver Objects SMIMed
