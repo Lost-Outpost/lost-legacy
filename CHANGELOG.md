@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 0.6.0 Beta - In-Progress
+## 1.0.0 - In-Progress
 
 Added:
 - OPTIONAL - Serana Dialogue Add-On + Patches (Disabled by default)
