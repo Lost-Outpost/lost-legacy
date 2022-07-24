@@ -26,6 +26,7 @@ Added:
 - Daedric Shrines - Namira
 - Dayspring Canyon Global Markers Enabler for FWMF
 - DEATHBRAND - My version
+- ElSopa - Azura's Star Redone SE
 - Experience - Leveling Freedom - Configure your XP Curve
 - Hide Your Quests (ESL flagged)
 - JK's The Bards College
