@@ -38,6 +38,8 @@ Added:
 - Legacy of the Dragonborn - Remiel Patch Room B-4 (instead of A-1)
 - Legacy of the Dragonborn - Xelzaz Follower Display Patch A-4 (instead of B-5)
 - Lilmothiit of Aetherius (New playable race!)
+- Mihail Monsters - Ancient Nordic Sentinel
+- Mihail Monsters - Storm Golem
 - No Crime Teleport RE
 - No Crime Teleport - Voice Consistency Fix
 - Obsidian Mountain Fogs Tweaked
@@ -56,7 +58,10 @@ Updated:
 - JK's Guild HQ Interiors Patch Collection
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches (Official)
+- Lux Orbis - Main plugins complete pass and fixes
+- Mihail Monsters - Gravelords
 - Silver Objects SMIMed
+- Toxin Doctor Outfit- Mihail Armors and Clothes (MIHAIL SSE PORT)
 - Wuth Rein - An ancient nordic hideout
 
 Removed:
