@@ -15,7 +15,13 @@
 
 # Changelog
 
-## 1.0.0 - In-Progress
+## 1.0.1 - In-Progress
+
+Fixes/Tweaks:
+- Fixed CTD from mihail storm golems
+
+
+## 1.0.0 - Released 2022/07/24
 
 Added:
 - OPTIONAL - Serana Dialogue Add-On + Patches (Disabled by default)
