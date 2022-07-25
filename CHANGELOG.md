@@ -25,6 +25,7 @@ Updated:
 
 Fixes/Tweaks:
 - Fixed CTD from mihail storm golems
+- Fixed HUD level-up progress inconsistency
 
 
 ## 1.0.0 - Released 2022/07/24
