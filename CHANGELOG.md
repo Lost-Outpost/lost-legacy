@@ -19,6 +19,7 @@
 
 Added:
 - ElSopa - Azura's Star Redone - ENB Light
+- Sound Fix for Large Sector Drives
 
 Updated:
 - College of Winterhold - Quest Expansion
