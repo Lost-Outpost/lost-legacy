@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 1.0.1 - In-Progress
+## 1.0.1 - Released 2022/07/25
 
 Added:
 - ElSopa - Azura's Star Redone - ENB Light
