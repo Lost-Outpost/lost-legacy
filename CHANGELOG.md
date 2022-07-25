@@ -26,6 +26,7 @@ Updated:
 
 Fixes/Tweaks:
 - Fixed CTD from mihail storm golems
+- Fixed ENB Organizer losing the global binaries sometimes
 - Fixed HUD level-up progress inconsistency
 - Slightly lowered base xp required to level up (only affects new characters)
 
