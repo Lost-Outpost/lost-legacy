@@ -20,6 +20,9 @@
 Added:
 - ElSopa - Azura's Star Redone - ENB Light
 
+Updated:
+- College of Winterhold - Quest Expansion
+
 Fixes/Tweaks:
 - Fixed CTD from mihail storm golems
 
