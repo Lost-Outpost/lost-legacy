@@ -26,6 +26,7 @@ Updated:
 Fixes/Tweaks:
 - Fixed CTD from mihail storm golems
 - Fixed HUD level-up progress inconsistency
+- Slightly lowered base xp required to level up (only affects new characters)
 
 
 ## 1.0.0 - Released 2022/07/24
