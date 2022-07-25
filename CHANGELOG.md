@@ -17,6 +17,9 @@
 
 ## 1.0.1 - In-Progress
 
+Added:
+- ElSopa - Azura's Star Redone - ENB Light
+
 Fixes/Tweaks:
 - Fixed CTD from mihail storm golems
 
