@@ -43,9 +43,11 @@ Here is a list of the non-standard controls that you should be aware of:
 - <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 
 
+
 ## Sunhelm/Survival
 
 Lost Legacy includes the Survival/Needs mod called [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), which is installed by default but requires activation in-game. With Sunhelm active, you will start to receive penalties if you go too long without eating, sleeping, or spending too long in the cold. To activate it, you can go into the Sunhelm MCM and enable, or simply sleep in a bed and you should receive a prompt with a little roleplay message. The sliders and widget are pre-configured for you, but you can tweak them to your liking (i.e. lower the Needs sliders to require less food/sleep/etc). Note that some settings in the Survival Control Panel also become active when Sunhelm is started. 
+
 
 ## Misc
 
@@ -56,6 +58,7 @@ Killmoves are disabled by default. You can enable/tweak them in the Violens MCM.
 ### Wintersun/Religion
 
 To worship a new deity via their shrine, you must sneak-activate the shrine as simply activating it will just give you the shrine buff.
+
 
 ## Quest Mods
 
