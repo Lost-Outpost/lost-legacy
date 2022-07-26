@@ -45,7 +45,7 @@ Here is a list of the non-standard controls that you should be aware of:
 
 ## Sunhelm/Survival
 
-Lost Legacy includes the Survival/Needs mod called [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), which is installed by default but requires activation in-game. With Sunhelm active, you will start to receive penalties if you go too long without eating, sleeping, or spending too long in the cold. To activate it, you can go into the Sunhelm MCM and enable, or simply sleep in a bed and you should receive a prompt with a little roleplay message. The sliders and widget are pre-configured for you, but you can tweak them to your liking (i.e. lower the Needs sliders to require less food/sleep/etc).
+Lost Legacy includes the Survival/Needs mod called [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414), which is installed by default but requires activation in-game. With Sunhelm active, you will start to receive penalties if you go too long without eating, sleeping, or spending too long in the cold. To activate it, you can go into the Sunhelm MCM and enable, or simply sleep in a bed and you should receive a prompt with a little roleplay message. The sliders and widget are pre-configured for you, but you can tweak them to your liking (i.e. lower the Needs sliders to require less food/sleep/etc). Note that some settings in the Survival Control Panel become active when Sunhelm is started. 
 
 ## Misc
 
