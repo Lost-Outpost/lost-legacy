@@ -12,7 +12,7 @@
 
 ---
 
-# THIS PAGE IS UNDER CONSTRUCTION
+# THIS PAGE IS STILL IN PROGRESS
 
 
 
@@ -56,4 +56,8 @@ Killmoves are disabled by default. You can enable/tweak them in the Violens MCM.
 ### Wintersun/Religion
 
 To worship a new deity via their shrine, you must sneak-activate the shrine as simply activating it will just give you the shrine buff.
+
+## Quest Mods
+
+### Coming Soon™
 
