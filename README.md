@@ -53,7 +53,7 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 ### Minimum Specs
 On my system I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
 
-My specs:
+My specs: (NOT requirements)
 - GTX 1080
 - Intel i7-8700k
 - 32 GB DDR4 3200 RAM
