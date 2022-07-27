@@ -80,7 +80,7 @@ To install a new ENB, do the following:
 - In ENB Organizer, select Presets from the menu
 - In ENB Organizer, select the add button, select import folder or archive, import from your temporary folder, change Binary dropdown to "enbseries", then hit Save
 
-Thanks to Lost Legacy community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
+Thanks to Lost Outpost community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
 
 ## Performance Guide
 
