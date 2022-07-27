@@ -85,7 +85,7 @@ Thanks to Lost Outpost community helper Curly for making [this video](https://ww
 ## Performance Guide
 
 (In-progress)
-- Enable the three Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
+- Enable the 4 Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
 - Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
 - Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` to the profile you're using and overwrite `Lost Legacy\profiles\Lost Legacy`
 
