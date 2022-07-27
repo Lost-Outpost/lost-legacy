@@ -38,19 +38,6 @@ When enabling any optional tweaks, the .esp files (if applicable) should already
 
 Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
 
-### Character Presets (Soon™)
-
-Lost Legacy includes a mod that contains a few character presets, and you can also copy presets you download from the [Lost Legacy Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 
-
-The presets mod is here:
-
-![Lost Legacy-character-presets](https://user-images.githubusercontent.com/508163/159598073-ee99e599-2f5a-4ce3-93d3-169233858689.png)
-
-You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
-
-```
-Lost Legacy\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
-```
 
 ### General Rules
 When enabling optional content, the plugin should be placed in the correct spot automatically, but verify on the right side of MO2 to be sure it isn't loading at the end of the list. For content with its own section, follow the appropriate readme section for it.
