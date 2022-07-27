@@ -15,6 +15,11 @@
 
 # Changelog
 
+## 1.0.2 - In-Progress
+
+Fixes/Tweaks
+- Added more Lux Crash Fix locations
+
 ## 1.0.1 - Released 2022/07/25
 
 Added:
