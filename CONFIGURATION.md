@@ -48,6 +48,13 @@ When enabling optional content, the plugin should be placed in the correct spot 
 
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
+A few that you may want to tweak:
+- Sunhelm - Can tweak Hunger/Thirst/Sleep/Col settings to your liking
+- The Ultimate Dodge Mod - Can change the dodge settings and hotkey
+- True Directional Movement - Target lock hotkey
+- Wildcat combat - Can change the difficulty multipliers and some other combat settings
+- Violens - I have killmoves disabled by default, these can be safely enabled/tweaked
+
 ## ENB and Reshade Presets
 
 > :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
