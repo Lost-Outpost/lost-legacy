@@ -175,10 +175,24 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+# Starting your Lost Legacy Playthrough
+
+**AFTER WABBAJACK SAYS INSTALL COMPLETE**, you will find a file called "ModOrganizer" or "ModOrganizer.exe" in the folder you installed Lost Legacy. You specified this folder in Wabbajack before starting the install. After opening this file you might be greeted with a popup about the registry key not matching. **MAKE SURE YOU PRESS "YES"**, the game will not work otherwise. Another common popup is [this](https://media.discordapp.net/attachments/972219567654977606/1002273919761395752/unknown.png) about NXM links. Press yes, but it only really matters if you are planning on adding mods to the list. 
+
+Before we actually launch the game, you should check the **Final Checklist** section aswell as the [Configuration Page](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md) to enable any optional content and tweaks like the performance options. Come back to this section after you are done with those two.
+
+Once you are done with all that, its finally time to launch the game. Find the big [dropdown menu](https://cdn.discordapp.com/attachments/862000050812354610/1002288560059203757/unknown.png) on the right side and make sure "Play Lost Legacy (SKSE) is selected. Press run. If Mod Organizer locks up, everything is working and the game is loading. Please note its completely normal for it to load for a few minutes, especially on slower drives. So do not be alarmed if Skyrim does not pop up on your screen right away.
+
+Should Mod Organizer not lock for some reason, or lock and unlock right away, please feel free to ask for assistance in the discord channels.
+
+As soon as your game is finished launching, you will be greeted with the Title screen for Lost Legacy, and free to continue with starting a new game and character creation.
+
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
 - (Not set up yet) If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
 - Change the ENB Preset (if you want) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page. The default ENB is a modified Pi-Cho. Cathedralist Fantasy is the most performance friendly ENB, but drastically changes the look of the game.
+
+
 
 # Gameplay Guide
 This section is under construction: [gameplay guide](GAMEPLAY.md)
