@@ -19,6 +19,8 @@
 
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
+- Removed skill level cap, didn't really fit the list
+- Tweaked XP gain from kills
 
 ## 1.0.1 - Released 2022/07/25
 
