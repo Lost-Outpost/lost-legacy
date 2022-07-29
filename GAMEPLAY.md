@@ -52,6 +52,9 @@ As great as this mod is, it has a tendency to break sometimes due to the nature 
 
 Go inside the Helgen inn, behind the receptionist desk, down the stairs. Follow that path in the basement until you get to a ladder. Follow the ladder up and go outside. Once outside you should see a dragon head poking out of the hill. Talk to the dragon head and use the Teleport to Keep option to bypass the starting intro and go right to the keep with your faction choice. (Thanks sappydappy!)
 
+## Leveling and Experience
+
+Lost Legacy uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) to overhaul Skyrim's outdated leveling mechanics. The main feature of this mod is that your overall character level is no longer affected by your individual skills increasing. Instead, you will gain XP and level up by killing stuff, discovering locations and completing quests. The skills themselves will still level up by simply using them. As of version 1.0.1 this also includes a soft cap on your skills which prevents you from powerleveling too fast. This will likely be removed in a future update for LL.
 
   
 ## Sunhelm/Survival
