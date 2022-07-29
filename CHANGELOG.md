@@ -19,6 +19,7 @@
 
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
+- Potential fix for the Quickloot + COIN crash
 - Removed skill level cap, didn't really fit the list
 - Tweaked XP gain from kills
 
