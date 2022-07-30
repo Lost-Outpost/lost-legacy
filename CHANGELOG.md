@@ -19,9 +19,10 @@
 
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
+- Disabled guard raids in Extended Encounters MCM as it was causing issues with Lawbringer in some locations
+- Fixed crash with Quickloot + COIN
 - Improvements to Helgen Intro skip option
 - Nerfed Auri's and Inigo's weapons
-- Potential fix for the Quickloot + COIN crash
 - Removed skill level cap, didn't really fit the list
 - Tweaked XP gain from kills
 
