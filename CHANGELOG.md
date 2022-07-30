@@ -19,7 +19,8 @@
 
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
-- Nerfed Auri and Inigo
+- Improvements to Helgen Intro skip option
+- Nerfed Auri's and Inigo's weapons
 - Potential fix for the Quickloot + COIN crash
 - Removed skill level cap, didn't really fit the list
 - Tweaked XP gain from kills
