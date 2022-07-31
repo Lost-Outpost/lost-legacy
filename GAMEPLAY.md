@@ -56,6 +56,33 @@ Go inside the Helgen inn, behind the receptionist desk, down the stairs. Follow 
 
 Lost Legacy uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) to overhaul Skyrim's outdated leveling mechanics. The main feature of this mod is that your overall character level is no longer affected by your individual skills increasing. Instead, you will gain XP and level up by killing stuff, discovering and clearing locations, reading books, and completing quests. The skills themselves will still level up by simply using them. As of version 1.0.1 this also includes a soft cap on your skills which prevents you from powerleveling too fast. This will likely be removed in a future update for LL.
 
+## Main Gameplay overhauls and difficulty
+
+Lost Legacy uses the full suite of [Enairim](https://www.nexusmods.com/skyrimspecialedition/users/3959191?tab=user+files) mods. All these mods combined make any build you can think of a very viable option. 
+
+For perks we use [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702). This mod is a combination of Enai's Vokrii and Ordinator, which together create huge perk trees. Any build should be viable and fun to use. Lost Legacy is built as a powerfantasy list, buffing the Player as much as possible. If you are looking for a hardcore/requiem/complete difficulty overhaul, this list will probably not satisfy you. 
+
+In Lost Legacy you have hundreds of spells and buffs available to you thanks to the plethora of magic mods included. Some but not all include:
+
+-[Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
+-[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170)
+-[Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/65221)
+-[Astral Magic 2](https://www.nexusmods.com/skyrimspecialedition/mods/69938)
+-[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
+
+[Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) and [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) overhaul Werewolves and Vampires respectively.
+
+[Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) adds tons of new fun enchantments.
+[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) adds and overhauls shouts. You will also now find "pillars" all over the map to further buff certain shouts.
+
+Finally, Lost Legacy uses [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) to add a fully fledged out Religion system! You can choose to worship different deities as well as even Daedra. They all provide different up and downsides, please consult the modpage for them as this is a very in depth mod. Religion can be an extremely powerful tool to push your build to the next level. Please note that this list includes [Sneak to follow](https://www.nexusmods.com/skyrimspecialedition/mods/33754).
+
+Lost Legacy uses [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) as it's main Combat Overhaul. [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is included for the jump attacks. [TUDM](https://www.nexusmods.com/skyrimspecialedition/mods/63000) provides dodging. [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) is included to overhaul Skyrim's outdated third person mechanics and to make it a viable playstyle. [Real Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/18183) makes bossfights actually feel like bossfights and not just another generic bandit.
+
+
+
+
+
   
 ## Sunhelm/Survival
 
