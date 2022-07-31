@@ -56,13 +56,13 @@ Go inside the Helgen inn, behind the receptionist desk, down the stairs. Follow 
 
 Lost Legacy uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) to overhaul Skyrim's outdated leveling mechanics. The main feature of this mod is that your overall character level is no longer affected by your individual skills increasing. Instead, you will gain XP and level up by killing stuff, discovering and clearing locations, reading books, and completing quests. The skills themselves will still level up by simply using them. As of version 1.0.1 this also includes a soft cap on your skills which prevents you from powerleveling too fast. This will likely be removed in a future update for LL.
 
-## Main Gameplay overhauls and difficulty
+## Main Gameplay Overhauls and Difficulty
 
 Lost Legacy uses the full suite of [Enairim](https://www.nexusmods.com/skyrimspecialedition/users/3959191?tab=user+files) mods. All these mods combined make any build you can think of a very viable option. 
 
-For perks we use [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702). This mod is a combination of Enai's Vokrii and Ordinator, which together create huge perk trees. Any build should be viable and fun to use. Lost Legacy is built as a powerfantasy list, buffing the Player as much as possible. If you are looking for a hardcore/requiem/complete difficulty overhaul, this list will probably not satisfy you. 
+For perks we use [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702). This mod is a combination of Enai's Vokrii and Ordinator, which together create huge perk trees. Any build should be viable and fun to use. Lost Legacy is built as a power fantasy list, buffing the Player as much as possible. If you are looking for a hardcore/requiem/complete difficulty overhaul, this list will probably not satisfy you. 
 
-In Lost Legacy you have hundreds of spells and buffs available to you thanks to the plethora of magic mods included. Some but not all include:
+In Lost Legacy, you have hundreds of spells and buffs available to you thanks to the plethora of magic mods included. Some but not all include:
 
 -[Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
 -[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170)
