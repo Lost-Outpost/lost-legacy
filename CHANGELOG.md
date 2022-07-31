@@ -17,10 +17,17 @@
 
 ## 1.0.2 - In-Progress
 
+Added:
+- Quick Loot RE (Quickloot EE was causing random crashes, still have it available as an optional since it has TCC support and RE does not)
+
+Updated:
+- JK's The Bards College
+
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
+- Added markers for 2 quests in College Quest Expansion
 - Disabled guard raids in Extended Encounters MCM as it was causing issues with Lawbringer in some locations
-- Potential fix for crash with Quickloot + COIN
+- Potential fix for crash with QuicklootEE + COIN
 - Improvements to Helgen Intro skip option
 - Nerfed Auri's and Inigo's weapons
 - Removed skill level cap, didn't really fit the list
