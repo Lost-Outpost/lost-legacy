@@ -24,6 +24,7 @@ Added:
 Updated:
 - JK's The Bards College
 - Lost Races of Aetherius (Fixes crash for Snow Elf converting to vampire)
+- OPTIONAL - Serana Dialogue Add-On SE
 
 Fixes/Tweaks
 - Added more Lux Crash Fix locations
