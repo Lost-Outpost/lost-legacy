@@ -46,11 +46,11 @@ Here is a list of the non-standard controls that you should be aware of:
 
 Lost Legacy uses [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307). You will spawn in a typical inn room in Helgen. After creating your character, you will need to talk to the dragon statue next to the door to pick your start. Don't forget to choose some starter gear from the several containers in the room. After you chose your start, simply open and walk through the door. You should now be teleported. The "Default" start option means you stay in Helgen and just walk out of the door into the inn.
 
-To  begin the Main Quest, you want to head to Helgen's Inn and talk to the Innkeeper. Upon doing so, you will find the normal Innkeeper Dialogue and one extra Option, reading "I'd like to rent a room. (Start Intro (10 gold))", using this option will first seem like a normal bed renting - and is in fact a normal bed renting - however, the next time you sleep in Helgen's Inn, something special is going to happen.
+To begin the Main Quest, you want to head to Helgen's Inn and talk to the Innkeeper. Upon doing so, you will find the normal Innkeeper Dialogue and one extra Option, reading "I'd like to rent a room. (Start Intro (10 gold))", using this option will first seem like a normal bed renting - and is in fact a normal bed renting - however, the next time you sleep in Helgen's Inn, something special is going to happen.
 
 As great as this mod is, it has a tendency to break sometimes due to the nature of the Vanilla Starting scene. Should you have issues with the Dragon attack scene and the beheading, please try the following method to skip the intro:
 
-Go inside the Helgen inn, behind the receptionist desk, down the stairs. Follow that path in the basement until you get to a ladder. Follow the ladder up and go outside. Once outside you should see a dragon head poking out of the hill. Talk to the dragon head and use the Teleport to Keep option to bypass the starting intro and go right to the keep with your faction choice. (Thanks sappydappy!)
+Go inside the Helgen inn, do NOT talk to the innkeeper, go behind the bar, then down the stairs. Follow that path in the basement until you get to a ladder. Follow the ladder up and go outside. Once outside you should see a dragon head poking out of the hill. Talk to the dragon head and use the Teleport to Keep option to bypass the starting intro and go right to the keep with your faction choice. (Thanks sappydappy!)
 
 ## Leveling and Experience
 
