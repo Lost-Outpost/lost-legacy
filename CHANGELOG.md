@@ -19,6 +19,7 @@
 
 Added:
 - Quick Loot RE (Quickloot EE was causing random crashes, still have it available as an optional since it has TCC support and RE does not)
+- OPTIONAL - Skyshards
 
 Updated:
 - JK's The Bards College
