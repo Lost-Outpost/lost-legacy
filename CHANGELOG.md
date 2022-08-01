@@ -18,6 +18,7 @@
 ## 1.0.2 - In-Progress
 
 Added:
+- Keyboard Shortcuts Fix
 - Quick Loot RE (Quickloot EE was causing random crashes, still have it available as an optional since it has TCC support and RE does not)
 - OPTIONAL - Skyshards
 
@@ -28,7 +29,7 @@ Updated:
 - OPTIONAL - SDA Patch Hub
 
 Fixes/Tweaks
-- Added more Lux Crash Fix locations
+- Added more Lux Crash Fix locations (And enabled them all by default, feel free to disable this if you never experienced Lux crashes)
 - Added markers for 2 quests in College Quest Expansion
 - Disabled guard raids in Extended Encounters MCM as it was causing issues with Lawbringer in some locations
 - Potential fix for crash with QuicklootEE + COIN
