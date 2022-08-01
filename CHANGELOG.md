@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 1.0.2 - In-Progress
+## 1.0.2 - Released 2022/08/01
 
 Added:
 - Keyboard Shortcuts Fix
