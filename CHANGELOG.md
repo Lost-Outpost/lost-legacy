@@ -15,6 +15,18 @@
 
 # Changelog
 
+## 1.0.3 - Released 2022/08/??
+
+Added:
+- JS Shout Apart Skeletons SE
+
+
+Fixes/Tweaks:
+- Added Lux crash fix for Warmaidens
+- Added placeholder/empty plugins for Rigmor of Cyrodiil so the mod can be easily added without having to move the plugins around (You still have to download the mod yourself)
+- Fixed the horrendously long load times relating to the Rigmor quest and around Lake Illinalta and Riften's lake (and probably other bodies of water, thanks to neomewilson for helping me track this one down!)
+- Moved Keyboard Shortcuts Fix to optional
+
 ## 1.0.2 - Released 2022/08/01
 
 Added:
@@ -29,7 +41,7 @@ Updated:
 - OPTIONAL - Serana Dialogue Add-On SE
 - OPTIONAL - SDA Patch Hub
 
-Fixes/Tweaks
+Fixes/Tweaks:
 - Added more Lux Crash Fix locations (And enabled them all by default, feel free to disable this if you never experienced Lux crashes)
 - Added markers for 2 quests in College Quest Expansion
 - Disabled guard raids in Extended Encounters MCM as it was causing issues with Lawbringer in some locations
