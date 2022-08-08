@@ -15,6 +15,11 @@
 
 # Changelog
 
+## 1.0.4 - Released 2022/08/??
+
+Fixes/Tweaks
+- Fixed dragon priest masks not having the right stats
+
 ## 1.0.3 - Released 2022/08/??
 
 Added:
