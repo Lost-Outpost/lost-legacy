@@ -22,7 +22,7 @@ Fixes/Tweaks
 - Improved lux crash fixes for Breezehome and Warmaidens
 - Tweaked some dungeons' difficulty
 
-## 1.0.3 - Released 2022/08/??
+## 1.0.3 - Released 2022/08/03
 
 Added:
 - JS Shout Apart Skeletons SE
