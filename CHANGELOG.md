@@ -19,12 +19,13 @@
 
 Fixes/Tweaks
 - Fixed dragon priest masks not having the right stats
+- Improved lux crash fixes for Breezehome and Warmaidens
+- Tweaked some dungeons' difficulty
 
 ## 1.0.3 - Released 2022/08/??
 
 Added:
 - JS Shout Apart Skeletons SE
-
 
 Fixes/Tweaks:
 - Added Lux crash fix for Warmaidens
