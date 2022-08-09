@@ -18,6 +18,8 @@
 ## 1.0.4 - Released 2022/08/??
 
 Updated:
+- Simply Order Summons (Fixed the issue where you couldn't mount a summoned mount, among other things)
+- Swiftly Order Squad - Follower Commands UI
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Fixes/Tweaks:
