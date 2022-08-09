@@ -24,7 +24,9 @@ Updated:
 
 Fixes/Tweaks:
 - Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
+- Clockwork crash fixes
 - Fixed dragon priest masks not having the right stats
+- Fixed missing wall in Solitude Clockwork terminal
 - Fix to stop the character from randomly playing an instrument for no reason
 - Improved lux crash fixes for Arcadia's, Breezehome, Warmaidens, created fix for Lucien (Dumzbthar)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
