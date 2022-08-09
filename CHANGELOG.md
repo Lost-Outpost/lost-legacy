@@ -26,6 +26,7 @@ Fixes/Tweaks:
 - Fixed dragon priest masks not having the right stats
 - Improved lux crash fixes for Breezehome and Warmaidens
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
+- Slightly nerfed Dragon shout damage
 - Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
 
