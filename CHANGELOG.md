@@ -26,6 +26,7 @@ Fixes/Tweaks:
 - Fixed dragon priest masks not having the right stats
 - Improved lux crash fixes for Breezehome and Warmaidens
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
+- Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
 
 ## 1.0.3 - Released 2022/08/03
