@@ -17,6 +17,9 @@
 
 ## 1.0.4 - Released 2022/08/??
 
+Added:
+- Lucien - Room Markers for Dumzbthar (Improves performance in Dumzbthar)
+
 Updated:
 - Simply Order Summons (Fixed the issue where you couldn't mount a summoned mount, among other things)
 - Swiftly Order Squad - Follower Commands UI
