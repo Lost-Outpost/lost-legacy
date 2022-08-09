@@ -26,6 +26,7 @@ Updated:
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Fixes/Tweaks:
+- Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
 - Fixed dragon priest masks not having the right stats
 - Improved lux crash fixes for Breezehome and Warmaidens, created fix for Lucien (Dumzbthar)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
