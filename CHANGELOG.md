@@ -25,11 +25,13 @@ Updated:
 Fixes/Tweaks:
 - Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
 - Fixed dragon priest masks not having the right stats
-- Improved lux crash fixes for Breezehome and Warmaidens, created fix for Lucien (Dumzbthar)
+- Fix to stop the character from randomly playing an instrument for no reason
+- Improved lux crash fixes for Arcadia's, Breezehome, Warmaidens, created fix for Lucien (Dumzbthar)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
 - Slightly nerfed Dragon shout damage
 - Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
+- Various balance tweaks
 
 ## 1.0.3 - Released 2022/08/03
 
