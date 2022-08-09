@@ -17,7 +17,10 @@
 
 ## 1.0.4 - Released 2022/08/??
 
-Fixes/Tweaks
+Updated:
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+
+Fixes/Tweaks:
 - Fixed dragon priest masks not having the right stats
 - Improved lux crash fixes for Breezehome and Warmaidens
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
