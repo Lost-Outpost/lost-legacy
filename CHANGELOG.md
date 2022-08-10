@@ -27,6 +27,7 @@ Fixes/Tweaks:
 - Clockwork crash fixes
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
+- Fixed nchuark coin texture
 - Fix to stop the character from randomly playing an instrument for no reason
 - Improved lux crash fixes for Arcadia's, Breezehome, Warmaidens, created fix for Lucien (Dumzbthar)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
