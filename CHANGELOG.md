@@ -25,6 +25,7 @@ Updated:
 Fixes/Tweaks:
 - Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
 - Clockwork crash fixes
+- Fixed 3DNPC quest "Gales of Guilt" where the house was obstructed by a house from Artaeum
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
 - Fixed nchuark coin texture
