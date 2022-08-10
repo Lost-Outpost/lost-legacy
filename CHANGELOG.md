@@ -30,10 +30,10 @@ Fixes/Tweaks:
 - Fixed missing wall in Solitude Clockwork terminal
 - Fixed nchuark coin texture
 - Fix to stop the character from randomly playing an instrument for no reason
-- Improved lux crash fixes for Arcadia's, Breezehome, Warmaidens, created fix for Lucien (Dumzbthar)
+- More Lux crash fixes (Winking Skeever, Lucien/Dumzbthar) and improved a few existing ones (Arcadia's, Breezehome, Warmaidens)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
 - Slightly nerfed Dragon shout damage
-- Treasure chest under the guardian stones was completely buried, moved it to a better spot
+- Unique Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
 - Various balance tweaks
 
