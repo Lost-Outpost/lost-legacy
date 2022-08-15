@@ -32,6 +32,7 @@ Fixes/Tweaks:
 - Fix to stop the character from randomly playing an instrument for no reason
 - More Lux crash fixes (Winking Skeever, Lucien/Dumzbthar) and improved a few existing ones (Arcadia's, Breezehome, Warmaidens)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
+- Removed tree blocking door to Markarth Clockwork Terminus
 - Slightly nerfed Dragon shout damage
 - Unique Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
