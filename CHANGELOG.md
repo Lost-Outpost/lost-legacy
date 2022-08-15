@@ -26,13 +26,14 @@ Fixes/Tweaks:
 - Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
 - Clockwork crash fixes
 - Fixed 3DNPC quest "Gales of Guilt" where the house was obstructed by a house from Artaeum
+- Fixed crashing in Dragon's Fall Depths
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
 - Fixed nchuark coin texture
-- Fix to stop the character from randomly playing an instrument for no reason
 - More Lux crash fixes (Winking Skeever, Lucien/Dumzbthar) and improved a few existing ones (Arcadia's, Breezehome, Warmaidens)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
 - Moved Relics of Hyrule chest that was buried in JK's Sky Haven Temple
+- Potential fix to stop the character from randomly playing an instrument for no reason
 - Removed tree blocking door to Markarth Clockwork Terminus
 - Slightly nerfed Dragon shout damage
 - Unique Treasure chest under the guardian stones was completely buried, moved it to a better spot
