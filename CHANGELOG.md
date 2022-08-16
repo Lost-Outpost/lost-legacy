@@ -17,7 +17,14 @@
 
 ## 1.0.4 - Released 2022/08/??
 
+Added:
+- Custom Skills Menu NORDIC UI Patch (Tween menu)
+- Moons And Stars
+- Splashes of Storms
+- Wonders of Weather - Settings Loader
+
 Updated:
+- Serana Dialogue Add-On (Optional mod)
 - Simply Order Summons (Fixed the issue where you couldn't mount a summoned mount, among other things)
 - Swiftly Order Squad - Follower Commands UI
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
