@@ -32,6 +32,7 @@ Updated:
 Fixes/Tweaks:
 - Animated armoury weapon tweaks: increased speed for rapiers and claw weapons, increased range for pikes and halberds
 - Clockwork crash fixes
+- Disabled Black Hat Slythe as he was causing crashes for some people when talking to him
 - Fixed 3DNPC quest "Gales of Guilt" where the house was obstructed by a house from Artaeum
 - Fixed crashing in Dragon's Fall Depths
 - Fixed dragon priest masks not having the right stats
