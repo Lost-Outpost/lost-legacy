@@ -38,7 +38,7 @@ Fixes/Tweaks:
 - Fixed crashing in Dragon's Fall Depths
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
-- Fixed nchuark coin texture
+- Fixed some broken COIN textures
 - More Lux crash fixes (Winking Skeever, Lucien/Dumzbthar) and improved a few existing ones (Arcadia's, Breezehome, Warmaidens)
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
 - Moved Relics of Hyrule chest that was buried in JK's Sky Haven Temple
