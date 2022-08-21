@@ -19,7 +19,7 @@
 
 Added:
 - Custom Skills Menu NORDIC UI Patch (Tween menu)
-- Moons And Stars
+- Moons And Stars - Sky Overhaul SKSE
 - NPCs React To Necromancy (And More)
 - Splashes of Storms
 - Wonders of Weather - Settings Loader
