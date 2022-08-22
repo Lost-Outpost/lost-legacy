@@ -18,13 +18,19 @@
 ## 1.0.4 - Released 2022/08/??
 
 Added:
+- OPTIONAL Difficulty - Know Your Enemy (Added for those who want tougher enemies, disabled by default)
 - Custom Skills Menu NORDIC UI Patch (Tween menu)
+- Daedric Shrines - Statue of Sithis
+- Lawbringer - Guardsmen (more lawbringer locations)
+- Lawbringer - Register and Claiming Fix
 - Moons And Stars - Sky Overhaul SKSE
 - NPCs React To Necromancy (And More)
 - Splashes of Storms
 - Wonders of Weather - Settings Loader
 
 Updated:
+- Daedric Shrines - Namira
+- New Beginnings - Alternate Perspective Extension
 - Serana Dialogue Add-On (Optional mod)
 - Simply Order Summons (Fixed the issue where you couldn't mount a summoned mount, among other things)
 - Swiftly Order Squad - Follower Commands UI
