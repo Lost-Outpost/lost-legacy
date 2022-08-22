@@ -36,6 +36,7 @@ Fixes/Tweaks:
 - Disabled Black Hat Slythe as he was causing crashes for some people when talking to him
 - Fixed 3DNPC quest "Gales of Guilt" where the house was obstructed by a house from Artaeum
 - Fixed crashing in Dragon's Fall Depths
+- Fixed crash when shooting a Field Guard Arrow from the LC Citadel mod
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
 - Fixed some broken COIN textures
