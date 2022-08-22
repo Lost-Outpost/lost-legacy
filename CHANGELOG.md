@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 1.0.4 - Released 2022/08/??
+## 1.0.4 - Released 2022/08/22
 
 Added:
 - OPTIONAL Difficulty - Know Your Enemy (Added for those who want tougher enemies, disabled by default)
