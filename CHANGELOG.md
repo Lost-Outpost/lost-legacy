@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 1.0.4 - Released 2022/08/22
+## 1.0.4 - Released 2022/08/22 - Save safe
 
 Added:
 - OPTIONAL Difficulty - Know Your Enemy (Added for those who want tougher enemies, disabled by default)
@@ -56,7 +56,7 @@ Fixes/Tweaks:
 - Tweaked some dungeons' difficulty
 - Various balance tweaks
 
-## 1.0.3 - Released 2022/08/03
+## 1.0.3 - Released 2022/08/03 - Save safe
 
 Added:
 - JS Shout Apart Skeletons SE
@@ -67,7 +67,7 @@ Fixes/Tweaks:
 - Fixed the horrendously long load times relating to the Rigmor quest and around Lake Illinalta and Riften's lake (and probably other bodies of water, thanks to neomewilson for helping me track this one down!)
 - Moved Keyboard Shortcuts Fix to optional
 
-## 1.0.2 - Released 2022/08/01
+## 1.0.2 - Released 2022/08/01 - Save safe
 
 Added:
 - Keyboard Shortcuts Fix
@@ -91,7 +91,7 @@ Fixes/Tweaks:
 - Removed skill level cap, didn't really fit the list
 - Tweaked XP gain from kills
 
-## 1.0.1 - Released 2022/07/25
+## 1.0.1 - Released 2022/07/25 - Save safe
 
 Added:
 - ElSopa - Azura's Star Redone - ENB Light
