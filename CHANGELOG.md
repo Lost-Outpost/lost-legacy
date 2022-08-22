@@ -46,12 +46,12 @@ Fixes/Tweaks:
 - Fixed dragon priest masks not having the right stats
 - Fixed missing wall in Solitude Clockwork terminal
 - Fixed some broken COIN textures
-- More Lux crash fixes (Winking Skeever, Lucien/Dumzbthar) and improved a few existing ones (Arcadia's, Breezehome, Warmaidens)
+- More Lux crash fixes and improved a few existing ones
 - Moved Keyboard Shortcuts Fix to optional (for real this time)
 - Moved Relics of Hyrule chest that was buried in JK's Sky Haven Temple
 - Potential fix to stop the character from randomly playing an instrument for no reason
-- Removed tree blocking door to Markarth Clockwork Terminus
-- Slightly nerfed Dragon shout damage
+- Removed a tree blocking the door to Markarth Clockwork Terminus
+- Slightly nerfed Dragon shout damage (might not take effect on existing saves, but you can change the value in the Deadly Dragons MCM)
 - Unique Treasure chest under the guardian stones was completely buried, moved it to a better spot
 - Tweaked some dungeons' difficulty
 - Various balance tweaks
