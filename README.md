@@ -19,6 +19,8 @@
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
+***Lost Legacy does NOT require AE, nor does it make use of any of the AE/CC content. If you own AE, you are still able to install and play the modlist!***
+
 # Installation
 
 - [Installation](#installation)
