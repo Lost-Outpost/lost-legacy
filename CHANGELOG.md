@@ -18,6 +18,12 @@
 
 # Changelog
 
+## 1.0.5 - In-Progress
+
+Fixes/Tweaks:
+- Forgotten Magic spells Holy Bolt and Void Bolt are now dual castable
+- ROM Archmage robe set was getting overwritten by another mod, fixed
+
 ## 1.0.4 - Released 2022/08/22 - Save safe
 
 Added:
