@@ -54,7 +54,7 @@ Go inside the Helgen inn, do NOT talk to the innkeeper, go behind the bar, then 
 
 ## Leveling and Experience
 
-Lost Legacy uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) to overhaul Skyrim's outdated leveling mechanics. The main feature of this mod is that your overall character level is no longer affected by your individual skills increasing. Instead, you will gain XP and level up by killing stuff, discovering and clearing locations, reading books, and completing quests. The skills themselves will still level up by simply using them. As of version 1.0.1 this also includes a soft cap on your skills which prevents you from powerleveling too fast. This will likely be removed in a future update for LL.
+Lost Legacy uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) to overhaul Skyrim's outdated leveling mechanics. The main feature of this mod is that your overall character level is no longer affected by your individual skills increasing. Instead, you will gain XP and level up by killing stuff, discovering and clearing locations, reading books, and completing quests. The skills themselves will still level up by simply using them.
 
 ## Main Gameplay Overhauls and Difficulty
 
