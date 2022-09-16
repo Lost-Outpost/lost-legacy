@@ -22,8 +22,13 @@
 
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
+- All Thieves Guild Jobs Concurrently - USSEP Version
 - HD Local Map
 - Konahrik's Accoutrements - Fixed Esp
+- Locked Chests Have Keys
+- Locked Chests Have Keys - Patches
+- Waterplants - Lily Only
+- Waterplants - Animated Water Lily SE
 
 Updated:
 
