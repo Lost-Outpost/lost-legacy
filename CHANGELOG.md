@@ -27,14 +27,18 @@ Added:
 Updated:
 
 Removed:
+- Astronomer's Loft -- Small Loft Library Player Home in Whiterun
 - CHEESE HAUS
 - CHEESE HAUS - Webmetz's More Growables - Cheese House
 - I'm Glad You're Here - Skyrim's Got Talent instrument patch
 - Knight of Molag Bal - Remastered
+- LC_Citadel
 - Rigmor of Bruma
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
 - Tel Aschan - Mage Tower Home
+- Tyburn Nook
+- Tyburn Nook - Skyrim Sewers 4 - Patch
 - Vilja
 - Vilja - Eating Animations
 - Vilja - Legacy of the Dragonborn Follower Room B-3
