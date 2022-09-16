@@ -20,6 +20,20 @@
 
 ## 1.1.0 - In-Progress - NOT Save Compatible
 
+Added:
+- *More Performance options (POTATO MODE mod which scales down resolution)
+
+Updated:
+
+Removed:
+- Knight of Molag Bal - Remastered
+- Rigmor of Bruma
+- Rigmor Weapon Replacer
+- Solstheim Trading Posts
+- Vilja
+- Vilja - Eating Animations
+- Vilja - Legacy of the Dragonborn Follower Room B-3
+
 Fixes/Tweaks:
 - ROM Archmage robe set was getting overwritten by another mod, fixed
 
