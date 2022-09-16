@@ -27,10 +27,14 @@ Added:
 Updated:
 
 Removed:
+- CHEESE HAUS
+- CHEESE HAUS - Webmetz's More Growables - Cheese House
+- I'm Glad You're Here - Skyrim's Got Talent instrument patch
 - Knight of Molag Bal - Remastered
 - Rigmor of Bruma
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
+- Tel Aschan - Mage Tower Home
 - Vilja
 - Vilja - Eating Animations
 - Vilja - Legacy of the Dragonborn Follower Room B-3
