@@ -22,6 +22,7 @@
 
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
+- Konahrik's Accoutrements - Fixed Esp
 
 Updated:
 
