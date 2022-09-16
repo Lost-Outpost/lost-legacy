@@ -30,6 +30,7 @@ Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
 - CHEESE HAUS
 - CHEESE HAUS - Webmetz's More Growables - Cheese House
+- Emberbrand Cellar -- Gray Quarter Basement Home
 - I'm Glad You're Here - Skyrim's Got Talent instrument patch
 - Knight of Molag Bal - Remastered
 - LC_Citadel
