@@ -22,6 +22,7 @@
 
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
+- HD Local Map
 - Konahrik's Accoutrements - Fixed Esp
 
 Updated:
@@ -46,6 +47,7 @@ Removed:
 - Vilja - Legacy of the Dragonborn Follower Room B-3
 
 Fixes/Tweaks:
+- Moved Skyrim's Got Talent (Bard mod) to Optional and disabled by default
 - ROM Archmage robe set was getting overwritten by another mod, fixed
 
 ## 1.0.4 - Released 2022/08/22 - Save safe
