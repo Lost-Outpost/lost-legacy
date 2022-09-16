@@ -34,6 +34,7 @@ Removed:
 - I'm Glad You're Here - Skyrim's Got Talent instrument patch
 - Knight of Molag Bal - Remastered
 - LC_Citadel
+- Minions (Optional)
 - Rigmor of Bruma
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
