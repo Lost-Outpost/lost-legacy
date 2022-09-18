@@ -70,6 +70,7 @@ Removed:
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
 - Tel Aschan - Mage Tower Home
+- Toxin Doctor Outfit- Mihail Armors and Clothes (MIHAIL SSE PORT)
 - Tyburn Nook
 - Tyburn Nook - Skyrim Sewers 4 - Patch
 - Vilja
