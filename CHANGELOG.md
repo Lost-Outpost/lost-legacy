@@ -23,14 +23,26 @@
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Environs - Tundra Farmhouse - VIGILANT
+- Environs - Tundra Farmhouse - Interesting NPCs Patch
 - HD Local Map
+- Iggath
+- JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
+- Lunar Guard Armor 2k
+- Lunar Guard Armor - SPID Distribution
+- The Great City of Winterhold
+- The Great City of Winterhold Patch Collection
+- Unofficial eFPS Patches
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
 
 Updated:
+- eFPS - Exterior FPS boost
+- JK's Guild HQ Interiors Patch Collection
+- JK's Interiors Patch Collection
 
 Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
