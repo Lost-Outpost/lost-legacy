@@ -43,6 +43,8 @@ Updated:
 - eFPS - Exterior FPS boost
 - JK's Guild HQ Interiors Patch Collection
 - JK's Interiors Patch Collection
+- Lux
+- Lux Via
 
 Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
