@@ -40,11 +40,22 @@ Added:
 - Waterplants - Animated Water Lily SE
 
 Updated:
+- Amber Guard
+- College of Winterhold - Quest Expansions
 - eFPS - Exterior FPS boost
+- GG's Thieves Guild Headquarters
+- GG's Thieves Guild Headquarters Lux patch
+- GG's Thieves Guild HQ Patch Collection
+- LotD Hall of Forgotten Patches
+- LotD Hall of Forgotten TCC Patches
 - JK's Guild HQ Interiors Patch Collection
 - JK's Interiors Patch Collection
 - Lux
 - Lux Via
+- Relics of Hyrule
+- Serana Dialogue Add-On SE (Optional)
+- SDA Patch Hub (Optional)
+- Wuth Rein
 
 Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
