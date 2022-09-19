@@ -85,6 +85,7 @@ Removed:
 - Vilja - Legacy of the Dragonborn Follower Room B-3
 
 Fixes/Tweaks:
+- Fixed an issue where Vahlok wouldn't have his mask
 - Moved Skyrim's Got Talent (Bard mod) to Optional and disabled by default
 - ROM Archmage robe set was getting overwritten by another mod, fixed
 
