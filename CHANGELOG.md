@@ -33,6 +33,7 @@ Added:
 - Locked Chests Have Keys - Patches
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - Unofficial eFPS Patches
@@ -56,6 +57,8 @@ Updated:
 - Relics of Hyrule
 - Serana Dialogue Add-On SE (Optional)
 - SDA Patch Hub (Optional)
+- Thanedom Assets BSA Version
+- Thanedom Of Darkwater Crossing BSA Version
 - Wuth Rein
 
 Removed:
