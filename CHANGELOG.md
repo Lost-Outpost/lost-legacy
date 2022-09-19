@@ -55,6 +55,7 @@ Updated:
 - Lux
 - Lux Via
 - Relics of Hyrule
+- Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
 - SDA Patch Hub (Optional)
 - Thanedom Assets BSA Version
