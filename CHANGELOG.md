@@ -33,6 +33,7 @@ Added:
 - Locked Chests Have Keys - Patches
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Ryn's Saarthal - No Jyrik Edits
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
