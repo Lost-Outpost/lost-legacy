@@ -28,7 +28,6 @@ Added:
 - HD Local Map
 - Iggath
 - JK's Castle Dour
-- Khajiit Has Wares - A Caravan Camp Overhaul
 - Konahrik's Accoutrements - Fixed Esp
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
