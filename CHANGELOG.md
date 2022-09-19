@@ -46,6 +46,7 @@ Updated:
 - GG's Thieves Guild Headquarters
 - GG's Thieves Guild Headquarters Lux patch
 - GG's Thieves Guild HQ Patch Collection
+- Legacy of the Dragonborn Patches (Official)
 - LotD Hall of Forgotten Patches
 - LotD Hall of Forgotten TCC Patches
 - JK's Guild HQ Interiors Patch Collection
