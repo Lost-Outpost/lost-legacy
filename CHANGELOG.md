@@ -28,6 +28,7 @@ Added:
 - HD Local Map
 - Iggath
 - JK's Castle Dour
+- Khajiit Has Wares - A Caravan Camp Overhaul
 - Konahrik's Accoutrements - Fixed Esp
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
@@ -37,6 +38,7 @@ Added:
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
+- The Great City of Winterhold Vanilla Meshes
 - Unofficial eFPS Patches
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
