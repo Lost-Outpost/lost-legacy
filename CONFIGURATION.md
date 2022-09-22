@@ -88,5 +88,7 @@ Thanks to Lost Outpost community helper Curly for making [this video](https://ww
 - Enable the 4 Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
 - Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
 - Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` to the profile you're using and overwrite `Lost Legacy\profiles\Lost Legacy`
+- If you need further performance tweaks, you can try disabling some texture mods like Skyrim 2020, Skyland AIO, Illustrious Whiterun, and Tamrielic Textures
+- Enable the POTATO MODE mod at the bottom of the Performance Mode section in mo2 (in version 1.0.4b and higher)
 
 
