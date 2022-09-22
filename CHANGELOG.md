@@ -23,6 +23,7 @@
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Daedric Shrines - Malacath
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - HD Local Map
