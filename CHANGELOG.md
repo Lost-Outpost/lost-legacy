@@ -28,6 +28,7 @@ Added:
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - HD Local Map
 - Iggath
+- Immersive Armors Retexture and Mesh Fixes SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
 - Locked Chests Have Keys
