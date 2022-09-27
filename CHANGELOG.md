@@ -92,6 +92,8 @@ Removed:
 Fixes/Tweaks:
 - Fixed an issue where Vahlok wouldn't have his mask
 - Moved Skyrim's Got Talent (Bard mod) to Optional and disabled by default
+- Removed Mihail Sithis Finger weapon that was causing crashes
+- Removed Shield from Valtheim Towers that was causing crashes
 - ROM Archmage robe set was getting overwritten by another mod, fixed
 
 ## 1.0.4 - Released 2022/08/22 - Save safe
