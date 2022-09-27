@@ -17,17 +17,10 @@
 
 For issues that aren't documented, you can provide details in the [Issues](https://github.com/Lost-Outpost/lost-legacy/issues) page. Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Lost Legacy Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr).
+Also free feel to hop on the Lost Legacy Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/T7AmHRvVxr).
 
 # Known Issues
 
-**Crashes while trying to loot Thalmor bodies**
-
-There is a random chance of these Thalmor to carry a "Sancar" coin from the C.O.I.N mod. These are currently causing crashes in combination with quickloot. This is known and will be fixed when Quickloot EE is updated.
-
-**Certain Buildings like the Blue palace, the College of Winterhold and others keep crashing on entering (with error code 12FDD00):**
-
-Enable "LostLegacy_Lux_Crash-Fixes" at the bottom of the left panel of MO2, as seen [Here](https://media.discordapp.net/attachments/862000050812354610/1001988040446718083/unknown.png). It is located in the "OPTIONALS" Section, feel free to use the search bar at the bottom if needed. This should fix the crashes, but please note that not all locations have been patched yet, so it is not guaranteed to work. Please consult the discord if you have questions about this or need help.
 
 
 
