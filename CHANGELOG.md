@@ -23,6 +23,8 @@
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Cloaks of Skyrim SSE
+- Cloaks Of Skyrim Retextured 2k
 - Daedric Shrines - Malacath
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
@@ -37,7 +39,9 @@ Added:
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
 - ReCleaned Menu
+- Ryn's Goldenglow Estate
 - Ryn's Saarthal - No Jyrik Edits
+- Ryn's Standing Stones - Moon and Star Patch
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
@@ -45,6 +49,7 @@ Added:
 - Unofficial eFPS Patches
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
+- Xelzaz - Wyrmstooth Patch
 
 Updated:
 - Amber Guard
@@ -54,8 +59,11 @@ Updated:
 - GG's Thieves Guild Headquarters Lux patch
 - GG's Thieves Guild HQ Patch Collection
 - Legacy of the Dragonborn Patches (Official)
+- Legacy of the Dragonborn - The Curators Companion
 - LotD Hall of Forgotten Patches
 - LotD Hall of Forgotten TCC Patches
+- Lucifer - Argonian Custom Voiced Follower
+- Lucifer - Wyrmstooth - ESL
 - JK's Guild HQ Interiors Patch Collection
 - JK's Interiors Patch Collection
 - Lux
@@ -64,9 +72,11 @@ Updated:
 - Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
 - SDA Patch Hub (Optional)
+- Simply Order Summons
 - Thanedom Assets BSA Version
 - Thanedom Of Darkwater Crossing BSA Version
 - Wuth Rein
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
