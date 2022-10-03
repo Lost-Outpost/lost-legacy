@@ -38,10 +38,14 @@ Added:
 - Locked Chests Have Keys - Patches
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Rainbows SE
+- Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
 - Ryn's Goldenglow Estate
 - Ryn's Saarthal - No Jyrik Edits
 - Ryn's Standing Stones - Moon and Star Patch
+- Shooting Stars SE
+- Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
@@ -98,6 +102,8 @@ Removed:
 - Vilja
 - Vilja - Eating Animations
 - Vilja - Legacy of the Dragonborn Follower Room B-3
+- Wonders of Weather (Replaced by other mods)
+- Wonders of Weather - Settings Loader
 
 Fixes/Tweaks:
 - Added lots of new custom patches
