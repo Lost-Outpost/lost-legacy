@@ -43,7 +43,10 @@ Added:
 - ReCleaned Menu
 - Ryn's Goldenglow Estate
 - Ryn's Saarthal - No Jyrik Edits
+- Ryn's Snazzy Last Vigil
+- Ryn's Snazzy Last Vigil - LUX PATCH
 - Ryn's Standing Stones - Moon and Star Patch
+- Schlitzohr - Stonehills
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Thanedom Of Treva's Watch
@@ -72,6 +75,8 @@ Updated:
 - JK's Interiors Patch Collection
 - Lux
 - Lux Via
+- New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
+- New Vominheim - SE (Formerly Vominheim)
 - Relics of Hyrule
 - Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
@@ -80,6 +85,7 @@ Updated:
 - Thanedom Assets BSA Version
 - Thanedom Of Darkwater Crossing BSA Version
 - Wuth Rein
+- Wyrmstooth
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
