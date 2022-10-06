@@ -59,6 +59,7 @@ Added:
 
 Updated:
 - Amber Guard
+- Audio Overhaul for Skyrim SE
 - College of Winterhold - Quest Expansions
 - eFPS - Exterior FPS boost
 - GG's Thieves Guild Headquarters
