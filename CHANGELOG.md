@@ -80,9 +80,11 @@ Updated:
 - Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
 - SDA Patch Hub (Optional)
+- Simplest Horses
 - Simply Order Summons
 - Thanedom Assets BSA Version
 - Thanedom Of Darkwater Crossing BSA Version
+- Undeath Classical Lichdom
 - Wuth Rein
 - Wyrmstooth
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
@@ -117,6 +119,7 @@ Fixes/Tweaks:
 - Removed Mihail Sithis Finger weapon that was causing crashes
 - Removed Shield from Valtheim Towers that was causing crashes
 - ROM Archmage robe set was getting overwritten by another mod, fixed
+- Tweaked NPCs around Fellglow Keep that were way too OP
 - Reran dyndolod and synthesis outputs
 
 ## 1.0.4 - Released 2022/08/22 - Save safe
