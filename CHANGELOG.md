@@ -46,7 +46,6 @@ Added:
 - Ryn's Snazzy Last Vigil
 - Ryn's Snazzy Last Vigil - LUX PATCH
 - Ryn's Standing Stones - Moon and Star Patch
-- Schlitzohr - Stonehills
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Thanedom Of Treva's Watch
