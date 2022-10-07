@@ -98,6 +98,7 @@ Removed:
 - CHEESE HAUS - Webmetz's More Growables - Cheese House
 - Emberbrand Cellar -- Gray Quarter Basement Home
 - GKB Waves (Replaced with GKB Waves Reborn)
+- I'm Glad You're Here
 - I'm Glad You're Here - Skyrim's Got Talent instrument patch
 - Knight of Molag Bal - Remastered
 - LC_Citadel
