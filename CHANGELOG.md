@@ -28,6 +28,7 @@ Added:
 - Daedric Shrines - Malacath
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
+- Fortune's Tradehouse
 - GKB Waves Reborn
 - HD Local Map
 - Iggath
