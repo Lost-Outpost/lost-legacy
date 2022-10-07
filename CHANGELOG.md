@@ -25,6 +25,7 @@ Added:
 - All Thieves Guild Jobs Concurrently - USSEP Version
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
+- CPS Resource Packs
 - Daedric Shrines - Malacath
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
@@ -39,6 +40,7 @@ Added:
 - Locked Chests Have Keys - Patches
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Party Combat Parameters (optional)
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
@@ -49,6 +51,7 @@ Added:
 - Ryn's Standing Stones - Moon and Star Patch
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
+- Stones of Barenziah Quest Markers
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
@@ -104,6 +107,7 @@ Removed:
 - Knight of Molag Bal - Remastered
 - LC_Citadel
 - Minions (Optional)
+- Necro Pizza - Skyrim Pizza Delivery (Optional)
 - Rigmor of Bruma
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
@@ -124,6 +128,7 @@ Fixes/Tweaks:
 - Removed Mihail Sithis Finger weapon that was causing crashes
 - Removed Shield from Valtheim Towers that was causing crashes
 - ROM Archmage robe set was getting overwritten by another mod, fixed
+- Scrambled Bugs tweak: Trap only souls of the appropriate size in soul gems
 - Tweaked NPCs around Fellglow Keep that were way too OP
 - Reran dyndolod and synthesis outputs
 
