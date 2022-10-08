@@ -29,6 +29,7 @@ Added:
 - Daedric Shrines - Malacath
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
+- Formation with Followers
 - Fortune's Tradehouse
 - GKB Waves Reborn
 - HD Local Map
@@ -41,6 +42,7 @@ Added:
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
 - Party Combat Parameters (optional)
+- Party Combat Parameters - Minimal Preset
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
@@ -49,6 +51,7 @@ Added:
 - Ryn's Snazzy Last Vigil
 - Ryn's Snazzy Last Vigil - LUX PATCH
 - Ryn's Standing Stones - Moon and Star Patch
+- Shadow of Skyrim - Nemesis and Alternative Death System (Needs testing)
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Stones of Barenziah Quest Markers
@@ -56,6 +59,7 @@ Added:
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - The Great City of Winterhold Vanilla Meshes
+- Trade and Barter (Needs testing)
 - Unofficial eFPS Patches
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
