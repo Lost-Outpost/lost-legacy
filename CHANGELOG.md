@@ -23,10 +23,13 @@
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Charming Carrots
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
 - CPS Resource Packs
+- CRAFT Smarter Lotd Forge
 - Daedric Shrines - Malacath
+- Dynamic Collision Adjustment (Needs testing)
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - Formation with Followers
@@ -35,12 +38,14 @@ Added:
 - HD Local Map
 - Iggath
 - Immersive Armors Retexture and Mesh Fixes SE
+- JaySuS Swords SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Mine Foremen Sell Ore SE
 - Party Combat Parameters (optional)
 - Party Combat Parameters - Minimal Preset
 - Rainbows SE
@@ -51,6 +56,7 @@ Added:
 - Ryn's Snazzy Last Vigil
 - Ryn's Snazzy Last Vigil - LUX PATCH
 - Ryn's Standing Stones - Moon and Star Patch
+- Scabbards for JaySuS Swords
 - Shadow of Skyrim - Nemesis and Alternative Death System (Needs testing)
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
