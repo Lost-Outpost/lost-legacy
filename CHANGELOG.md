@@ -46,6 +46,7 @@ Added:
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
 - Mine Foremen Sell Ore SE
+- Paintings Remade - Legacy of The Dragonborn
 - Party Combat Parameters (optional)
 - Party Combat Parameters - Minimal Preset
 - Rainbows SE
