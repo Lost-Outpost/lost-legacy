@@ -30,7 +30,6 @@ Added:
 - CRAFT Smarter Lotd Forge
 - Daedric Shrines - Malacath
 - Dynamic Collision Adjustment (Needs testing)
-- Environs - The Greenwood Shack
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - Environs - Whiterun Watchtower Doesn't Stay Broken
