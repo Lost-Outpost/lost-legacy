@@ -18,11 +18,14 @@
 
 # Changelog
 
-## 1.1.0 - In-Progress - NOT Save Compatible
+## 1.1.0 - In-Progress - Definitely NOT Save Compatible
 
 Added:
 - *More Performance options (POTATO MODE mod which scales down resolution)
+- *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers)
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Apothecary - Free AE Patches
+- Castlevania - Vampire Killer
 - Charming Carrots
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
@@ -30,6 +33,7 @@ Added:
 - CRAFT Smarter Lotd Forge
 - Daedric Shrines - Malacath
 - Dynamic Collision Adjustment (Needs testing)
+- EMPEROR - Giant Crab Overhaul
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - Environs - Whiterun Watchtower Doesn't Stay Broken
@@ -42,8 +46,11 @@ Added:
 - JaySuS Swords SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
+- Legacy of the Dragonborn - Creation Club Patch Hub
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
+- Lucien - Creation Club - Rare Curios Patch
+- Lucien - Creation Club - Saints and Seducers Patch
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
 - Mine Foremen Sell Ore SE
@@ -62,12 +69,15 @@ Added:
 - Shadow of Skyrim - Nemesis and Alternative Death System (Needs testing)
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
+- Shrine of Mehrunes Dagon 4k
+- Skyrim Sewers 4 and Saints and Seducers Patch
 - Stones of Barenziah Quest Markers
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - The Great City of Winterhold Vanilla Meshes
 - Trade and Barter (Needs testing)
+- Unofficial Creation Club Fishing Patch
 - Unofficial eFPS Patches
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
@@ -83,6 +93,7 @@ Updated:
 - GG's Thieves Guild Headquarters
 - GG's Thieves Guild Headquarters Lux patch
 - GG's Thieves Guild HQ Patch Collection
+- Immersive Armors - Replacer and Patches
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
 - LotD Hall of Forgotten Patches
