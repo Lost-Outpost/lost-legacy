@@ -30,7 +30,6 @@ Added:
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
 - CPS Resource Packs
-- CRAFT Smarter Lotd Forge
 - Daedric Shrines - Malacath
 - Dynamic Collision Adjustment (Needs testing)
 - EMPEROR - Giant Crab Overhaul
