@@ -31,7 +31,8 @@ Added:
 - Cloaks Of Skyrim Retextured 2k
 - CPS Resource Packs
 - Daedric Shrines - Malacath
-- Dynamic Collision Adjustment (Needs testing)
+- Daedric Shrines - Mehrunes Dagon
+- Dynamic Collision Adjustment
 - EMPEROR - Giant Crab Overhaul
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
@@ -54,28 +55,31 @@ Added:
 - Lunar Guard Armor - SPID Distribution
 - Mine Foremen Sell Ore SE
 - Paintings Remade - Legacy of The Dragonborn
-- Party Combat Parameters (optional)
+- Party Combat Parameters
 - Party Combat Parameters - Minimal Preset
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
 - Ryn's Goldenglow Estate
+- Ryn's Karthspire
 - Ryn's Saarthal - No Jyrik Edits
 - Ryn's Snazzy Last Vigil
 - Ryn's Snazzy Last Vigil - LUX PATCH
 - Ryn's Standing Stones - Moon and Star Patch
 - Scabbards for JaySuS Swords
-- Shadow of Skyrim - Nemesis and Alternative Death System (Needs testing)
+- Shadow of Skyrim - Nemesis and Alternative Death System
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Shrine of Mehrunes Dagon 4k
 - Skyrim Sewers 4 and Saints and Seducers Patch
 - Stones of Barenziah Quest Markers
+- TAA Flicker Fixer
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - The Great City of Winterhold Vanilla Meshes
-- Trade and Barter (Needs testing)
+- The Whispering Door - Quest Expansion
+- Trade and Barter
 - Unofficial Creation Club Fishing Patch
 - Unofficial eFPS Patches
 - Waterplants - Lily Only
