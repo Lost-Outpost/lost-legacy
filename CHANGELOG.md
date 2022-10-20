@@ -48,6 +48,7 @@ Added:
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
 - Legacy of the Dragonborn - Creation Club Patch Hub
+- Legacy of The Dragonborn - Museum Gate Remade
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
 - Lucien - Creation Club - Rare Curios Patch
@@ -100,6 +101,7 @@ Updated:
 - Immersive Armors - Replacer and Patches
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
+- Legacy of The Dragonborn - Museum Exterior Fixes
 - LotD Hall of Forgotten Patches
 - LotD Hall of Forgotten TCC Patches
 - Lucifer - Argonian Custom Voiced Follower
