@@ -39,6 +39,7 @@ Added:
 - Environs - Whiterun Watchtower Doesn't Stay Broken
 - Formation with Followers
 - Fortune's Tradehouse
+- FYX - Jorrvaskr
 - GKB Waves Reborn
 - HD Local Map
 - Iggath
