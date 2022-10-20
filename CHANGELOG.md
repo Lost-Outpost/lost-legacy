@@ -62,6 +62,7 @@ Added:
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
+- Recursion FPS Fix SKSE
 - Ryn's Goldenglow Estate
 - Ryn's Karthspire
 - Ryn's Saarthal - No Jyrik Edits
