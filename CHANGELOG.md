@@ -41,6 +41,7 @@ Added:
 - Fortune's Tradehouse
 - FYX - Jorrvaskr
 - GKB Waves Reborn
+- Golden Saint Armory Revamped
 - HD Local Map
 - Iggath
 - Immersive Armors Retexture and Mesh Fixes SE
@@ -110,6 +111,7 @@ Updated:
 - JK's Guild HQ Interiors Patch Collection
 - JK's Interiors Patch Collection
 - Lux
+- Lux Orbis
 - Lux Via
 - New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
 - New Vominheim - SE (Formerly Vominheim)
