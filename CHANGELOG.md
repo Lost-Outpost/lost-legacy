@@ -21,17 +21,21 @@
 ## 1.1.0 - In-Progress - Definitely NOT Save Compatible
 
 Added:
-- *More Performance options (POTATO MODE mod which scales down resolution)
 - *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers)
+- *More Performance options (POTATO MODE mod which scales down resolution)
+- *Optional: Precision and Valhalla
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Animated Forge Water
 - Apothecary - Free AE Patches
 - Castlevania - Vampire Killer
 - Charming Carrots
+- Civil War Lines Expansion
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
 - CPS Resource Packs
 - Daedric Shrines - Malacath
 - Daedric Shrines - Mehrunes Dagon
+- Destructible Skyrim - Base Object Swapper
 - Dynamic Collision Adjustment
 - EMPEROR - Giant Crab Overhaul
 - Environs - Tundra Farmhouse - VIGILANT
@@ -56,10 +60,13 @@ Added:
 - Lucien - Creation Club - Saints and Seducers Patch
 - Lunar Guard Armor 2k
 - Lunar Guard Armor - SPID Distribution
+- Marked Treasure SSE
 - Mine Foremen Sell Ore SE
+- No staggercamera
 - Paintings Remade - Legacy of The Dragonborn
 - Party Combat Parameters
 - Party Combat Parameters - Minimal Preset
+- Praedy's College of Winterhold
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
@@ -84,8 +91,10 @@ Added:
 - The Great City of Winterhold Vanilla Meshes
 - The Whispering Door - Quest Expansion
 - Trade and Barter
+- Unlimited Wood Chopping
 - Unofficial Creation Club Fishing Patch
 - Unofficial eFPS Patches
+- Water in Wells - mesh-only animated wells
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
 - Xelzaz - Wyrmstooth Patch
@@ -93,6 +102,7 @@ Added:
 Updated:
 - Amber Guard
 - Audio Overhaul for Skyrim SE
+- Bandit Lines Expansion
 - Base Object Swapper
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
@@ -101,6 +111,7 @@ Updated:
 - GG's Thieves Guild Headquarters Lux patch
 - GG's Thieves Guild HQ Patch Collection
 - Immersive Armors - Replacer and Patches
+- Lawbringer - Guardsman (more locations covered)
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
 - Legacy of The Dragonborn - Museum Exterior Fixes
@@ -124,6 +135,8 @@ Updated:
 - Thanedom Assets BSA Version
 - Thanedom Of Darkwater Crossing BSA Version
 - Undeath Classical Lichdom
+- VIGILANT SE
+- VIGILANT Voiced - English Addon
 - Wuth Rein
 - Wyrmstooth
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
