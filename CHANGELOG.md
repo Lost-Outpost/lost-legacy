@@ -36,8 +36,10 @@ Added:
 - Daedric Shrines - Malacath
 - Daedric Shrines - Mehrunes Dagon
 - Destructible Skyrim - Base Object Swapper
+- Dynamic Animation Casting
 - Dynamic Collision Adjustment
 - EMPEROR - Giant Crab Overhaul
+- ENB Light for Nirnroot by Mari
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - Environs - Whiterun Watchtower Doesn't Stay Broken
@@ -85,6 +87,7 @@ Added:
 - Skyrim Sewers 4 and Saints and Seducers Patch
 - Stones of Barenziah Quest Markers
 - TAA Flicker Fixer
+- Taunt Your Enemies - Taunting Matters
 - Thanedom Of Treva's Watch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
