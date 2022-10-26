@@ -168,6 +168,7 @@ Removed:
 
 Fixes/Tweaks:
 - Added lots of new custom patches
+- Fixed a tooltip typo for the Crusader class from CCABR
 - Fixed an issue where Vahlok wouldn't have his mask
 - Moved Skyrim's Got Talent (Bard mod) to Optional and disabled by default
 - Removed Mihail Sithis Finger weapon that was causing crashes
