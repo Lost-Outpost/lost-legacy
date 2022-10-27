@@ -73,6 +73,7 @@ Added:
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
 - Recursion FPS Fix SKSE
+- Remiel-LOTD Commentary Patch
 - Ryn's Goldenglow Estate
 - Ryn's Karthspire
 - Ryn's Saarthal - No Jyrik Edits
@@ -130,6 +131,7 @@ Updated:
 - New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
 - New Vominheim - SE (Formerly Vominheim)
 - Relics of Hyrule
+- Remiel-Custom Voiced Dwemer Specialist and Companion
 - Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
 - SDA Patch Hub (Optional)
