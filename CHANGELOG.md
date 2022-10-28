@@ -23,7 +23,8 @@
 Added:
 - *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers)
 - *More Performance options (POTATO MODE mod which scales down resolution)
-- *Optional: Precision and Valhalla
+- *Optional: Precision, Skyrim Souls RE, Valhalla Combat
+- *Root Builder Plugin; Can swap ENBs in mo2 now
 - All Thieves Guild Jobs Concurrently - USSEP Version
 - Animated Forge Water
 - Apothecary - Free AE Patches
@@ -51,6 +52,7 @@ Added:
 - HD Local Map
 - Iggath
 - Immersive Armors Retexture and Mesh Fixes SE
+- Immersive Equipment Displays
 - JaySuS Swords SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
@@ -85,6 +87,7 @@ Added:
 - Shooting Stars SE
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Shrine of Mehrunes Dagon 4k
+- Simple Dual Sheath & XPMSSE Left Hand Sheath Rotation Fix
 - Skyrim Sewers 4 and Saints and Seducers Patch
 - Stones of Barenziah Quest Markers
 - TAA Flicker Fixer
@@ -102,6 +105,7 @@ Added:
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
 - Xelzaz - Wyrmstooth Patch
+- YASTM - Yet Another Soul Trap Manager
 
 Updated:
 - Amber Guard
