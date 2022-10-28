@@ -26,6 +26,7 @@ Added:
 - *Optional: Precision, Skyrim Souls RE, Valhalla Combat
 - *Root Builder Plugin; Can swap ENBs in mo2 now
 - All Thieves Guild Jobs Concurrently - USSEP Version
+- Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
 - Animated Forge Water
 - Apothecary - Free AE Patches
 - Castlevania - Vampire Killer
