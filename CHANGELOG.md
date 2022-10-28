@@ -112,6 +112,7 @@ Updated:
 - Audio Overhaul for Skyrim SE
 - Bandit Lines Expansion
 - Base Object Swapper
+- Beyond Skyrim - Bruma
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
 - eFPS - Exterior FPS boost
