@@ -152,6 +152,7 @@ Updated:
 
 Removed:
 - Astronomer's Loft -- Small Loft Library Player Home in Whiterun
+- CGO Stripped
 - CHEESE HAUS
 - CHEESE HAUS - Webmetz's More Growables - Cheese House
 - Emberbrand Cellar -- Gray Quarter Basement Home
