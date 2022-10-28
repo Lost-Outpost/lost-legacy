@@ -121,6 +121,7 @@ Updated:
 - GG's Thieves Guild Headquarters Lux patch
 - GG's Thieves Guild HQ Patch Collection
 - Immersive Armors - Replacer and Patches
+- Isle of Artaeum (SSE)
 - Lawbringer - Guardsman (more locations covered)
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
