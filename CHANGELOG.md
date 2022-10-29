@@ -94,6 +94,8 @@ Added:
 - TAA Flicker Fixer
 - Taunt Your Enemies - Taunting Matters
 - Thanedom Of Treva's Watch
+- The Brotherhood of Old - Dark Brotherhood Continuation
+- Legacy of the Dragonborn - The Brotherhood of Old Unofficial Patch
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - The Great City of Winterhold Vanilla Meshes
@@ -110,9 +112,12 @@ Added:
 
 Updated:
 - Amber Guard
+- Aspens Ablaze Add-On - DynDOLOD 3
 - Audio Overhaul for Skyrim SE
 - Bandit Lines Expansion
 - Base Object Swapper
+- Beyond Reach
+- Beyond Reach - Tweaks and Enhancements
 - Beyond Skyrim - Bruma
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
@@ -141,6 +146,7 @@ Updated:
 - Remiel-Custom Voiced Dwemer Specialist and Companion
 - Ryn's Robber's Gorge
 - Serana Dialogue Add-On SE (Optional)
+- Schlitzohr - Oakwood
 - SDA Patch Hub (Optional)
 - Simplest Horses
 - Simply Order Summons
@@ -166,6 +172,7 @@ Removed:
 - LC_Citadel
 - Minions (Optional)
 - Necro Pizza - Skyrim Pizza Delivery (Optional)
+- NPCs React To Necromancy
 - Rigmor of Bruma
 - Rigmor Weapon Replacer
 - Solstheim Trading Posts
