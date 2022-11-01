@@ -22,9 +22,10 @@
 
 Added:
 - *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers)
-- *More Performance options (POTATO MODE mod which scales down resolution)
+- *More Performance options and Potato Mode Profile
+- *Press F11 to see the keybinds in game (I'm not a graphic artist so it doesn't look great, but it's working at least lol) Big thanks to DylanPerry (the author of Wildlander) for showing me how he got this working!
 - *Optional: Precision, Skyrim Souls RE, Valhalla Combat
-- *Root Builder Plugin; Can swap ENBs in mo2 now
+- *Root Builder Plugin; Can swap ENBs in mo2 now, no more ENB Organizer!
 - All Thieves Guild Jobs Concurrently - USSEP Version
 - Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
 - Animated Forge Water
