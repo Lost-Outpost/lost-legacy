@@ -42,6 +42,7 @@ Added:
 - Dynamic Collision Adjustment
 - EMPEROR - Giant Crab Overhaul
 - ENB Light for Nirnroot by Mari
+- Enhanced Reanimation
 - Environs - Tundra Farmhouse - VIGILANT
 - Environs - Tundra Farmhouse - Interesting NPCs Patch
 - Environs - Whiterun Watchtower Doesn't Stay Broken
@@ -50,10 +51,14 @@ Added:
 - FYX - Jorrvaskr
 - GKB Waves Reborn
 - Golden Saint Armory Revamped
+- Hammet's Dungeon Pack Part 1 - SE
+- Hammet's Dungeon Packs for SE Lux Patch
+- Hammet's Dungeon Packs - Unique rewards
 - HD Local Map
 - Iggath
 - Immersive Armors Retexture and Mesh Fixes SE
 - Immersive Equipment Displays
+- Immersive Equipment Displays - Mura Presets
 - JaySuS Swords SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
@@ -72,11 +77,13 @@ Added:
 - Party Combat Parameters
 - Party Combat Parameters - Minimal Preset
 - Praedy's College of Winterhold
+- Quiet and Silent Dead Thrall Groans and Moans
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
 - ReCleaned Menu
 - Recursion FPS Fix SKSE
 - Remiel-LOTD Commentary Patch
+- Revenge of the Iron Daggers and Leather Bracers
 - Ryn's Goldenglow Estate
 - Ryn's Karthspire
 - Ryn's Saarthal - No Jyrik Edits
