@@ -128,6 +128,7 @@ Updated:
 - Beyond Reach
 - Beyond Reach - Tweaks and Enhancements
 - Beyond Skyrim - Bruma
+- Cleaned Skyrim SE Textures
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
 - eFPS - Exterior FPS boost
