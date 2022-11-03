@@ -115,6 +115,11 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
+
+### Pagefile in prevention of memory crashes
+
+This modlist pretty much requires an increased pagefile due to modded Skyrim being very poor with memory management. To fix this, you'll want to follow this guide: <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+
 ## Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
@@ -168,9 +173,6 @@ Basically, the **Stock Game Feature** is a copy of a Skyrim installation located
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
-### Pagefile in prevention of memory crashes
-
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
 
 # Updating
 
