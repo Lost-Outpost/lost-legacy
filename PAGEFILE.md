@@ -31,8 +31,7 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 
 ![pagefile settings 3](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/pagefile3.png)
 
-5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
-   Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 20GB). Set the size to 'Custom size', set the initial and maximum size to at least 20000 (20GB).
 
 ![pagefile settings 4](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/pagefile4.png)
 
