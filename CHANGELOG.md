@@ -197,14 +197,21 @@ Removed:
 - Wonders of Weather - Settings Loader
 
 Fixes/Tweaks:
+- Added a "fix" for Arniel getting stuck a lot in the College quest
 - Added lots of new custom patches
+- Disabled letterbox bars for Rudy ENB 
 - Fixed a tooltip typo for the Crusader class from CCABR
 - Fixed an issue where Vahlok wouldn't have his mask
+- Fixed landscape right outside Velothi Mountain Tunnels
+- Fixed overlapping map markers for Destroyed Shack, Greenwood Shack, and Prospector's Shack
+- Fixed room markers in Bards College so the invisible walls are gone
 - Moved Skyrim's Got Talent (Bard mod) to Optional and disabled by default
 - Removed Mihail Sithis Finger weapon that was causing crashes
+- Removed most flames from Helgen intro to help avoid dying
 - Removed Shield from Valtheim Towers that was causing crashes
 - ROM Archmage robe set was getting overwritten by another mod, fixed
 - Scrambled Bugs tweak: Trap only souls of the appropriate size in soul gems
+- Turned off sparring by default in the Follower Framework MCM
 - Tweaked NPCs around Fellglow Keep that were way too OP
 - Reran dyndolod and synthesis outputs
 
