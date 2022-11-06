@@ -82,6 +82,8 @@ Added:
 - Quiet and Silent Dead Thrall Groans and Moans
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
+- Read the Room - Default to only equip/unequip via hotkey K (can change it in the MCM)
+- Realistic AI Detection (RAID) - optional, off by default
 - ReCleaned Menu
 - Recursion FPS Fix SKSE
 - Remiel-LOTD Commentary Patch
@@ -108,11 +110,13 @@ Added:
 - The Great City of Winterhold
 - The Great City of Winterhold Patch Collection
 - The Great City of Winterhold Vanilla Meshes
+- The Vanilla ENB (Optional)
 - The Whispering Door - Quest Expansion
 - Trade and Barter
 - Unlimited Wood Chopping
 - Unofficial Creation Club Fishing Patch
 - Unofficial eFPS Patches
+- Vindsvept Music Replacer - optional, off by default
 - Water in Wells - mesh-only animated wells
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
