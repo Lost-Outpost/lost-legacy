@@ -21,25 +21,30 @@
 ## 1.1.0 - In-Progress - Definitely NOT Save Compatible
 
 Added:
-- *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers)
-- *Potato profile for low end devices (Needs more testing but worked for me)
+- *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers including the new Saints & Seducers Extended Cut mod!)
+- *Potato profile for low end devices (Needs more testing but seems to be working well)
 - *Press F11 to see the keybinds in game (I'm not a graphic artist so it doesn't look great, but it's working at least lol) Big thanks to DylanPerry (the author of Wildlander) for showing me how to get this working!
-- *Optional: Precision, Skyrim Souls RE, Valhalla Combat
+- *Optional: Precision, Skyrim Souls RE, Valhalla Combat, Realistic AI Detection
 - *Root Builder Plugin; Can swap ENBs in mo2 now, no more ENB Organizer!
-- *Ultrawide mods have been added, I don't have a way to test myself so please let me know if they work!
+- *Ultrawide optional mods have been added, I don't have a way to test myself so please let me know if they need improvements!
 - All Thieves Guild Jobs Concurrently - USSEP Version
 - Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
+- Animals Swim
 - Animated Forge Water
 - Apothecary - Free AE Patches
 - Castlevania - Vampire Killer
+- Chapter II - Jeremy Soule Inspired Music  - optional, off by default
 - Charming Carrots
 - Civil War Lines Expansion
 - Cloaks of Skyrim SSE
 - Cloaks Of Skyrim Retextured 2k
+- Compass Navigation Overhaul - Nordic UI Skin
 - CPS Resource Packs
 - Daedric Shrines - Malacath
 - Daedric Shrines - Mehrunes Dagon
+- Daedric Shrines - Meridia
 - Destructible Skyrim - Base Object Swapper
+- Disable Turn Animation
 - Dynamic Animation Casting
 - Dynamic Collision Adjustment
 - EMPEROR - Giant Crab Overhaul
@@ -51,6 +56,7 @@ Added:
 - Formation with Followers
 - Fortune's Tradehouse
 - FYX - Jorrvaskr
+- FYX - RowBoat
 - GKB Waves Reborn
 - Golden Saint Armory Revamped
 - Hammet's Dungeon Pack Part 1 - SE
@@ -61,13 +67,16 @@ Added:
 - Immersive Armors Retexture and Mesh Fixes SE
 - Immersive Equipment Displays
 - Immersive Equipment Displays - Mura Presets
+- Infinity UI
 - JaySuS Swords SE
 - JK's Castle Dour
 - Konahrik's Accoutrements - Fixed Esp
 - Legacy of the Dragonborn - Creation Club Patch Hub
 - Legacy of The Dragonborn - Museum Gate Remade
+- Less Vanilla Trees (for performance mode)
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
+- Low-End Textures (For potato mode)
 - Lucien - Creation Club - Rare Curios Patch
 - Lucien - Creation Club - Saints and Seducers Patch
 - Lunar Guard Armor 2k
@@ -75,18 +84,22 @@ Added:
 - Marked Treasure SSE
 - Mine Foremen Sell Ore SE
 - No staggercamera
+- OIL - My HD version SE 2k
 - Paintings Remade - Legacy of The Dragonborn
+- Papyrus Tweaks NG
 - Party Combat Parameters
 - Party Combat Parameters - Minimal Preset
 - Praedy's College of Winterhold
 - Quiet and Silent Dead Thrall Groans and Moans
 - Rainbows SE
 - Rainbows 4K SE - Cleaned and Upscaled Textures
-- Read the Room - Default to only equip/unequip via hotkey K (can change it in the MCM)
+- Read the Room - optional, off by default
 - Realistic AI Detection (RAID) - optional, off by default
 - ReCleaned Menu
 - Recursion FPS Fix SKSE
 - Remiel-LOTD Commentary Patch
+- Remove Hanging Moss From Trees
+- Reusable Corpses for Necromancy - No Ash Piles
 - Revenge of the Iron Daggers and Leather Bracers
 - Ryn's Goldenglow Estate
 - Ryn's Karthspire
@@ -100,6 +113,7 @@ Added:
 - Shooting Stars 2K SE - Cleaned and Upscaled Textures
 - Shrine of Mehrunes Dagon 4k
 - Simple Dual Sheath & XPMSSE Left Hand Sheath Rotation Fix
+- Skyrim Extended Cut - Saints and Seducers
 - Skyrim Sewers 4 and Saints and Seducers Patch
 - Stones of Barenziah Quest Markers
 - TAA Flicker Fixer
@@ -120,6 +134,7 @@ Added:
 - Water in Wells - mesh-only animated wells
 - Waterplants - Lily Only
 - Waterplants - Animated Water Lily SE
+- Windhelm Bridge Stairs
 - Xelzaz - Wyrmstooth Patch
 - YASTM - Yet Another Soul Trap Manager
 
@@ -129,6 +144,7 @@ Updated:
 - Audio Overhaul for Skyrim SE
 - Bandit Lines Expansion
 - Base Object Swapper
+- Better Third Person Selection - BTPS
 - Beyond Reach
 - Beyond Reach - Tweaks and Enhancements
 - Beyond Skyrim - Bruma
@@ -143,6 +159,7 @@ Updated:
 - Isle of Artaeum (SSE)
 - Lawbringer - Guardsman (more locations covered)
 - Legacy of the Dragonborn Patches (Official)
+- Legacy of the Dragonborn - Follower Room Patches (Now includes support for Lucien!)
 - Legacy of the Dragonborn - The Curators Companion
 - Legacy of The Dragonborn - Museum Exterior Fixes
 - LotD Hall of Forgotten Patches
@@ -164,6 +181,7 @@ Updated:
 - SDA Patch Hub (Optional)
 - Simplest Horses
 - Simply Order Summons
+- Swiftly Order Squad - Follower Commands UI
 - Thanedom Assets BSA Version
 - Thanedom Of Darkwater Crossing BSA Version
 - Undeath Classical Lichdom
