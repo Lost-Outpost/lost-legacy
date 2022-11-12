@@ -19,7 +19,7 @@
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
-***Lost Legacy does NOT require AE, nor does it make use of any of the AE/CC content. If you own AE, you are still able to install and play the modlist!***
+***Lost Legacy does NOT require the paid AE/CC content. If you own AE, you are still able to install and play the modlist!***
 
 # Installation
 
@@ -54,7 +54,7 @@
 Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
 
 ### Minimum Specs
-With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. 
+With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. The new potato mode should allow the list to run on low end PCs now too!
 
 With performance mode disabled, on my specs (below) I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
 
@@ -123,8 +123,6 @@ This modlist pretty much requires an increased pagefile due to modded Skyrim bei
 ## Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
-## DOWNGRADE SKYRIM (Temporary step until 1.1.0)
-Due to the recent Skyrim update, the list will not install unless you downgrade to 1.6.629 using this exact link: https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=318028&game_id=1704
 
 ## Using Wabbajack
 
@@ -198,8 +196,10 @@ As soon as your game is finished launching, you will be greeted with the Title s
 
 # Final Checklist
 Check the following items before starting the game (they are easy to miss)
-- (Not set up yet) If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
+- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#widescreen)
 - Change the ENB Preset (if you want) from the [enb configuration](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#enb-presets) page. The default ENB is a modified Pi-Cho. Cathedralist Fantasy is the most performance friendly ENB, but drastically changes the look of the game.
+- Review the Optional mods that appeal to you. Will eventually put more info [here](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md#optional-content)
+- For low end PCs, switch to the Potato Mode profile at the top of Mod Organizer
 
 
 
