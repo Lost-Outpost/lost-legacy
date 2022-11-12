@@ -151,6 +151,7 @@ Updated:
 - Cleaned Skyrim SE Textures
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
+- Conditional Expressions
 - eFPS - Exterior FPS boost
 - GG's Thieves Guild Headquarters
 - GG's Thieves Guild Headquarters Lux patch
