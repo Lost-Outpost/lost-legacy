@@ -55,40 +55,20 @@ A few that you may want to tweak:
 - Wildcat combat - Can change the difficulty multipliers and some other combat settings
 - Violens - I have killmoves disabled by default, these can be safely enabled/tweaked
 
-## ENB and Reshade Presets
+## ENB and Presets
 
-> :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
+> :ledger: You should only ever enable exactly one ENB preset.
 
-Lost Legacy includes an awesome tool called ENB Organizer for trying out different ENB presets.
+Changing ENB is now easier than ever! Simply open Mod Organizer, scroll down to the section labeled "OPTIONAL - ENB", uncheck the default enb "ENB - MAIN PiCho", then check the box for the ENB you wish to use. But only enable one!
 
-To change ENB presets, do the following:
-
-- Run ENB Organizer from the exe list in the top right of MO2
-- If the program warns about not being able to check for updates, simply click ok and ignore it
-
-
-- Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset. Mixing presets (including mixing ENB and Reshade presets) will not work. The default ENB preset for the list is "MAIN - Pi-Cho Ultra".
-
-
-To install a new ENB, do the following:
-
-- Manually download the ENB zip archive
-- Create a new temporary folder on your desktop to contain the new ENB
-- Open the ENB zip archive, copy the enbseries folder, enblocal.ini, and enbseries.ini into your temporary folder
-- Open Lost Legacy MO2, run the ENB Organizer
-- Ignore the ENB Organizer error message
-- In ENB Organizer, select Presets from the menu
-- In ENB Organizer, select the add button, select import folder or archive, import from your temporary folder, change Binary dropdown to "enbseries", then hit Save
-
-Thanks to Lost Outpost community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
 
 ## Performance Guide
 
-(In-progress)
-- Enable the 4 Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
+- For very low end devices, change the profile at the top of Mod Organizer to POTATO MODE for maximum performance (and severely reduced visuals) !!Do not do the rest of the steps below if using Potato Mode!!
+- 
+- Enable the 5 Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
 - Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
-- Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` to the profile you're using and overwrite `Lost Legacy\profiles\Lost Legacy`
+- Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` into `Lost Legacy\profiles\Lost Legacy`
 - If you need further performance tweaks, you can try disabling some texture mods like Skyrim 2020, Skyland AIO, Illustrious Whiterun, and Tamrielic Textures
-- Enable the POTATO MODE mod at the bottom of the Performance Mode section in mo2 (in version 1.0.4b and higher)
 
 
