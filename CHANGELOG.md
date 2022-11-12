@@ -74,8 +74,10 @@ Added:
 - Legacy of the Dragonborn - Creation Club Patch Hub
 - Legacy of The Dragonborn - Museum Gate Remade
 - Less Vanilla Trees (for performance mode)
+- Less Visually Obtrusive Cloak Spell Effects
 - Locked Chests Have Keys
 - Locked Chests Have Keys - Patches
+- LotD - Hide Backpacks - optional, off by default
 - Low-End Textures (For potato mode)
 - Lucien - Creation Club - Rare Curios Patch
 - Lucien - Creation Club - Saints and Seducers Patch
@@ -89,6 +91,7 @@ Added:
 - Papyrus Tweaks NG
 - Party Combat Parameters
 - Party Combat Parameters - Minimal Preset
+- Payload Interpreter
 - Praedy's College of Winterhold
 - Quiet and Silent Dead Thrall Groans and Moans
 - Rainbows SE
@@ -151,7 +154,10 @@ Updated:
 - Cleaned Skyrim SE Textures
 - C.O.I.N. - Coins of Interesting Natures
 - College of Winterhold - Quest Expansions
-- Conditional Expressions
+- Conditional Expressions - Subtle Face Animations
+- Eating animations - My HD version SE
+- Eating Animations and Sounds - Sunhelm Patch
+- Eating Animations And Sounds SE
 - eFPS - Exterior FPS boost
 - GG's Thieves Guild Headquarters
 - GG's Thieves Guild Headquarters Lux patch
