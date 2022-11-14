@@ -20,6 +20,8 @@
 
 ## Controls
 
+As of version 1.1.0, you can press F11 to see the hotkeys in game!
+
 Here is a list of the non-standard controls that you should be aware of:
 
 - <kbd>B</kbd> - Switches 3rd person shoulder view from left or right
@@ -102,7 +104,13 @@ To worship a new deity via their shrine, you must sneak-activate the shrine as s
   
 ## Quest Mods
 
+### Moonpath to Elsewyr
+
+Collect enough items for the Legacy of the Dragonborn museum, and Aurien will ask you to retrieve the Staff of Indarys, sending you to a khajiit run caravan outside of Falkreath. You must also complete The Way of the Voice for the carriage to show up.
+
 ### Undeath
 
 Starts automatically at level 30, read [modpage FAQ](https://www.nexusmods.com/skyrimspecialedition/mods/6180) for more details.
+
+
 
