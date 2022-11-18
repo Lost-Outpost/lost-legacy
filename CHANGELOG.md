@@ -18,7 +18,19 @@
 
 # Changelog
 
-## 1.1.0 - In-Progress - Definitely NOT Save Compatible
+## 1.1.1 - Released 2022/11/?? - Save Compatible
+
+Updated:
+- Contextual Crosshair
+- Eating Animations
+
+Removed:
+- Read the Room (Has issues still, and would require me to run 2 more Nemesis outputs to keep it in as optional)
+
+Fixes/Tweaks:
+- Disabled IED & requirements by default, you can enable them in the Optional section if you wish, but they can cause occasional crashes
+
+## 1.1.0 - Released 2022/11/15 - Definitely NOT Save Compatible
 
 Added:
 - *Free AE/CC Mods (Fishing, Rare Curios, and Saints & Seducers including the new Saints & Seducers Extended Cut mod!)
