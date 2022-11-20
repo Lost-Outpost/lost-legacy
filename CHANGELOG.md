@@ -22,13 +22,13 @@
 
 Updated:
 - Contextual Crosshair
-- Eating Animations
 
 Removed:
 - Read the Room (Has issues still, and would require me to run 2 more Nemesis outputs to keep it in as optional)
 
 Fixes/Tweaks:
 - Disabled IED & requirements by default, you can enable them in the Optional section if you wish, but they can cause occasional crashes
+- Reverted Better Third Person Selection to v0.5.5 as the latest version was causing random freezing and crashing
 
 ## 1.1.0 - Released 2022/11/15 - Definitely NOT Save Compatible
 
