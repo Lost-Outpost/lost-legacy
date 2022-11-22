@@ -18,7 +18,7 @@
 
 # Changelog
 
-## 1.1.1 - Released 2022/11/?? - Save Compatible
+## 1.1.1 - Released 2022/11/21 - Save Compatible
 
 Updated:
 - Contextual Crosshair
