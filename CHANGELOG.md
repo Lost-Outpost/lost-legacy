@@ -18,6 +18,12 @@
 
 # Changelog
 
+## 1.1.2 - Released ??? - Save Compatible
+
+Fixes/Tweaks:
+- Adjusted Aetherium armor crafting to use Vokriinator perks
+
+
 ## 1.1.1 - Released 2022/11/21 - Save Compatible
 
 Updated:
