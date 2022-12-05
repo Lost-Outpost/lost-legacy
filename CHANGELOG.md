@@ -25,6 +25,7 @@ Added:
 - Warden of the Coast (Needs testing)
 
 Updated:
+- Civil War Lines Expansion
 - Simplest Horses
 
 Fixes/Tweaks:
