@@ -20,6 +20,13 @@
 
 ## 1.1.2 - Released ??? - Save Compatible
 
+Added:
+- ConsolePlusPlus
+- Warden of the Coast (Needs testing)
+
+Updated:
+- Simplest Horses
+
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 
