@@ -26,6 +26,7 @@ Added:
 
 Updated:
 - Civil War Lines Expansion
+- MO2 Root Builder Plugin
 - Simplest Horses
 
 Fixes/Tweaks:
