@@ -18,7 +18,7 @@
 
 # Changelog
 
-## 1.1.2 - Released ??? - Save Compatible
+## 1.2.0 - Released ??? (ETA Spring 2023) - NOT Save Compatible
 
 Added:
 - ConsolePlusPlus
