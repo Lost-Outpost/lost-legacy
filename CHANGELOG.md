@@ -32,6 +32,29 @@ Updated:
 - MO2 Root Builder Plugin
 - Simplest Horses
 
+Removed:
+- Autumngate - A Believable Player Home
+- Autumngate - Patch Collection
+- Ebongrove
+- Ebongrove - Buyable Home Patch
+- Frithuz - A Dunmer Home
+- Gleamblossom Hollow
+- Golzarga - An Orc's Cottage
+- Gwent Hearth Falkreath
+- Kalnn - A Vampire's Hobbit Hole
+- Menskr - A Winterhold Home
+- Myrkheimr SE
+- Nimstette - A Cyrodiil Home
+- Ouada-Ruhn - A Dunmer Home
+- Rawlith - A Khajiit Home
+- Sarethi Manor - Morrowind mansion with village
+- Shadowstar Castle SE
+- Solitude Rectory - Tiny Imperial Temple Home
+- Whiterun Safehold
+- Wuth Rein - An ancient nordic hideout
+- Varbaril - A Bosmer Home
+- Vulav - A Cyrodiil Home
+
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 
