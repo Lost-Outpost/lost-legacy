@@ -21,7 +21,9 @@
 ## 1.2.0 - Released ??? (ETA Spring 2023) - NOT Save Compatible
 
 Added:
+- Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
+- Huntsman - A Hunting Expansion
 - Warden of the Coast (Needs testing)
 
 Updated:
