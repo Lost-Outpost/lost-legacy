@@ -23,6 +23,7 @@
 Added:
 - Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
+- Dovahkiin's Vault - Earlier Start
 - Huntsman - A Hunting Expansion
 - Warden of the Coast
 
