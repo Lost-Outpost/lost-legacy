@@ -24,7 +24,7 @@ Added:
 - Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
 - Huntsman - A Hunting Expansion
-- Warden of the Coast (Needs testing)
+- Warden of the Coast
 
 Updated:
 - Civil War Lines Expansion
