@@ -25,12 +25,21 @@ Added:
 - ConsolePlusPlus
 - Dovahkiin's Vault - Earlier Start
 - Huntsman - A Hunting Expansion
-- Warden of the Coast
+- MergeMapper
+- Warden of the Coast (New quest mod)
 
 Updated:
 - Civil War Lines Expansion
+- Contextual Crosshair
+- Critter Spawn Congestion Fix
+- Gladys the Corgi
+- Keyword Item Distributor
+- Khajiit Will Follow
+- Merlin the Corgi
 - MO2 Root Builder Plugin
+- powerofthree's Tweaks
 - Simplest Horses
+- Skyrim Extended Cut - Saints and Seducers
 
 Removed:
 - Autumngate - A Believable Player Home
@@ -42,6 +51,8 @@ Removed:
 - Golzarga - An Orc's Cottage
 - Gwent Hearth Falkreath
 - Kalnn - A Vampire's Hobbit Hole
+- Khajiit Will Follow - The Forgotten City
+- Khajiit Will Follow - Vigilant (MALE FOLLOWERS ONLY)
 - Menskr - A Winterhold Home
 - Myrkheimr SE
 - Nimstette - A Cyrodiil Home
