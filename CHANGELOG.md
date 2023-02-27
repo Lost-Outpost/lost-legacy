@@ -21,6 +21,8 @@
 ## 1.2.0 - Released ??? (ETA Spring 2023) - NOT Save Compatible
 
 Added:
+- Alchemy Recipe Expansion
+- Bleak Falls Tower by snozz2004
 - Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
 - Daedric Shrines - Jyggalag
@@ -30,11 +32,16 @@ Added:
 - Huntsman - A Hunting Expansion
 - IHarvest
 - IHarvest - Settings Loader
+- JS Knapsacks SE
 - MergeMapper
 - Precision - Whip Patch - One Third Longer (optional)
+- Quest - Baba Yaga and the Labyrinth
+- Recipe Auto-Learn
 - SkyPal - Your Friendly Papyrus Library
+- Vampire Lines Expansion
 - Warden of the Coast (New quest mod)
 - Which Key NG
+- Wild Witch Outfit
 
 Updated:
 - Animation Motion Revolution
@@ -50,6 +57,8 @@ Updated:
 - Keyword Item Distributor
 - Khajiit Will Follow
 - Locked Chests Have Keys
+- Lux
+- Lux Orbis
 - Merlin the Corgi
 - MO2 Root Builder Plugin
 - New Vominheim
@@ -62,6 +71,7 @@ Updated:
 - Serana Dialogue Add-On (optional)
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
+- Song of the Green (Auri Follower)
 - Splashes of Storms
 - Valhalla Combat (optional)
 - VIGILANT SE
