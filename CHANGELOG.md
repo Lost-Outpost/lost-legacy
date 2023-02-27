@@ -50,6 +50,7 @@ Updated:
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
+- Schlitzohr - Oakwood
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
 - Simplest Horses
