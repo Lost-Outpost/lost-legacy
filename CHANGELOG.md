@@ -25,15 +25,21 @@ Added:
 - ConsolePlusPlus
 - Daedric Shrines - Jyggalag
 - Daedric Shrines - Jyggalag - My patches
-- Dovahkiin's Vault - Earlier Start
 - Forsworn and Thalmor Lines Expansion
+- Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
+- IHarvest
+- IHarvest - Settings Loader
 - MergeMapper
+- Precision - Whip Patch - One Third Longer (optional)
+- SkyPal - Your Friendly Papyrus Library
 - Warden of the Coast (New quest mod)
+- Which Key NG
 
 Updated:
 - Animation Motion Revolution
 - Bandit Lines Expansion
+- Base Object Swapper
 - Civil War Lines Expansion
 - College of Winterhold - Quest Expansion
 - Compass Navigation Overhaul
@@ -43,6 +49,7 @@ Updated:
 - Infinity UI
 - Keyword Item Distributor
 - Khajiit Will Follow
+- Locked Chests Have Keys
 - Merlin the Corgi
 - MO2 Root Builder Plugin
 - New Vominheim
@@ -65,6 +72,7 @@ Updated:
 Removed:
 - Autumngate - A Believable Player Home
 - Autumngate - Patch Collection
+- Dovahkiin's Vault SSE
 - Ebongrove
 - Ebongrove - Buyable Home Patch
 - Frithuz - A Dunmer Home
