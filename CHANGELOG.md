@@ -23,23 +23,43 @@
 Added:
 - Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
+- Daedric Shrines - Jyggalag
+- Daedric Shrines - Jyggalag - My patches
 - Dovahkiin's Vault - Earlier Start
+- Forsworn and Thalmor Lines Expansion
 - Huntsman - A Hunting Expansion
 - MergeMapper
 - Warden of the Coast (New quest mod)
 
 Updated:
+- Animation Motion Revolution
+- Bandit Lines Expansion
 - Civil War Lines Expansion
+- College of Winterhold - Quest Expansion
+- Compass Navigation Overhaul
 - Contextual Crosshair
 - Critter Spawn Congestion Fix
 - Gladys the Corgi
+- Infinity UI
 - Keyword Item Distributor
 - Khajiit Will Follow
 - Merlin the Corgi
 - MO2 Root Builder Plugin
+- New Vominheim
+- New Vominheim Lux Patch
+- powerofthree's Papyrus Extender
 - powerofthree's Tweaks
+- Precision
+- SDA Patch Hub SE (optional)
+- Serana Dialogue Add-On (optional)
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
+- Splashes of Storms
+- Valhalla Combat (optional)
+- VIGILANT SE
+- VIGILANT Voiced - English Addon
+- VIGILANT - Delayed Start (Also changed to level 25 requirement only)
+- 
 
 Removed:
 - Autumngate - A Believable Player Home
