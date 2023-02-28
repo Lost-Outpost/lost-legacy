@@ -25,6 +25,8 @@ Added:
 - Bleak Falls Tower by snozz2004
 - Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
+- Daedric Shrines - All in One 4k
+- Daedric Shrines - All in One - My Patches by Xtudo
 - Daedric Shrines - Jyggalag
 - Daedric Shrines - Jyggalag - My patches
 - Forsworn and Thalmor Lines Expansion
@@ -52,6 +54,7 @@ Updated:
 - Compass Navigation Overhaul
 - Contextual Crosshair
 - Critter Spawn Congestion Fix
+- Detection Meter
 - Gladys the Corgi
 - Infinity UI
 - Keyword Item Distributor
