@@ -110,7 +110,7 @@ Collect enough items for the Legacy of the Dragonborn museum, and Aurien will as
 
 ### Undeath
 
-Starts automatically at level 30, read [modpage FAQ](https://www.nexusmods.com/skyrimspecialedition/mods/6180) for more details.
+When you reach level 30, a note left behind by a traveler will spawn at Markarth's Silver-Blood Inn. Read it to begin Undeath. See [modpage FAQ](https://www.nexusmods.com/skyrimspecialedition/mods/40802) for more details.
 
 
 
