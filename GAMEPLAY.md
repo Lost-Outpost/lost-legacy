@@ -114,7 +114,7 @@ When you reach level 30, a note left behind by a traveler will spawn at Markarth
 
 ### Wheel of Time
 
-Avhienda's spawn point has moved from the Riverwood bridge over to the outside of the Southeast gate of Riverwood. Just head out that gate and walk up the path a little bit and she'll show up.![image](https://user-images.githubusercontent.com/96201854/224130134-cfdfd9dc-e79b-4a57-8b1c-fb0c4e67efdf.png)
+Avhienda's spawn point has moved from the Riverwood bridge over to the outside of the Southeast gate of Riverwood. Just head out that gate and walk up the path a little bit and she'll show up. [Image here](https://user-images.githubusercontent.com/96201854/224130134-cfdfd9dc-e79b-4a57-8b1c-fb0c4e67efdf.png)
 
 
 
