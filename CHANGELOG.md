@@ -35,6 +35,7 @@ Added:
 - IHarvest
 - IHarvest - Settings Loader
 - JS Knapsacks SE
+- LOTD Armor of the Crusader Retexture SE
 - MergeMapper
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth
@@ -56,6 +57,7 @@ Updated:
 - Critter Spawn Congestion Fix
 - Detection Meter
 - Gladys the Corgi
+- Immersive Armors Retexture and Mesh Fixes SE
 - Infinity UI
 - Keyword Item Distributor
 - Khajiit Will Follow
