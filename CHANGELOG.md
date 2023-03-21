@@ -23,7 +23,6 @@
 Added:
 - Alchemy Recipe Expansion
 - Bleak Falls Tower by snozz2004
-- Brewer - An Alcohol Brewing Mod
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k
 - Daedric Shrines - All in One - My Patches by Xtudo
@@ -36,6 +35,7 @@ Added:
 - IHarvest - Settings Loader
 - JS Knapsacks SE
 - LOTD Armor of the Crusader Retexture SE
+- Lucien - Room Markers for Dumzbthar
 - MergeMapper
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth
@@ -61,6 +61,9 @@ Updated:
 - Infinity UI
 - Keyword Item Distributor
 - Khajiit Will Follow
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn Patches (Official)
+- Legacy of the Dragonborn - The Curators Companion
 - Locked Chests Have Keys
 - Lux
 - Lux Orbis
