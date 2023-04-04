@@ -45,6 +45,17 @@ Added:
 - Warden of the Coast (New quest mod)
 - Which Key NG
 - Wild Witch Outfit
+- xavbio - Blades Armors and Weapons Retexture SE
+- xavbio - Daedric Armors and Weapons Retexture SE
+- xavbio - Dragon Weapons and Armor Retexture SE
+- xavbio - Ebony Armors and Weapons Retexture SE
+- xavbio - Elven Armors and Weapons Retexture SE
+- xavbio - Glass Armors and Weapons Retexture SE
+- xavbio - Imperial Armors and Weapons Retexture SE
+- xavbio - Iron Armors and Weapons Retexture SE
+- xavbio - Orcish Armors and Weapons Retexture SE
+- xavbio - Steel Armors and Weapons Retexture SE
+- xavbio - Wolf Armor and Weapons Retexture SE
 
 Updated:
 - Animation Motion Revolution
