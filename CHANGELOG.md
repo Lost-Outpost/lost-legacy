@@ -46,6 +46,7 @@ Added:
 - SkyPal - Your Friendly Papyrus Library
 - Skyrim on Skooma
 - Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
+- Soul Cairn Script Tweaks
 - Vampire Lines Expansion
 - Warden of the Coast (New quest mod)
 - Which Key NG
@@ -102,7 +103,6 @@ Updated:
 - VIGILANT SE
 - VIGILANT Voiced - English Addon
 - VIGILANT - Delayed Start (Also changed to level 25 requirement only)
-- 
 
 Removed:
 - Autumngate - A Believable Player Home
