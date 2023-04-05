@@ -36,10 +36,13 @@ Added:
 - JS Knapsacks SE
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
+- Merchant - A Trading Expansion
 - MergeMapper
+- OWL Patches for some gearshout armors
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth
 - Recipe Auto-Learn
+- Shadow of Skyrim - Trembling Hands Unequips
 - SkyPal - Your Friendly Papyrus Library
 - Vampire Lines Expansion
 - Warden of the Coast (New quest mod)
@@ -88,6 +91,7 @@ Updated:
 - Schlitzohr - Oakwood
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
+- Shadow of Skyrim
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
 - Song of the Green (Auri Follower)
