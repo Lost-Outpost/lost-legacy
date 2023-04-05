@@ -24,7 +24,7 @@ Added:
 - Alchemy Recipe Expansion
 - Bleak Falls Tower by snozz2004
 - ConsolePlusPlus
-- Daedric Shrines - All in One 4k
+- Daedric Shrines - All in One 4k (Replaced all the individual mods)
 - Daedric Shrines - All in One - My Patches by Xtudo
 - Daedric Shrines - Jyggalag
 - Daedric Shrines - Jyggalag - My patches
