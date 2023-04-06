@@ -44,8 +44,6 @@ Added:
 - Recipe Auto-Learn
 - Shadow of Skyrim - Trembling Hands Unequips
 - SkyPal - Your Friendly Papyrus Library
-- Skyrim on Skooma
-- Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
 - Soul Cairn Script Tweaks
 - Vampire Lines Expansion
 - Warden of the Coast (New quest mod)
