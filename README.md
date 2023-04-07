@@ -21,6 +21,8 @@
 
 ***Lost Legacy does NOT require the paid AE/CC content. If you own AE, you are still able to install and play the modlist!***
 
+***Lost Legacy only works for the STEAM version, the GOG version will NOT work***
+
 # Installation
 
 - [Installation](#installation)
@@ -98,6 +100,8 @@ Please ensure you have .NET v5.0 installed. The game will not launch if you do n
 ![Dot Net](https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/microsoft-net-5-0-installation.png)
 
 ### Steam Library
+
+Lost Legacy requires a legal copy of Skyrim installed on STEAM. GOG will not work.
 
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Skyrim in their Program Files folder.
