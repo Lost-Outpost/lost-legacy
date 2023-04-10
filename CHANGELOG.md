@@ -69,7 +69,6 @@ Updated:
 - College of Winterhold - Quest Expansion
 - Compass Navigation Overhaul
 - Contextual Crosshair
-- Critter Spawn Congestion Fix
 - Detection Meter
 - Gladys the Corgi
 - Immersive Armors Retexture and Mesh Fixes SE
@@ -105,6 +104,7 @@ Updated:
 Removed:
 - Autumngate - A Believable Player Home
 - Autumngate - Patch Collection
+- Critter Spawn Congestion Fix
 - Dovahkiin's Vault SSE
 - Ebongrove
 - Ebongrove - Buyable Home Patch
