@@ -45,6 +45,8 @@ Added:
 - Lucien - Room Markers for Dumzbthar
 - Merchant - A Trading Expansion
 - MergeMapper
+- Nordic ui 32 by 9 (ultrawide support)
+- NORDIC UI - Ultrawide Fixes and Patches 32 by 9
 - OWL Patches for some gearshout armors
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
@@ -59,6 +61,7 @@ Added:
 - Warden of the Coast **(New quest mod)**
 - Which Key NG
 - Wild Witch Outfit
+- Winged Hussar Armor and Weapons
 - xavbio - Blades Armors and Weapons Retexture SE
 - xavbio - Daedric Armors and Weapons Retexture SE
 - xavbio - Dragon Weapons and Armor Retexture SE
@@ -110,6 +113,8 @@ Updated:
 - Song of the Green (Auri Follower)
 - Spell Perk Item Distributor (SPID)
 - Splashes of Storms
+- The Great City of Winterhold Patch Collection
+- The Wheels of Lull SE
 - Valhalla Combat (optional)
 - VIGILANT SE
 - VIGILANT Voiced - English Addon
