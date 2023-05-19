@@ -18,7 +18,7 @@
 
 # Changelog
 
-## 1.2.0 - Released ??? (ETA Spring 2023) - NOT Save Compatible
+## 1.2.0 - In Progress (ETA Summer 2023) - NOT Save Compatible
 
 Added:
 - Alchemy Recipe Expansion
@@ -28,6 +28,11 @@ Added:
 - Daedric Shrines - All in One - My Patches by Xtudo
 - Daedric Shrines - Jyggalag
 - Daedric Shrines - Jyggalag - My patches
+- DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- DLC2dunSeekerInvisScript Fix
+- DLC2MiraakScript Fix
+- DLC2PillarBuilderActorScript Tweak
+- Dragonactorscript infinite loop fix
 - Forsworn and Thalmor Lines Expansion
 - Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
@@ -40,13 +45,16 @@ Added:
 - MergeMapper
 - OWL Patches for some gearshout armors
 - Precision - Whip Patch - One Third Longer (optional)
-- Quest - Baba Yaga and the Labyrinth
+- Quest - Baba Yaga and the Labyrinth **(New quest mod)**
 - Recipe Auto-Learn
 - Shadow of Skyrim - Trembling Hands Unequips
+- SIRENROOT - Deluge of Deceit **(New quest mod)**
 - SkyPal - Your Friendly Papyrus Library
 - Soul Cairn Script Tweaks
+- There Is No Umbra - Chapter III **(Updated quest mod)**
+- The Welkynar Knight - Quest **(New quest mod)**
 - Vampire Lines Expansion
-- Warden of the Coast (New quest mod)
+- Warden of the Coast **(New quest mod)**
 - Which Key NG
 - Wild Witch Outfit
 - xavbio - Blades Armors and Weapons Retexture SE
@@ -88,6 +96,7 @@ Updated:
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
+- Relics of Hyrule
 - Schlitzohr - Oakwood
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
@@ -95,6 +104,7 @@ Updated:
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
 - Song of the Green (Auri Follower)
+- Spell Perk Item Distributor (SPID)
 - Splashes of Storms
 - Valhalla Combat (optional)
 - VIGILANT SE
@@ -120,6 +130,8 @@ Removed:
 - Nimstette - A Cyrodiil Home
 - Ouada-Ruhn - A Dunmer Home
 - Rawlith - A Khajiit Home
+- Relics of Hyrule Growables
+- Relics of Hyrule - Triumvirate Druidcraft Integration
 - Sarethi Manor - Morrowind mansion with village
 - Shadowstar Castle SE
 - Solitude Rectory - Tiny Imperial Temple Home
@@ -130,6 +142,17 @@ Removed:
 
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
+
+
+
+
+
+##########################
+##### Older Versions #####
+##########################
+
+
+
 
 
 ## 1.1.1 - Released 2022/11/21 - Save Compatible
