@@ -38,6 +38,8 @@ Added:
 - Huntsman - A Hunting Expansion
 - IHarvest
 - IHarvest - Settings Loader
+- JK's Riften Outskirts
+- JK's Riften Outskirts Patch Collection
 - JS Knapsacks SE
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
@@ -87,6 +89,7 @@ Updated:
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
 - Locked Chests Have Keys
+- Lucifer - Argonian Custom Voiced Follower
 - Lux
 - Lux Orbis
 - Merlin the Corgi
@@ -97,6 +100,7 @@ Updated:
 - powerofthree's Tweaks
 - Precision
 - Relics of Hyrule
+- Remiel-Custom Voiced Dwemer Specialist and Companion
 - Schlitzohr - Oakwood
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
@@ -110,6 +114,7 @@ Updated:
 - VIGILANT SE
 - VIGILANT Voiced - English Addon
 - VIGILANT - Delayed Start (Also changed to level 25 requirement only)
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
 - Autumngate - A Believable Player Home
