@@ -21,8 +21,9 @@
 ## 1.2.0 - In Progress (ETA Summer 2023) - NOT Save Compatible
 
 Added:
+- 4K Dragon Skeleton
 - Alchemy Recipe Expansion
-- Bleak Falls Tower by snozz2004
+- Bleak Falls Tower by snozz2004 (with Lawbringer patch)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
 - Daedric Shrines - All in One - My Patches by Xtudo
@@ -43,20 +44,33 @@ Added:
 - JS Knapsacks SE
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
+- Memorable Dragons
 - Merchant - A Trading Expansion
 - MergeMapper
+- Night mother
+- No More Blinding Fog - SSE Port
 - Nordic ui 32 by 9 (ultrawide support)
 - NORDIC UI - Ultrawide Fixes and Patches 32 by 9
 - OWL Patches for some gearshout armors
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
+- Reanimated NPC Animations
 - Recipe Auto-Learn
+- Remote Interactions
+- Rudy - More dramatic Red Mountain Plume
+- Ryn's Dragon Mounds Collection
+- Ryn's Mehrunes Dagon's Shrine
+- Ryn's Mehrunes Dagon Shrine - LOTD Patch
 - Shadow of Skyrim - Trembling Hands Unequips
 - SIRENROOT - Deluge of Deceit **(New quest mod)**
+- Sky Flip for Beyond Reach
 - SkyPal - Your Friendly Papyrus Library
+- Skyrim on Skooma
 - Soul Cairn Script Tweaks
-- There Is No Umbra - Chapter III **(Updated quest mod)**
+- The Gray Cowl of Nocturnal SE - Retexture 2K
 - The Welkynar Knight - Quest **(New quest mod)**
+- There Is No Umbra - Chapter III **(Updated quest mod)**
+- Unmarked Locations Pack - Sovngarde
 - Vampire Lines Expansion
 - Warden of the Coast **(New quest mod)**
 - Which Key NG
@@ -76,6 +90,7 @@ Updated:
 - Compass Navigation Overhaul
 - Contextual Crosshair
 - Detection Meter
+- Environs - Whiterun Watchtower Doesn't Stay Broken
 - Gladys the Corgi
 - Immersive Armors Retexture and Mesh Fixes SE
 - Infinity UI
@@ -95,8 +110,11 @@ Updated:
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
+- QuickLootEE - With TCC icons
 - Relics of Hyrule
 - Remiel-Custom Voiced Dwemer Specialist and Companion
+- Ryn's Karthspire
+- Ryn's Standing Stones
 - Schlitzohr - Oakwood
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
@@ -107,6 +125,7 @@ Updated:
 - Spell Perk Item Distributor (SPID)
 - Splashes of Storms
 - The Great City of Winterhold Patch Collection
+- The Wheel of Time - Fully Voiced Follower and Quests
 - The Wheels of Lull SE
 - Valhalla Combat (optional)
 - VIGILANT SE
