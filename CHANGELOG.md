@@ -23,6 +23,7 @@
 Added:
 - 4K Dragon Skeleton
 - Alchemy Recipe Expansion
+- Belethor's Sister - Quest
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
@@ -34,6 +35,8 @@ Added:
 - DLC2MiraakScript Fix
 - DLC2PillarBuilderActorScript Tweak
 - Dragonactorscript infinite loop fix
+- Falmer Overhaul - New models and textures
+- Falmer Overhaul - My patches SE - SIC 4K
 - Forsworn and Thalmor Lines Expansion
 - Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
@@ -51,6 +54,8 @@ Added:
 - No More Blinding Fog - SSE Port
 - Nordic ui 32 by 9 (ultrawide support)
 - NORDIC UI - Ultrawide Fixes and Patches 32 by 9
+- NPCs React To Invisibility
+- Open Animation Replacer
 - OWL Patches for some gearshout armors
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
@@ -138,6 +143,7 @@ Removed:
 - Autumngate - Patch Collection
 - Critter Spawn Congestion Fix
 - Dovahkiin's Vault SSE
+- Dynamic Animation Replacer (replaced by Open Animation Replacer)
 - Ebongrove
 - Ebongrove - Buyable Home Patch
 - Frithuz - A Dunmer Home
