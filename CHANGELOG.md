@@ -25,6 +25,7 @@ Added:
 - Alchemy Recipe Expansion
 - Belethor's Sister - Quest
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
+- Colorful Magic (Bosses Only)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
 - Daedric Shrines - All in One - My Patches by Xtudo
@@ -35,6 +36,7 @@ Added:
 - DLC2MiraakScript Fix
 - DLC2PillarBuilderActorScript Tweak
 - Dragonactorscript infinite loop fix
+- Environs - Master Plugin
 - Falmer Overhaul - New models and textures
 - Falmer Overhaul - My patches SE - SIC 4K
 - Forsworn and Thalmor Lines Expansion
@@ -45,11 +47,13 @@ Added:
 - JK's Riften Outskirts
 - JK's Riften Outskirts Patch Collection
 - JS Knapsacks SE
+- Legacy of the Dragonborn Delay Patch (OPTIONAL, Disabled by default)
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
 - Memorable Dragons
 - Merchant - A Trading Expansion
 - MergeMapper
+- Mihail Monsters - Draugr Patrols and Cavalry
 - Night mother
 - No More Blinding Fog - SSE Port
 - Nordic ui 32 by 9 (ultrawide support)
@@ -95,6 +99,7 @@ Updated:
 - Compass Navigation Overhaul
 - Contextual Crosshair
 - Detection Meter
+- Environs - The Ruined Tundra Farmhouse
 - Environs - Whiterun Watchtower Doesn't Stay Broken
 - Gladys the Corgi
 - Immersive Armors Retexture and Mesh Fixes SE
@@ -104,7 +109,9 @@ Updated:
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
+- Legacy of the Dragonborn - Hall of Forgotten
 - Locked Chests Have Keys
+- LOTD Hall of Forgotten TCC Patches
 - Lucifer - Argonian Custom Voiced Follower
 - Lux
 - Lux Orbis
@@ -112,6 +119,7 @@ Updated:
 - MO2 Root Builder Plugin
 - New Vominheim
 - New Vominheim Lux Patch
+- OBIS SE - Organized Bandits In Skyrim Special Edition
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
