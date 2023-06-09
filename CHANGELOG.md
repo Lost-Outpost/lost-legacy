@@ -147,8 +147,6 @@ Updated:
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
-- Autumngate - A Believable Player Home
-- Autumngate - Patch Collection
 - Critter Spawn Congestion Fix
 - Dovahkiin's Vault SSE
 - Dynamic Animation Replacer (replaced by Open Animation Replacer)
