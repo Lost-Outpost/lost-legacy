@@ -176,6 +176,7 @@ Removed:
 
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
+- Nord Hero Half Pike was added to some Draugr leveled lists
 
 
 
