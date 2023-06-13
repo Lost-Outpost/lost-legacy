@@ -40,6 +40,7 @@ Added:
 - Falmer Overhaul - New models and textures
 - Falmer Overhaul - My patches SE - SIC 4K
 - Forsworn and Thalmor Lines Expansion
+- FYX - Eastern Empire Company Building
 - Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
 - IHarvest
@@ -54,6 +55,7 @@ Added:
 - Merchant - A Trading Expansion
 - MergeMapper
 - Mihail Monsters - Draugr Patrols and Cavalry
+- My Home is Your Home (MHiYH 2plus) - SSE
 - Night mother
 - No More Blinding Fog - SSE Port
 - Nordic ui 32 by 9 (ultrawide support)
@@ -65,6 +67,7 @@ Added:
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
 - Reanimated NPC Animations
 - Recipe Auto-Learn
+- Redcap the Riekling
 - Remote Interactions
 - Rudy - More dramatic Red Mountain Plume
 - Ryn's Dragon Mounds Collection
@@ -89,6 +92,7 @@ Added:
 - xavbio - Ebony Armors and Weapons Retexture SE
 - xavbio - Elven Armors and Weapons Retexture SE
 - xavbio - Steel Armors and Weapons Retexture SE
+- xavbio - Vigilant's Molag Bal Dragon Retexture SE
 
 Updated:
 - Animation Motion Revolution
