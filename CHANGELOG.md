@@ -23,6 +23,7 @@
 Added:
 - 4K Dragon Skeleton
 - Alchemy Recipe Expansion
+- Barter Limit Fix
 - Belethor's Sister - Quest
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
 - Colorful Magic (Bosses Only)
@@ -144,6 +145,7 @@ Updated:
 - The Great City of Winterhold Patch Collection
 - The Wheel of Time - Fully Voiced Follower and Quests
 - The Wheels of Lull SE
+- Treasure Hunter for SSE
 - Valhalla Combat (optional)
 - VIGILANT SE
 - VIGILANT Voiced - English Addon
@@ -170,9 +172,12 @@ Removed:
 - Rawlith - A Khajiit Home
 - Relics of Hyrule Growables
 - Relics of Hyrule - Triumvirate Druidcraft Integration
+- Sales Overflow Solved (replaced by Barter Limit Fix)
 - Sarethi Manor - Morrowind mansion with village
 - Shadowstar Castle SE
 - Solitude Rectory - Tiny Imperial Temple Home
+- Treasure Hunter for SSE - fixed esp (No longer needed)
+- Treasure Hunter for SSE - Tweaks and Fixes (No longer needed)
 - Whiterun Safehold
 - Wuth Rein - An ancient nordic hideout
 - Varbaril - A Bosmer Home
