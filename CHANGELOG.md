@@ -187,6 +187,7 @@ Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Nord Hero Half Pike was added to some Draugr leveled lists
+- Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
 
 
 
