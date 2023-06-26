@@ -23,9 +23,12 @@
 Added:
 - 4K Dragon Skeleton
 - Alchemy Recipe Expansion
+- Aura's Scrumptious Supplement
 - Barter Limit Fix
 - Belethor's Sister - Quest
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
+- B.O.O.B.I.E.S (aka Immersive Icons)
+- Brawl Lines Expansion and Fixes
 - Colorful Magic (Bosses Only)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
@@ -46,6 +49,8 @@ Added:
 - Huntsman - A Hunting Expansion
 - IHarvest
 - IHarvest - Settings Loader
+- Inventory Interface Information Injector
+- Inventory Interface Information Injector for Skyrim 1.5
 - JK's Riften Outskirts
 - JK's Riften Outskirts Patch Collection
 - JS Knapsacks SE
@@ -62,8 +67,10 @@ Added:
 - Nordic ui 32 by 9 (ultrawide support)
 - NORDIC UI - Ultrawide Fixes and Patches 32 by 9
 - NPCs React To Invisibility
+- Object Categorization Framework
 - Open Animation Replacer
 - OWL Patches for some gearshout armors
+- Phenomenally Enriched and Nuanced Ingredients for SkyUI
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
 - Reanimated NPC Animations
@@ -81,6 +88,8 @@ Added:
 - Skyrim on Skooma
 - Soul Cairn Script Tweaks
 - The Gray Cowl of Nocturnal SE - Retexture 2K
+- The Handy Icon Collection Collective
+- The Timelost Dwemer - A Deep Elf Race SE
 - The Welkynar Knight - Quest **(New quest mod)**
 - There Is No Umbra - Chapter III **(Updated quest mod)**
 - Unmarked Locations Pack - Sovngarde
@@ -185,6 +194,7 @@ Removed:
 
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
+- Contextual Crosshair is now off by default and has to be enabled in MO2 if desired
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Nord Hero Half Pike was added to some Draugr leveled lists
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
