@@ -24,6 +24,7 @@ Added:
 - 4K Dragon Skeleton
 - Alchemy Recipe Expansion
 - Aura's Scrumptious Supplement
+- Auto Input Switch
 - Barter Limit Fix
 - Belethor's Sister - Quest
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
