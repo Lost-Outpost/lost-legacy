@@ -40,6 +40,7 @@ Added:
 - DLC2MiraakScript Fix
 - DLC2PillarBuilderActorScript Tweak
 - Dragonactorscript infinite loop fix
+- Dual Casting Fix
 - Environs - Master Plugin
 - Falmer Overhaul - New models and textures
 - Falmer Overhaul - My patches SE - SIC 4K
