@@ -95,6 +95,8 @@ Added:
 - There Is No Umbra - Chapter III **(Updated quest mod)**
 - Unmarked Locations Pack - Sovngarde
 - Vampire Lines Expansion
+- Vanilla Script (micro)Optimizations
+- Vanilla Scripting Enhancements
 - Warden of the Coast **(New quest mod)**
 - Which Key NG
 - Wild Witch Outfit
@@ -135,6 +137,7 @@ Updated:
 - New Vominheim
 - New Vominheim Lux Patch
 - OBIS SE - Organized Bandits In Skyrim Special Edition
+- Papyrus Tweaks NG
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
