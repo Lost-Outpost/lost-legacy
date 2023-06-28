@@ -107,6 +107,7 @@ Added:
 - xavbio - Elven Armors and Weapons Retexture SE
 - xavbio - Steel Armors and Weapons Retexture SE
 - xavbio - Vigilant's Molag Bal Dragon Retexture SE
+- Xelzaz - Sirenroot Patch
 
 Updated:
 - Animation Motion Revolution
@@ -199,7 +200,8 @@ Removed:
 
 Fixes/Tweaks:
 - Adjusted Aetherium armor crafting to use Vokriinator perks
-- Contextual Crosshair is now off by default and has to be enabled in MO2 if desired
+- Changed the delayed start requirements for Vigilant, Unslaad, and Glenmoril to level 25 only
+- Contextual Crosshair is now disabled by default and has to be enabled in MO2 if desired
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Nord Hero Half Pike was added to some Draugr leveled lists
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
