@@ -27,9 +27,12 @@ Added:
 - Auto Input Switch
 - Barter Limit Fix
 - Belethor's Sister - Quest
+- Better Vampires
+- Better Vampire Lords
 - Bleak Falls Tower by snozz2004 (with Lawbringer patch)
 - B.O.O.B.I.E.S (aka Immersive Icons)
 - Brawl Lines Expansion and Fixes
+- Camera Persistence Fixes
 - Colorful Magic (Bosses Only)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
@@ -73,6 +76,7 @@ Added:
 - Open Animation Replacer
 - OWL Patches for some gearshout armors
 - Phenomenally Enriched and Nuanced Ingredients for SkyUI
+- PhotoMode
 - Precision - Whip Patch - One Third Longer (optional)
 - Quest - Baba Yaga and the Labyrinth **(New quest mod)**
 - Reanimated NPC Animations
@@ -84,6 +88,7 @@ Added:
 - Ryn's Mehrunes Dagon's Shrine
 - Ryn's Mehrunes Dagon Shrine - LOTD Patch
 - Shadow of Skyrim - Trembling Hands Unequips
+- Simplicity of Seeding
 - SIRENROOT - Deluge of Deceit **(New quest mod)**
 - Sky Flip for Beyond Reach
 - SkyPal - Your Friendly Papyrus Library
@@ -121,6 +126,7 @@ Updated:
 - Environs - The Ruined Tundra Farmhouse
 - Environs - Whiterun Watchtower Doesn't Stay Broken
 - Gladys the Corgi
+- Gray Cowl of Nocturnal - More to do in Hammerfell
 - Immersive Armors Retexture and Mesh Fixes SE
 - Infinity UI
 - Keyword Item Distributor
@@ -134,6 +140,7 @@ Updated:
 - Lucifer - Argonian Custom Voiced Follower
 - Lux
 - Lux Orbis
+- MCM Helper SE
 - Merlin the Corgi
 - MO2 Root Builder Plugin
 - New Vominheim
@@ -144,6 +151,7 @@ Updated:
 - powerofthree's Tweaks
 - Precision
 - QuickLootEE - With TCC icons
+- RaceCompatibility with fixes for SSE
 - Relics of Hyrule
 - Remiel-Custom Voiced Dwemer Specialist and Companion
 - Ryn's Karthspire
@@ -168,6 +176,7 @@ Updated:
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 
 Removed:
+- Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
 - Critter Spawn Congestion Fix
 - Dovahkiin's Vault SSE
 - Dynamic Animation Replacer (replaced by Open Animation Replacer)
@@ -187,6 +196,7 @@ Removed:
 - Rawlith - A Khajiit Home
 - Relics of Hyrule Growables
 - Relics of Hyrule - Triumvirate Druidcraft Integration
+- Sacrosanct - Vampires of Skyrim (replaced by Better Vampires)
 - Sales Overflow Solved (replaced by Barter Limit Fix)
 - Sarethi Manor - Morrowind mansion with village
 - Shadowstar Castle SE
