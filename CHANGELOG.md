@@ -198,6 +198,7 @@ Removed:
 - Relics of Hyrule Growables
 - Relics of Hyrule - Triumvirate Druidcraft Integration
 - Sacrosanct - Vampires of Skyrim (replaced by Better Vampires)
+- Sacrosanct - Vampires of Skyrim - Settings Loader
 - Sales Overflow Solved (replaced by Barter Limit Fix)
 - Sarethi Manor - Morrowind mansion with village
 - Shadowstar Castle SE
