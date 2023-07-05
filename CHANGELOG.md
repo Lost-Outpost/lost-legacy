@@ -33,6 +33,7 @@ Added:
 - B.O.O.B.I.E.S (aka Immersive Icons)
 - Brawl Lines Expansion and Fixes
 - Camera Persistence Fixes
+- Constellation Magic
 - Colorful Magic (Bosses Only)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
@@ -61,6 +62,7 @@ Added:
 - JK's Riften Outskirts Patch Collection
 - JS Knapsacks SE
 - Legacy of the Dragonborn Delay Patch (OPTIONAL, Disabled by default)
+- Legacy of the Dragonborn 2K - Cleaned and Upscaled Textures for LotD
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
 - Memorable Dragons
@@ -108,6 +110,7 @@ Added:
 - Which Key NG
 - Wild Witch Outfit
 - Winged Hussar Armor and Weapons
+- Winter Wonderland Magic
 - xavbio - Daedric Armors and Weapons Retexture SE
 - xavbio - Ebony Armors and Weapons Retexture SE
 - xavbio - Elven Armors and Weapons Retexture SE
@@ -132,6 +135,7 @@ Updated:
 - Infinity UI
 - Keyword Item Distributor
 - Khajiit Will Follow
+- Know Your Enemy
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches (Official)
 - Legacy of the Dragonborn - The Curators Companion
@@ -166,6 +170,8 @@ Updated:
 - Song of the Green (Auri Follower)
 - Spell Perk Item Distributor (SPID)
 - Splashes of Storms
+- Storm Calling Magic 2
+- Storm Calling Magic 2 - Crimson Lightning
 - The Great City of Winterhold Patch Collection
 - The Wheel of Time - Fully Voiced Follower and Quests
 - The Wheels of Lull SE
