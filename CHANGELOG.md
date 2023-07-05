@@ -54,6 +54,7 @@ Added:
 - Huntsman - A Hunting Expansion
 - IHarvest
 - IHarvest - Settings Loader
+- Improved Camera SE
 - Inventory Interface Information Injector
 - Inventory Interface Information Injector for Skyrim 1.5
 - JK's Riften Outskirts
