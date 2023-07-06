@@ -145,6 +145,7 @@ Updated:
 - Lucifer - Argonian Custom Voiced Follower
 - Lux
 - Lux Orbis
+- Lux Via
 - MCM Helper SE
 - Merlin the Corgi
 - MO2 Root Builder Plugin
@@ -167,6 +168,7 @@ Updated:
 - Shadow of Skyrim
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
+- Skyrim's Got Talent - Improve As a Bard
 - Song of the Green (Auri Follower)
 - Spell Perk Item Distributor (SPID)
 - Splashes of Storms
@@ -224,6 +226,8 @@ Fixes/Tweaks:
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
 - Nord Hero Half Pike was added to some Draugr leveled lists
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
+- Skyrim's Got Talent is now enabled by default and moved out of the optional section (Jay fixed the bug where people would be screaming or you'd play randomly)
+- Reran Synthesis
 
 
 
