@@ -65,6 +65,7 @@ Added:
 - Legacy of the Dragonborn 2K - Cleaned and Upscaled Textures for LotD
 - LOTD Armor of the Crusader Retexture SE
 - Lucien - Room Markers for Dumzbthar
+- Lunar Forge Crafting
 - Memorable Dragons
 - Merchant - A Trading Expansion
 - MergeMapper
