@@ -46,6 +46,7 @@ Added:
 - DLC2PillarBuilderActorScript Tweak
 - Dragonactorscript infinite loop fix
 - Dual Casting Fix
+- Enemy (R)Evolution of Skyrim - EEOS (Optional difficulty mod - disabled by default)
 - Environs - Master Plugin
 - Falmer Overhaul - New models and textures
 - Falmer Overhaul - My patches SE - SIC 4K
