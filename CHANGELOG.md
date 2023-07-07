@@ -52,6 +52,7 @@ Added:
 - Falmer Overhaul - My patches SE - SIC 4K
 - Forsworn and Thalmor Lines Expansion
 - FYX - Eastern Empire Company Building
+- Genesis Unleashed Levelled - Dungeon Spawns and Encounters and Treasure (Optional difficulty mod - disabled by default)
 - Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
 - IHarvest
