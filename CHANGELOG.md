@@ -150,6 +150,7 @@ Updated:
 - MCM Helper SE
 - Merlin the Corgi
 - MO2 Root Builder Plugin
+- New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
 - New Vominheim
 - New Vominheim Lux Patch
 - OBIS SE - Organized Bandits In Skyrim Special Edition
