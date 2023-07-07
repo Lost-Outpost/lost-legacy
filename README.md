@@ -109,9 +109,7 @@ Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best
 
 ### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+This entire Modlist is in English and the install will fail if it is not set to English in Steam. Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 ### Clean Skyrim
 
@@ -132,20 +130,20 @@ Start the game and exit once you're in the main menu. This will ensure any setti
 
 ### Preparations
 
-Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Create a new folder near the root of your drive named like `C:\Wabbajack`. This folder **must not** be in a _common folder_ like your Desktop, Downloads, or Program Files folder.
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/) and place the `Wabbajack.exe` file in the folder you just created (i.e. C:\Wabbajack\Wabbajack.exe).
 
 ### Downloading and Installing
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Lost Legacy" (i.e. C:\Lost Legacy\)
-2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish, and can be shared among other modlists to save space
-3. Download the latest release of `Lost Legacy` from [here](https://github.com/Lost-Outpost/lost-legacy/releases/) - DO NOT RUN THIS FILE DIRECTLY - Run wabbajack.exe, select Install from Disk, then pick the file you just downloaded.
-4. Select the created folder in step 1 as your installation folder
-5. Select the created folder in step 2 as your downloads folder
-6. Click the Go/Begin button and wait for Wabbajack to finish
+2. Go back to your drive, and create a new folder, called "Wabbajack Downloads". This specific folder can be on a different drive if you wish, and can be shared among other modlists to save space
+3. Run wabbajack.exe, select Browse Modlists, find Lost Legacy, click the download icon in the bottom right of the beautiful Lost Legacy artwork, then click hte Play button that appears after that brief download finishes.
+4. In the next window, select the created folder in step 1 as your Modlist Installation Location (i.e. C:\Lost Legacy\)
+5. Select the created folder in step 2 as your Resource Download Location (i.e. C:\Wabbajack Downloads\)
+6. Click the Go/Begin button and wait for Wabbajack to finish (this may take several hours)
 
 ### Problems with Wabbajack
 
@@ -154,8 +152,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 Seriously, simply retrying the Wabbajack download fixes most problems.
 
 **Could not download x**:
-
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
 Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
 
@@ -171,7 +167,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Unlike regular Skyrim installation or some other Wabbajack Lists, Lost Legacy comes with the **Stock Game Feature**.
 
-Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your installation folder, cleaned and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install Lost Legacy using Wabbajack, you need not to move anything to your regular Skyrim installation folder.
+Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your modlist installation folder, cleaned, and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install Lost Legacy using Wabbajack, you need not to move anything to your regular Skyrim installation folder.
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
