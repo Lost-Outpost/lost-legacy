@@ -122,9 +122,11 @@ Added:
 - Xelzaz - Sirenroot Patch
 
 Updated:
+- A Few More Draugr
 - Animation Motion Revolution
 - Bandit Lines Expansion
 - Base Object Swapper
+- Castlevania - Vampire Killer
 - Civil War Lines Expansion
 - College of Winterhold - Quest Expansion
 - Compass Navigation Overhaul
@@ -227,6 +229,7 @@ Fixes/Tweaks:
 - Changed the delayed start requirements for Vigilant, Unslaad, and Glenmoril to level 25 only
 - Contextual Crosshair is now disabled by default and has to be enabled in MO2 if desired
 - Disabled Dawnguard Encounters in Immersive Encounters MCM as it was causing crashing for some people
+- Fixed landscape seam outside of Winterhold near the carriage
 - Fixed missing Stonehills building interior
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
