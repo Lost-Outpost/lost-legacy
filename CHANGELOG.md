@@ -100,11 +100,13 @@ Added:
 - SkyPal - Your Friendly Papyrus Library
 - Skyrim on Skooma
 - Soul Cairn Script Tweaks
+- Stalking Lanterns Fix - LotD Lux Orbis
 - The Gray Cowl of Nocturnal SE - Retexture 2K
 - The Handy Icon Collection Collective
 - The Timelost Dwemer - A Deep Elf Race SE
 - The Welkynar Knight - Quest **(New quest mod)**
 - There Is No Umbra - Chapter III **(Updated quest mod)**
+- Ultimate College of Winterhold Hole fix
 - Unmarked Locations Pack - Sovngarde
 - Vampire Lines Expansion
 - Vanilla Script (micro)Optimizations
@@ -194,6 +196,8 @@ Removed:
 - Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
 - Critter Spawn Congestion Fix
 - Dovahkiin's Vault SSE
+- Dwemer Pipework Reworked
+- Dwemer Pipework Reworked - optional ENB Lights
 - Dynamic Animation Replacer (replaced by Open Animation Replacer)
 - Ebongrove
 - Ebongrove - Buyable Home Patch
@@ -225,6 +229,7 @@ Removed:
 - Vulav - A Cyrodiil Home
 
 Fixes/Tweaks:
+- Added conditions to "Just Desserts" effect
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 - Changed the delayed start requirements for Vigilant, Unslaad, and Glenmoril to level 25 only
 - Contextual Crosshair is now disabled by default and has to be enabled in MO2 if desired
@@ -234,6 +239,7 @@ Fixes/Tweaks:
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
 - Nord Hero Half Pike was added to some Draugr leveled lists
+- Reviewed and fixed a bunch of my custom patches
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
 - Skyrim's Got Talent is now enabled by default and moved out of the optional section (Jay fixed the bug where people would be screaming or you'd play randomly)
 - Reran Synthesis
