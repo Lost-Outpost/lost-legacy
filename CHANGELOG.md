@@ -77,6 +77,7 @@ Added:
 - No More Blinding Fog - SSE Port
 - Nordic ui 32 by 9 (ultrawide support)
 - NORDIC UI - Ultrawide Fixes and Patches 32 by 9
+- NPC Stuck in Bleedout fix
 - NPCs React To Invisibility
 - Object Categorization Framework
 - Open Animation Replacer
@@ -103,6 +104,7 @@ Added:
 - Stalking Lanterns Fix - LotD Lux Orbis
 - The Gray Cowl of Nocturnal SE - Retexture 2K
 - The Handy Icon Collection Collective
+- The Heart of Dibella - Quest Expansion
 - The Timelost Dwemer - A Deep Elf Race SE
 - The Welkynar Knight - Quest **(New quest mod)**
 - There Is No Umbra - Chapter III **(Updated quest mod)**
@@ -236,8 +238,11 @@ Fixes/Tweaks:
 - Disabled Dawnguard Encounters in Immersive Encounters MCM as it was causing crashing for some people
 - Fixed landscape seam outside of Winterhold near the carriage
 - Fixed missing Stonehills building interior
+- Fixed Vulthuryol so he correctly drops a key
+- Moved arcane table blocking the upstairs college hallway
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
+- Moved thunderchild shrine so it's not clipping the tundra farmhouse
 - Nord Hero Half Pike was added to some Draugr leveled lists
 - Reviewed and fixed a bunch of my custom patches
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
