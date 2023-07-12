@@ -210,6 +210,7 @@ Removed:
 - Kalnn - A Vampire's Hobbit Hole
 - Khajiit Will Follow - The Forgotten City
 - Khajiit Will Follow - Vigilant (MALE FOLLOWERS ONLY)
+- Krovaxis
 - Menskr - A Winterhold Home
 - Myrkheimr SE
 - Nimstette - A Cyrodiil Home
