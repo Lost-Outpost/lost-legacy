@@ -53,13 +53,18 @@ Added:
 - Forsworn and Thalmor Lines Expansion
 - FYX - Eastern Empire Company Building
 - Genesis Unleashed Levelled - Dungeon Spawns and Encounters and Treasure (Optional difficulty mod - disabled by default)
+- Gore (follower mod)
+- GORE - Miscellaneous Patches
 - Hearthfire multiple adoptions
 - Huntsman - A Hunting Expansion
+- I'm Talkin' Here
 - IHarvest
 - IHarvest - Settings Loader
-- Improved Camera SE
+- Improved Camera SE (Optional - Disabled by default, works well overall, but still a little buggy)
 - Inventory Interface Information Injector
 - Inventory Interface Information Injector for Skyrim 1.5
+- JK's Markarth Outskirts (Check it out, it looks fantastic!)
+- JK's Markarth Outskirts Patch Collection
 - JK's Riften Outskirts
 - JK's Riften Outskirts Patch Collection
 - JS Knapsacks SE
@@ -94,7 +99,9 @@ Added:
 - Ryn's Dragon Mounds Collection
 - Ryn's Mehrunes Dagon's Shrine
 - Ryn's Mehrunes Dagon Shrine - LOTD Patch
+- Ryn's Standing Stones Patch Collection
 - Shadow of Skyrim - Trembling Hands Unequips
+- Simple Outfit System
 - Simplicity of Seeding
 - SIRENROOT - Deluge of Deceit **(New quest mod)**
 - Sky Flip for Beyond Reach
@@ -102,6 +109,8 @@ Added:
 - Skyrim on Skooma
 - Soul Cairn Script Tweaks
 - Stalking Lanterns Fix - LotD Lux Orbis
+- Take Notes - Journal of the Dragonborn SSE (changed keybind to **N**)
+- Take Notes - Journal of the Dragonborn SSE - Settings Loader
 - The Gray Cowl of Nocturnal SE - Retexture 2K
 - The Handy Icon Collection Collective
 - The Heart of Dibella - Quest Expansion
@@ -134,14 +143,23 @@ Updated:
 - Civil War Lines Expansion
 - College of Winterhold - Quest Expansion
 - Compass Navigation Overhaul
+- Conditional Expressions - Subtle Face Animations
 - Contextual Crosshair
 - Detection Meter
+- Dyndolod
+- Dyndolod Resources
+- Eating Animations And Sounds SE
+- Eating animations - My HD version SE
 - Environs - The Ruined Tundra Farmhouse
 - Environs - Whiterun Watchtower Doesn't Stay Broken
 - Gladys the Corgi
 - Gray Cowl of Nocturnal - More to do in Hammerfell
+- Updated Gray Cowl of Nocturnal - Camels and New Animals in Alik'r Desert (ESL now, I also removed all changes to the Tamriel worldspace so this is strictly contained inside the Gray Cowl worldspace)
 - Immersive Armors Retexture and Mesh Fixes SE
 - Infinity UI
+- JK's Blue Palace
+- JK's Interiors Patch Collection
+- JKs Guild HQ Interiors Patch Collection
 - Keyword Item Distributor
 - Khajiit Will Follow
 - Know Your Enemy
@@ -163,6 +181,7 @@ Updated:
 - New Vominheim Lux Patch
 - OBIS SE - Organized Bandits In Skyrim Special Edition
 - Papyrus Tweaks NG
+- Payload Interpreter
 - powerofthree's Papyrus Extender
 - powerofthree's Tweaks
 - Precision
@@ -172,7 +191,10 @@ Updated:
 - Remiel-Custom Voiced Dwemer Specialist and Companion
 - Ryn's Karthspire
 - Ryn's Standing Stones
+- Schlitzohr - Granite Hill Village
+- Schlitzohr - Iggath
 - Schlitzohr - Oakwood
+- Schlitzohr - Sunthgat
 - SDA Patch Hub SE (optional)
 - Serana Dialogue Add-On (optional)
 - Shadow of Skyrim
@@ -193,6 +215,7 @@ Updated:
 - VIGILANT Voiced - English Addon
 - VIGILANT - Delayed Start (Also changed to level 25 requirement only)
 - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- xLodGEN
 
 Removed:
 - Amulets of Skyrim - Desecrated Amulet of Auriel Patch for Sacrosanct and Sacrilege
@@ -222,6 +245,7 @@ Removed:
 - Sacrosanct - Vampires of Skyrim - Settings Loader
 - Sales Overflow Solved (replaced by Barter Limit Fix)
 - Sarethi Manor - Morrowind mansion with village
+- Schlitzohr - Granitehall (Incompatible with new Granite Hill update)
 - Shadowstar Castle SE
 - Solitude Rectory - Tiny Imperial Temple Home
 - Treasure Hunter for SSE - fixed esp (No longer needed)
@@ -233,21 +257,34 @@ Removed:
 
 Fixes/Tweaks:
 - Added conditions to "Just Desserts" effect
+- Added placeholder plugin for Chaper II optional music mod so the plugin doesn't sit at the bottom (it isn't needed but people kept asking about it lol)
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 - Changed the delayed start requirements for Vigilant, Unslaad, and Glenmoril to level 25 only
+- Character creation: Removed starting books from Timelost Dwemer, you can grab them from the end table in the starting room (it kept giving them to all races for some reason)
+- Character creation: Removed {customize or reset better vampire} power from being automatically added upon character creation
+- Character creation: Removed "Bless Home" spell from start. Added spell tome to end table in starting room
+- Character creation: Removed "Inspect Target" power from start if not using Know Your Enemy
+- Character creation: Removed Remi debug spell that would be added to some characters at start
 - Contextual Crosshair is now disabled by default and has to be enabled in MO2 if desired
+- Disabled custom Blue Palace Lux Crash fix, Lux had an update so this needs to get remade (if it's even needed, keep an eye out for Blue Palace crashes)
 - Disabled Dawnguard Encounters in Immersive Encounters MCM as it was causing crashing for some people
+- Fixed compass not showing any ? markers
 - Fixed landscape seam outside of Winterhold near the carriage
 - Fixed missing Stonehills building interior
+- Fixed Soul Cairn having no fog
 - Fixed Vulthuryol so he correctly drops a key
+- Installed older version of Lux - Alternate Perspective that looks better
 - Moved arcane table blocking the upstairs college hallway
 - Moved Ebony Hearthfire doll which was previously clipping under stuff
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
 - Moved thunderchild shrine so it's not clipping the tundra farmhouse
 - Nord Hero Half Pike was added to some Draugr leveled lists
+- Removed playable dwarf race from Lost Races of Aetherius since we have Timelost Dwemer now
 - Reviewed and fixed a bunch of my custom patches
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
 - Skyrim's Got Talent is now enabled by default and moved out of the optional section (Jay fixed the bug where people would be screaming or you'd play randomly)
+- Reran Dyndolod
+- Reran Nemesis
 - Reran Synthesis
 
 
