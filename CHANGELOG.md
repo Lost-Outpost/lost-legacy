@@ -260,6 +260,7 @@ Fixes/Tweaks:
 - Added placeholder plugin for Chaper II optional music mod so the plugin doesn't sit at the bottom (it isn't needed but people kept asking about it lol)
 - Adjusted Aetherium armor crafting to use Vokriinator perks
 - Changed the delayed start requirements for Vigilant, Unslaad, and Glenmoril to level 25 only
+- Character creation: Added Spell Tome: Healing to nightstand in starting room
 - Character creation: Removed starting books from Timelost Dwemer, you can grab them from the end table in the starting room (it kept giving them to all races for some reason)
 - Character creation: Removed {customize or reset better vampire} power from being automatically added upon character creation
 - Character creation: Removed "Bless Home" spell from start. Added spell tome to end table in starting room
