@@ -44,6 +44,7 @@ Added:
 - DLC2dunSeekerInvisScript Fix
 - DLC2MiraakScript Fix
 - DLC2PillarBuilderActorScript Tweak
+- DPI Scaling Fix
 - Dragonactorscript infinite loop fix
 - Dual Casting Fix
 - Enemy (R)Evolution of Skyrim - EEOS (Optional difficulty mod - disabled by default)
