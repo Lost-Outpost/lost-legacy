@@ -36,7 +36,6 @@ Added:
 - Camera Persistence Fixes
 - Caught Red Handed - Quest Expansion
 - Constellation Magic
-- Colorful Magic (Bosses Only)
 - ConsolePlusPlus
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
 - Daedric Shrines - All in One - My Patches by Xtudo
