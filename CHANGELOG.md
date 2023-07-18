@@ -23,6 +23,7 @@
 Added:
 - 4K Dragon Skeleton
 - Alchemy Recipe Expansion
+- Antique Statue - My version SE by Xtudo - 2K
 - Aura's Scrumptious Supplement
 - Auto Input Switch
 - Barter Limit Fix
@@ -33,6 +34,7 @@ Added:
 - B.O.O.B.I.E.S (aka Immersive Icons)
 - Brawl Lines Expansion and Fixes
 - Camera Persistence Fixes
+- Caught Red Handed - Quest Expansion
 - Constellation Magic
 - Colorful Magic (Bosses Only)
 - ConsolePlusPlus
@@ -134,6 +136,13 @@ Added:
 - xavbio - Steel Armors and Weapons Retexture SE
 - xavbio - Vigilant's Molag Bal Dragon Retexture SE
 - Xelzaz - Sirenroot Patch
+- OPTIONAL EXPERIMENTAL - Vokriinator Black and its requirements:
+-   Mysticism - A Magic Overhaul
+-   SPERG - Skyrim Perk Enhancements and Rebalanced Gameplay SSE Port
+-   Adamant - A Perk Overhaul
+-   Path of Sorcery - Magic Perk Overhaul 2.6
+-   Vokriinator Black
+-   Vokriinator Black Patch for Lost Legacy
 
 Updated:
 - A Few More Draugr
@@ -155,8 +164,10 @@ Updated:
 - Environs - Whiterun Watchtower Doesn't Stay Broken
 - Gladys the Corgi
 - Gray Cowl of Nocturnal - More to do in Hammerfell
-- Updated Gray Cowl of Nocturnal - Camels and New Animals in Alik'r Desert (ESL now, I also removed all changes to the Tamriel worldspace so this is strictly contained inside the Gray Cowl worldspace)
+- Gray Cowl of Nocturnal - Camels and New Animals in Alik'r Desert (ESL now, I also removed all changes to the Tamriel worldspace so this is strictly contained inside the Gray Cowl worldspace)
+- House of Horrors - Quest Expansion
 - Immersive Armors Retexture and Mesh Fixes SE
+- Immersive Rejections
 - Infinity UI
 - JK's Blue Palace
 - JK's Interiors Patch Collection
@@ -202,12 +213,14 @@ Updated:
 - Simplest Horses
 - Skyrim Extended Cut - Saints and Seducers
 - Skyrim's Got Talent - Improve As a Bard
+- Sleeping Expanded - Animations and NPC reactions
 - Song of the Green (Auri Follower)
 - Spell Perk Item Distributor (SPID)
 - Splashes of Storms
 - Storm Calling Magic 2
 - Storm Calling Magic 2 - Crimson Lightning
 - The Great City of Winterhold Patch Collection
+- The Only Cure - Quest Expansion
 - The Wheel of Time - Fully Voiced Follower and Quests
 - The Wheels of Lull SE
 - Treasure Hunter for SSE
