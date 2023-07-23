@@ -35,8 +35,12 @@ Added:
 - Brawl Lines Expansion and Fixes
 - Camera Persistence Fixes
 - Caught Red Handed - Quest Expansion
-- Constellation Magic
+- Comprehensive Attack Speed Patch - SKSE (fixed weapon speed issues with Vokriinator Black, also implements a max weapon speed which is needed lol)
 - ConsolePlusPlus
+- Constellation Magic
+- Constructible Object Custom Keyword System
+- Constructible Object Custom Keyword System for Skyrim 1.5
+- Constructible Object Custom Keyword System - Nordic UI
 - Daedric Shrines - All in One 4k (Replaced all the individual mods)
 - Daedric Shrines - All in One - My Patches by Xtudo
 - Daedric Shrines - Jyggalag
@@ -106,11 +110,13 @@ Added:
 - Simple Outfit System
 - Simplicity of Seeding
 - SIRENROOT - Deluge of Deceit **(New quest mod)**
+- Skill of Sneaking
 - Sky Flip for Beyond Reach
 - SkyPal - Your Friendly Papyrus Library
 - Skyrim on Skooma
 - Soul Cairn Script Tweaks
 - Stalking Lanterns Fix - LotD Lux Orbis
+- Switch Camera During Dialogue
 - Take Notes - Journal of the Dragonborn SSE (changed keybind to **N**)
 - Take Notes - Journal of the Dragonborn SSE - Settings Loader
 - The Gray Cowl of Nocturnal SE - Retexture 2K
@@ -125,6 +131,7 @@ Added:
 - Vanilla Script (micro)Optimizations
 - Vanilla Scripting Enhancements
 - Warden of the Coast **(New quest mod)**
+- Weightless NG
 - Which Key NG
 - Wild Witch Outfit
 - Winged Hussar Armor and Weapons
@@ -142,6 +149,7 @@ Added:
 -   Path of Sorcery - Magic Perk Overhaul 2.6
 -   Vokriinator Black
 -   Vokriinator Black Patch for Lost Legacy
+-   50% more perk points for Vokriinator Black (overwrites the 20% more perk points)
 
 Updated:
 - A Few More Draugr
@@ -283,7 +291,9 @@ Fixes/Tweaks:
 - Disabled custom Blue Palace Lux Crash fix, Lux had an update so this needs to get remade (if it's even needed, keep an eye out for Blue Palace crashes)
 - Disabled Dawnguard Encounters in Immersive Encounters MCM as it was causing crashing for some people
 - Fixed compass not showing any ? markers
+- Fixed Elysium Estates key not being sold by Sajborn or Mallus
 - Fixed landscape seam outside of Winterhold near the carriage
+- Fixed Lux - Blue Palace crash fix patch
 - Fixed missing Stonehills building interior
 - Fixed Soul Cairn having no fog
 - Fixed Vulthuryol so he correctly drops a key
@@ -293,6 +303,7 @@ Fixes/Tweaks:
 - Moved Lost Legacy Encounter Zones to a separate optional mod for people that don't like the semi-deleveled approach
 - Moved thunderchild shrine so it's not clipping the tundra farmhouse
 - Nord Hero Half Pike was added to some Draugr leveled lists
+- Uploaded Dyndolod output files to Nexus. Should help download speed for those files and less installation errors.
 - Removed playable dwarf race from Lost Races of Aetherius since we have Timelost Dwemer now
 - Reviewed and fixed a bunch of my custom patches
 - Shadow of Skyrim is now off by default and has to be enabled in the MCM if desired
