@@ -18,7 +18,7 @@
 
 # Changelog
 
-## 1.2.0 - In Progress (ETA Summer 2023) - NOT Save Compatible
+## 1.2.0 - Released 2023/07/23 - Definitely NOT Save Compatible
 
 Added:
 - 4K Dragon Skeleton
