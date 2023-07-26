@@ -30,13 +30,8 @@
 
 When enabling any optional tweaks, the .esp files (if applicable) should already be placed in the correct order in the plugin list for you, but let me know if you notice it at the end of the plugin list so I can fix that.
 
-### Widescreen
+See [Optionals](OPTIONALS.md) for detailed information.
 
-I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
-
-
-### General Rules
-When enabling optional content, the plugin should be placed in the correct spot automatically, but verify on the right side of MO2 to be sure it isn't loading at the end of the list. For content with its own section, follow the appropriate readme section for it.
 
 ## Mod Configuration
 
