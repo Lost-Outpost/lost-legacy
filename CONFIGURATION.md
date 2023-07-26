@@ -62,6 +62,7 @@ Changing ENB is now easier than ever! Simply open Mod Organizer, scroll down to 
 
 - (Potato mode isn't in 1.2 yet, read the below steps for now) For very low end devices, change the profile at the top of Mod Organizer to POTATO MODE for maximum performance (and severely reduced visuals) !!Do not do the rest of the steps below if using Potato Mode!!
 
+
 - Enable the 5 Performance Mode mods in the bottom left of mo2 (Completely changes the grass and tree setup)
 - Try switching ENB to the "PERFORMANCE - Cathedralist Fantasy" preset (instructions above) (Drastically changes the look of the list, but very performance friendly)
 - Copy the files from `Lost Legacy\profiles\Lost Legacy\Preset - Performance` into `Lost Legacy\profiles\Lost Legacy`
