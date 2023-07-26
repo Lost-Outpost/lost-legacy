@@ -1,6 +1,8 @@
 # Optional Mod Breakdown
 
-### Optional - Combat Mods
+
+## Optional - Combat Mods
+
 
 ### Valhalla Combat
 
@@ -11,27 +13,28 @@ Valhalla Combat implements timed blocking, projectile parrying, stun and executi
 Precision is a mod that provides Havok collisions for melee. This means that using a combination of hitstop, camera shake, weapon trails and recoil, it creates the feel of realistic physics and collisions for melee attacks. This mod works in first and third person. If enabling Precision you must disable the “Lost_Legacy_Nemesis Output” and enable “Precision - Nemesis Output”. There is also an optional “Precision - Whip Patch - One Third Longer” if you wish to use Whips that is recommended alongside Precision, this optional requires Precision.  
 
 
-
-### Optional - Vokriinator Black (EXPERIMENTAL)
+## Optional - Vokriinator Black (EXPERIMENTAL)
 
 ### Vokriinator Black
 
 Vokriinator Black increases the number of perks from Vokriinator substantially. This is done by adding perks from Adamant, Path of Sorcery, SPERG, Mysticism, Vokrii and Ordinator into one huge set of trees. This enables a lot of build variety, but comes at the cost of balance. This is very true to the power-fantasy of Lost Legacy, but is to be used at your own risk. If you want to use Vokriinator Black, you must enable every mod in the “OPTIONAL - Vokriinator Black EXPERIMENTAL - USE AT YOUR OWN RISK” section. The one exception is “50 percent More Perk Points”, which is optional but recommended. This perk calculator can be used to plan your builds or just to see all the perks provided in Vokriinator Black.
 
-### Optional - IED (Immersive Equipment Displays)
+
+## Optional - IED (Immersive Equipment Displays)
 
 ### Immersive Equipment Displays
 
 Immersive Equipment Displays allows for the display of unequipped gear and custom items on both the player character and NPCs. There is a custom in-game UI (default: Backspace) that allows you to configure the positioning of equipped and unequipped gear in real time. This mod may cause random crashes from time to time, so please be warned. If you wish to enable Immersive Equipment Displays, all mods in the “OPTIONAL - IED” section must be enabled.
 
-### Optional  - Serana Dialogue Addon
+
+## Optional  - Serana Dialogue Addon
 
 ### Serana Dialogue Addon
 
 Serana Dialogue Addon is a mod that greatly expands on Serana’s dialogue and features to make her more immersive and interactive. Whilst some of the dialogue may be cringey at times, there is a large expansion of her features and commentary that may benefit all players. If enabling this mod, you must enable all mods in the “OPTIONAL - Serana Dialogue Addon” section. You must start a new character if you want to enable/disable this mod. 
 
 
-### Optional - For Streamers
+## Optional - For Streamers
 
 ### Dice roll of the Gods Minigame
 
@@ -42,7 +45,7 @@ Dice roll of the Gods is a random rolling dice that creates effects in your game
 Wabbajack - A Dice Roll Mod gives the same functionality as the above mod, but with different effects and features, including a cheese wheel explosion, random enemy spawning, and character size/speed adjustments. (Default hotkey: numpad Enter.) This mod can also be enabled/disabled at any time. This mod can be used independently or together with Dice Roll of the Gods.
 
 
-### Optional - Difficulty
+## Optional - Difficulty
 
 ### Enemy (R)evolution of Skyrim - EEOS
 
@@ -60,9 +63,6 @@ Know your Enemy uses a trait system to change the resistances and weakness of cr
 
 Lost Legacy uses encounter zones as detailed in the #Lost Legacy Gameplay section. Should you wish to return to normal level scaling in dungeons, you can disable this mod. This mod is enabled by default. Disabling this mod mid-playthrough should be fine, though you may not see its effects until cells reset after some time.
 
-
-
-
 ### Realistic AI Detection (RAID)
 
 RAID is a mod that changes and rebalances sneaking and AI detection. It gives enemies enhanced sight and hearing abilities, causes them to search for longer when alerted and attempts to bring a lot more factors into consideration when determining whether enemies detect and/or find you when sneaking. This mod is disabled by default, and should only be enabled/disabled prior to a playthrough. 
@@ -72,13 +72,14 @@ RAID is a mod that changes and rebalances sneaking and AI detection. It gives en
 Skyrim Souls RE simply unpauses certain game menus like your inventory, magic selection, and favorites menus so the game still goes on around you (though at a slightly slower pace). This mod can be enabled/disabled any time you wish. You can also edit the ini file if you are familiar with the process to choose which menus you wish to pause and which you do not.
 
 
-### Optional - ENB
+## Optional - ENB
 
 ### ENB Selection
 
 Lost Legacy ships with a variety of ENB presets for you to choose from. By default, MAIN PiCho is enabled, and is the one GP has customized the most to fit the list. If you wish to change ENB you must disable Main PiCho and select a different ENB. Alternatively you may wish to choose no ENB (POTATO MODE - No ENB). ENBs can be changed at any time, so feel free to boot the game up using each one and see what you prefer! 
 
-### Optional Ultrawide (21x9) or (32x9)
+
+## Optional Ultrawide (21x9) or (32x9)
 
 ### Ultrawide Configuration
 
@@ -104,18 +105,14 @@ Contextual Crosshair is a mod that smartly hides the crosshair when not in use. 
 ### Destructible Skyrim - Base Object Swapper
 
 Destructible Skyrim allows you to destroy, break, and knock over many objects from the base game using shouts, magic, or weapon swings. This mod is enabled by default and can be enabled/disabled at any time.
- 
-
 
 ### Dragon Punishment for Cloud District Quips
 
 Dragon Punishment for Cloud District Quips is a mod that punishes Nazeem for his consistent Cloud District Quips (usually he survives, but not always lol). This mod is enabled by default and can be enabled/disabled at any time.
 
-
 ### Improved Camera SE
 
 Improved Camera SE enhances first person gameplay, giving you a body you can see when in first person and playing out animations usually reserved for third person in first person. This mod is disabled by default and can be enabled/disabled at any time. This mod is still in beta, but has very few (minor) bugs remaining.
-
 
 ### Just Desserts
 
@@ -128,7 +125,6 @@ Keyboard Shortcuts enables keyboard shortcuts such as the windows key, alt f4, a
 ### Legacy of the Dragonborn Delay Patch
 
 The Delay Patch for Legacy of the Dragonborn delays the various rewards and quests until higher display counts. Due to the number of displays added in Lost Legacy this allows the museum storylines to progress more slowly. This mod is disabled by default and can be enabled/disabled at any time.
-
 
 ### Nazeem
 
@@ -150,7 +146,6 @@ This small mod makes the fairies from Relics of Hyrule invisible. Much more simp
 
 This small mod makes the fairies from Relics of Hyrule silent. Much more simple than disabling Relics of Hyrule, this and its partner mod (invisible fairies) can both be turned on to ignore most of that mod’s content without disabling it. Alternatively, if you wish to pursue the Relics of Hyrule, this mod can be disabled. This mod is disabled by default and can be enabled/disabled at any time.
 
-
 ### Skyshards
 
 Skyshards adds a number of skyshards in the same fashion as Elder Scrolls Online to create an exploration focused way of gaining perk points. Configurable in game with the book the mod provides, this mod is disabled by default and can be enabled at any time. You should not disable this mod mid- playthrough however. 
@@ -170,5 +165,4 @@ Jeremy Soule Inspired Music adds music inspired by the original composer of Skyr
 ### Vindsvept Music Replacer
 
 Vindsvept is a music replacer that replaces the vanilla music in Skyrim with a more fantasy based playlist. You should not enable more than one music mod at any given time unless you have a merge activated. This mod is disabled by default and can be enabled/disabled at any time as long as it is the only present music mod.
-
 
