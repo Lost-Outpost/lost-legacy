@@ -40,11 +40,20 @@ See [Optionals](OPTIONALS.md) for detailed information.
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
 A few that you may want to tweak:
-- Sunhelm - Can tweak Hunger/Thirst/Sleep/Col settings to your liking
+- Sunhelm - Needs settings can be adjusted to your liking if you choose to play with the mod. It can also be enabled/disabled in the MCM at any time. 
+- A Closer Look - A mod that lets you zoom in to look more closely at something, hotkey can be changed in MCM (default V)
 - The Ultimate Dodge Mod - Can change the dodge settings and hotkey
-- True Directional Movement - Target lock hotkey
+- Dual Wield Parrying - Block key can be changed
+- Leveling Freedom - You can adjust your experience curve and leveling speed in the MCM
+- Shadow of Skyrim - This mod is disabled by default but can be enabled in the MCM. It can cause issues with sometimes losing gear or unusual bugs, but can be disabled again at any time.
+- Simplest Horses - Hotkey can be changed (default H)
+- Timing is Everything - all options can be adjusted to the players’ liking. This mod changes the level at which various quests and events occur.
+- Ultimate Immersion Toggle - Hotkey can be changed (Default X) 
+- Campfire - Various hotkeys can be changed
+- True Directional Movement - Target lock hotkey can be changed (Default middle mouse click)
 - Wildcat combat - Can change the difficulty multipliers and some other combat settings
 - Violens - I have killmoves disabled by default, these can be safely enabled/tweaked
+
 
 ## ENB and Presets
 
