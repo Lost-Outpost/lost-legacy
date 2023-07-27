@@ -18,6 +18,20 @@
 
 # Changelog
 
+## 1.2.1 - In-Progress - Save Compatible
+
+Added:
+- Animation Queue Fix
+
+Updated:
+- Gore
+- Improved Camera SE (Optional mod)
+- SmoothCam
+
+Fixes/Tweaks:
+- For Vokriinator Black Optional - Fixed 50% more perk points addon that was also giving 20% more perk points
+
+
 ## 1.2.0 - Released 2023/07/23 - Definitely NOT Save Compatible
 
 Added:
