@@ -53,7 +53,7 @@
 
 # Introduction
 
-Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
+Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 6000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Optional Vokriinator Black, Valhalla and Precision, and Performance Mode available too!
 
 ### Minimum Specs
 With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. The new potato mode should allow the list to run on low end PCs now too!
