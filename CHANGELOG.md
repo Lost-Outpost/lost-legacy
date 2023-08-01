@@ -22,6 +22,7 @@
 
 Added:
 - Animation Queue Fix
+- Ultrawide patches for Constructible Object Custom Keyword System
 
 Updated:
 - Gore
@@ -30,7 +31,9 @@ Updated:
 - SmoothCam
 
 Fixes/Tweaks:
+- Added placeholder plugin for 50% more perk points optional
 - For Vokriinator Black Optional - Fixed 50% more perk points addon that was also giving 20% more perk points
+- Switched male Tavern Clothes mesh to USSEP instead of SMIM to hopefully help get rid of the stretchy clothes issue some players are reporting
 
 
 ## 1.2.0 - Released 2023/07/23 - Definitely NOT Save Compatible
