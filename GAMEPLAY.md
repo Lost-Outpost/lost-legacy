@@ -79,7 +79,7 @@ In Lost Legacy, you have hundreds of spells and buffs available to you thanks to
 
 Finally, Lost Legacy uses [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) to add a fully fledged out Religion system! You can choose to worship different deities as well as even Daedra. They all provide different up and downsides, please consult the modpage for them as this is a very in depth mod. Religion can be an extremely powerful tool to push your build to the next level. Please note that this list includes [Sneak to follow](https://www.nexusmods.com/skyrimspecialedition/mods/33754).
 
-Lost Legacy uses [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) as it's main Combat Overhaul. [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is included for the jump attacks. [TUDM](https://www.nexusmods.com/skyrimspecialedition/mods/63000) provides dodging. [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) is included to overhaul Skyrim's outdated third person mechanics and to make it a viable playstyle. [Real Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/18183) makes bossfights actually feel like bossfights and not just another generic bandit.
+Lost Legacy uses [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) as it's main Combat Overhaul. [TUDM](https://www.nexusmods.com/skyrimspecialedition/mods/63000) provides dodging. [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) is included to overhaul Skyrim's outdated third person mechanics and to make it a viable playstyle. [Real Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/18183) makes bossfights actually feel like bossfights and not just another generic bandit.
 
 
 
