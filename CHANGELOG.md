@@ -26,6 +26,7 @@ Added:
 Updated:
 - Gore
 - Improved Camera SE (Optional mod)
+- Legacy of The Dragonborn - Museum Exterior Fixes
 - SmoothCam
 
 Fixes/Tweaks:
