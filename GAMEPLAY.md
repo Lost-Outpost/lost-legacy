@@ -72,7 +72,7 @@ In Lost Legacy, you have hundreds of spells and buffs available to you thanks to
 -[Astral Magic 2](https://www.nexusmods.com/skyrimspecialedition/mods/69938)
 -[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
 
-[Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) and [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) overhaul Werewolves and Vampires respectively.
+[Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) and [Better Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/1925) overhaul Werewolves and Vampires respectively.
 
 [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) adds tons of new fun enchantments.
 [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) adds and overhauls shouts. You will also now find "pillars" all over the map to further buff certain shouts.
