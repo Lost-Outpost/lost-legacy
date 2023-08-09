@@ -58,16 +58,17 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 ### Minimum Specs
 With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. The new potato mode should allow the list to run on low end PCs now too!
 
-With performance mode disabled, on my specs (below) I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
+With performance mode disabled, on my specs (below) I typically get 60fps in most areas of the game, and some dense areas like Riften I may drop down to 50ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
 
 My specs: (**NOT requirements**)
-- GTX 1080
+- GTX 4070ti
 - Intel i7-8700k
-- 16 GB RAM
+- 32 GB RAM
 
-Downloads: 106GB  
-Install: 181GB  
-**TOTAL: ~287GB**  
+Downloads: 127GB  
+Install: 208GB  
+**TOTAL: ~335GB**  
+(as of version 1.2.0)
 
 ### Gameplay
 
