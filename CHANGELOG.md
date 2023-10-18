@@ -27,12 +27,19 @@ Added:
 Updated:
 - Gore
 - Improved Camera SE (Optional mod)
+- Khajiit Will Follow
 - Legacy of The Dragonborn - Museum Exterior Fixes
 - SmoothCam
+- Warden of the Coast
 
 Fixes/Tweaks:
 - Added placeholder plugin for 50% more perk points optional
+- Fixed Solitude Clockwork Terminus missing wall (again)
 - For Vokriinator Black Optional - Fixed 50% more perk points addon that was also giving 20% more perk points
+- Removed Ancient Knowledge requirement for Dwarven Crafting
+- Removed Black Book requirement from MLU - Animated Armoury weapons
+- Removed scabbard for Imperial Rapier because it looked strange
+- Removed overlapping table over the alchemy table in Blue Palace mage room
 - Switched male Tavern Clothes mesh to USSEP instead of SMIM to hopefully help get rid of the stretchy clothes issue some players are reporting
 
 
