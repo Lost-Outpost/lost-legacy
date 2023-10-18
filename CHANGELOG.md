@@ -25,12 +25,21 @@ Added:
 - Ultrawide patches for Constructible Object Custom Keyword System
 
 Updated:
+- College of Winterhold - Quest Expansion
+- GLENMORIL
+- Glenmoril - English Translation SE
 - Gore
 - Improved Camera SE (Optional mod)
 - Khajiit Will Follow
 - Legacy of The Dragonborn - Museum Exterior Fixes
+- New Vominheim - SE
+- Photo Mode
 - SmoothCam
+- The Welkynar Knight - Quest
+- VIGILANT SE
+- VIGILANT Voiced - English Addon
 - Warden of the Coast
+- Xelzaz Follower
 
 Fixes/Tweaks:
 - Added placeholder plugin for 50% more perk points optional
