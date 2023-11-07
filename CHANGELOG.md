@@ -22,20 +22,25 @@
 
 Added:
 - Animation Queue Fix
+- ElSopa - Training Dummies Redone
 - Ultrawide patches for Constructible Object Custom Keyword System
 
 Updated:
 - College of Winterhold - Quest Expansion
+- Custom Skills - HandToHand
 - GLENMORIL
 - Glenmoril - English Translation SE
 - Gore
 - Improved Camera SE (Optional mod)
 - Khajiit Will Follow
 - Legacy of The Dragonborn - Museum Exterior Fixes
+- Lux
 - New Vominheim - SE
 - Photo Mode
 - SmoothCam
+- The Tools of Kagrenac
 - The Welkynar Knight - Quest
+- True Directional Movement
 - VIGILANT SE
 - VIGILANT Voiced - English Addon
 - Warden of the Coast
@@ -45,6 +50,7 @@ Fixes/Tweaks:
 - Added placeholder plugin for 50% more perk points optional
 - Fixed Solitude Clockwork Terminus missing wall (again)
 - For Vokriinator Black Optional - Fixed 50% more perk points addon that was also giving 20% more perk points
+- Relics of Hyrule - Razor Sword was tagged as a dagger, swapped it to a sword as that appears to be the intended weapon type
 - Removed Ancient Knowledge requirement for Dwarven Crafting
 - Removed Black Book requirement from MLU - Animated Armoury weapons
 - Removed scabbard for Imperial Rapier because it looked strange
