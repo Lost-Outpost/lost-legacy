@@ -51,12 +51,14 @@ Fixes/Tweaks:
 - Fixed Bleak Falls Tower not being claimable after clearing the bandits out (Lawbringer)
 - Fixed crack in the ground outside Merryfair Farm
 - Fixed Solitude Clockwork Terminus missing wall (again)
+- Fixed up some old patches for mods that updated
 - For Vokriinator Black Optional - Fixed 50% more perk points addon that was also giving 20% more perk points
 - Relics of Hyrule - Razor Sword was tagged as a dagger, swapped it to a sword as that appears to be the intended weapon type
 - Removed Ancient Knowledge requirement for Dwarven Crafting
 - Removed Black Book requirement from MLU - Animated Armoury weapons
 - Removed scabbard for Imperial Rapier because it looked strange
 - Removed overlapping table over the alchemy table in Blue Palace mage room
+- Split out a few patches so Relics of Hyrule is easier to remove (still need to rerun dyndolod and synthesis)
 - Switched male Tavern Clothes mesh to USSEP instead of SMIM to hopefully help get rid of the stretchy clothes issue some players are reporting
 
 
