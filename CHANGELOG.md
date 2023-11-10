@@ -18,7 +18,7 @@
 
 # Changelog
 
-## 1.2.1 - In-Progress - Save Compatible
+## 1.2.1 - Released 2023/11/09 - Save Compatible
 
 Added:
 - Animation Queue Fix
@@ -26,6 +26,7 @@ Added:
 - Ultrawide patches for Constructible Object Custom Keyword System
 
 Updated:
+- Beyond Skyrim - Bruma
 - College of Winterhold - Quest Expansion
 - Custom Skills - HandToHand
 - GLENMORIL
