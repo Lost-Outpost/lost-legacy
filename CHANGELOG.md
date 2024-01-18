@@ -18,6 +18,10 @@
 
 # Changelog
 
+## 1.2.1d - Released 2024/1/18 - Save Compatible
+- Recompiled to work with the latest Skyrim update
+- Added SB - Better Blending Helgen Mud because the Skyrim update somehow broke that texture
+
 ## 1.2.1 - Released 2023/11/09 - Save Compatible
 
 Added:
