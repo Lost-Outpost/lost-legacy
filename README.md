@@ -185,7 +185,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Starting your Lost Legacy Playthrough
 
-**AFTER WABBAJACK SAYS INSTALL COMPLETE**, you will find a file called "ModOrganizer" or "ModOrganizer.exe" in the folder you installed Lost Legacy. You specified this folder in Wabbajack before starting the install. After opening this file you might be greeted with a popup about the registry key not matching. **MAKE SURE YOU PRESS "YES"**, the game will not work otherwise. Another common popup is [this](https://media.discordapp.net/attachments/972219567654977606/1002273919761395752/unknown.png) about NXM links. Press yes, but it only really matters if you are planning on adding mods to the list. 
+**AFTER WABBAJACK SAYS INSTALL COMPLETE**, you will find a file called "ModOrganizer" or "ModOrganizer.exe" in the folder you installed Lost Legacy. You specified this folder in Wabbajack before starting the install. After opening this file you might be greeted with a popup about the registry key not matching. **MAKE SURE YOU PRESS "YES"**, the game will not work otherwise. Another common popup is about NXM links. Press yes, but it only really matters if you are planning on adding mods to the list. 
 
 Before we actually launch the game, you should check the **Final Checklist** section aswell as the [Configuration Page](https://github.com/Lost-Outpost/lost-legacy/blob/main/CONFIGURATION.md) to enable any optional content and tweaks like the performance options. Come back to this section after you are done with those two.
 
