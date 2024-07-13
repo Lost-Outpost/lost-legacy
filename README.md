@@ -66,6 +66,11 @@ My specs: (**NOT requirements**)
 - GTX 4070ti
 - Intel i7-8700k
 - 32 GB RAM
+  
+Well over 45fps with some stutters: (**NOT requirements**)
+- RX6600 (just under RTX 3060)
+- ryzen 5 3600
+- 16 GB RAM
 
 Downloads: 127GB  
 Install: 208GB  
