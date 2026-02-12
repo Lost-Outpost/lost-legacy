@@ -15,6 +15,8 @@
 
 ---
 
+***2.0 BETA5 IS UP ON THE NEXUS FOR TESTING, BUT THE README HAS NOT YET BEEN UPDATED***
+
 **Modlist Download: [Lost Legacy.wabbajack](https://github.com/Lost-Outpost/lost-legacy/releases/)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
